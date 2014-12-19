@@ -1,23 +1,28 @@
 ###
 # Blog settings
 ###
+Time.zone = "Tokyo"
 
-# Time.zone = "UTC"
+activate :syntax
+activate :directory_indexes # for convert URL from Wordpress
+# activate :search_engine_sitemap
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   # blog.prefix = "blog"
+  blog.name = "gomlog"
 
   # blog.permalink = "{year}/{month}/{day}/{title}.html"
+  blog.permalink = "{year}{month}{day}_{title}"
   # Matcher for blog source files
   blog.sources = "posts/{year}-{month}-{day}-{title}.html"
-  # blog.taglink = "tags/{tag}.html"
+  blog.taglink = "tags/{tag}.html"
   # blog.layout = "layout"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
-  # blog.year_link = "{year}.html"
-  # blog.month_link = "{year}/{month}.html"
-  # blog.day_link = "{year}/{month}/{day}.html"
+  blog.year_link = "{year}.html"
+  blog.month_link = "{year}/{month}.html"
+  blog.day_link = "{year}/{month}/{day}.html"
   blog.default_extension = ".md"
 
   blog.tag_template = "tag.html"
@@ -25,12 +30,20 @@ activate :blog do |blog|
 
   # Enable pagination
   blog.paginate = true
-  blog.per_page = 10
+  blog.per_page = 5
   # blog.page_link = "page/{num}"
 end
 
+
+
+activate :google_analytics do |ga|
+  ga.tracking_id = 'UA-769146-3'
+  ga.development = false
+  ga.minify = true
+end
+
 page "/feed.xml", layout: false
-page "/sitemap.xml", layout: false
+# page "/sitemap.xml", layout: false
 
 ###
 # Compass
@@ -90,7 +103,9 @@ set :markdown_engine, :redcarpet
 # activate :automatic_image_sizes
 
 # Reload the browser automatically whenever files change
-activate :livereload
+configure :development do
+    activate :livereload
+end
 
 # Methods defined in the helpers block are available in templates
 # helpers do
@@ -103,16 +118,18 @@ activate :livereload
 # Site Settings
 ###
 # Set site setting, used in helpers / sitemap.xml / feed.xml.
-set :site_url, 'http://blog.url.com'
-set :site_author, 'Blog author'
-set :site_title, 'Blog title'
+set :site_url, 'http://gomlog.com'
+#set :url_root, 'http://gomlog.com'
+set :site_author, 'gom'
+set :site_title, 'gomlog'
 set :site_description, 'Blog description'
+#set :site_subtitle, ''
 # Select the theme from bootswatch.com.
 # If false, you can get plain bootstrap style.
 # set :theme_name, 'flatly'
-set :theme_name, false
+set :theme_name, 'cerulean'
 # set @analytics_account, like "XX-12345678-9"
-@analytics_account = false
+@analytics_account = 'UA-769146-3'
 
 # Asset Settings
 set :css_dir, 'css'

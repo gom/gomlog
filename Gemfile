@@ -21,3 +21,9 @@ gem "nokogiri", "~> 1.6.1"
 
 # For feed.xml.builder/sitemap.xml.builder
 gem "builder", "~> 3.0"
+
+# for me
+gem "middleman-syntax"
+gem "middleman-disqus"
+gem "middleman-google-analytics"
+gem "middleman-search_engine_sitemap"
