@@ -1,19 +1,25 @@
 .col-lg-3.col-md-3
   .well
+    h4 Recent Posts
+    ol
+      - blog.articles[0...10].each do |article|
+        li
+          = link_to article.title, article
+  .well
+    h4 By year
+    ul.list-unstyled 
+      - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
+        li
+          = link_to year, blog_year_path(year)
+          |  (
+          = articles.size
+          | )
+  .well
     h4 Tags
     ul.list-unstyled
       - blog.tags.each do |tag, articles|
         li
           = link_to tag, tag_path(tag)
-          |  (
-          = articles.size
-          | )
-  .well
-    h4 By year
-    ol
-      - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
-        li
-          = link_to year, blog_year_path(year)
           |  (
           = articles.size
           | )

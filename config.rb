@@ -42,6 +42,10 @@ activate :google_analytics do |ga|
   ga.minify = true
 end
 
+activate :disqus do |d|
+  d.shortname = 'gomlog'
+end
+
 page "/feed.xml", layout: false
 # page "/sitemap.xml", layout: false
 
@@ -122,7 +126,7 @@ set :site_url, 'http://gomlog.com'
 #set :url_root, 'http://gomlog.com'
 set :site_author, 'gom'
 set :site_title, 'gomlog'
-set :site_description, 'Blog description'
+set :site_description, 'gom\'s dialy'
 #set :site_subtitle, ''
 # Select the theme from bootswatch.com.
 # If false, you can get plain bootstrap style.

@@ -4,10 +4,12 @@ date: 2011-11-25
 tags: diary, mobile
 ---
 最近仕事でUSに来ているので、買っちゃいました。
+
 <a href="https://picasaweb.google.com/lh/photo/yDJJ4oGEfBs8djYTE8YrGkQeD_9mu_2ObHGAqgmYHUc?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-IbPuGMSviBs/Ts6ryETjNGI/AAAAAAAABS0/NsdHoW0h-aE/s400/20111124_123951.jpg" height="400" width="300" /></a>
+
 ちょっと使ってみて思ったことをさらさらと書いておきます。
 
-<h4>所感</h4>
+#### 所感
 <ul>
 <li>7inchは大きさ的にちょうどいい感じ。iPadだと持ち運ぶのに大きすぎるけど、こちらは片手にちょうど収まる。</li>
 <li>Android Marketは入ってない。Amazon Appstoreにあるアプリのみ使える。他のアプリ入れる方法は後述。</li>

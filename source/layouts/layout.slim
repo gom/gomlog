@@ -5,7 +5,7 @@ html
     meta[http-equiv="X-UA-Compatible" content="IE=edge;chrome=1"]
     title
       = page_title
-    meta[name="description" content="#{page_description}"]
+    meta[name="description" content="#{site_description}"]
     = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
     /[if lt IE 9]
       = javascript_include_tag "ie8"
@@ -33,17 +33,15 @@ html
               img.img-responsive src=current_article.data.image_src
               hr
           = yield
+          hr
           aside
-            h3
-              | Recent Articles
-            ol
-              - blog.articles[0...10].each do |article|
-                li
-                  = link_to article.title, article
-                  span<>
-                    = article.date.strftime('%b %e')
+            - unless current_article.nil?
+              = disqus
+              = disqus_count
           hr
             p.text-center
-              | 2014 
+              = Time.now.strftime('%Y') 
+              span<>
               = link_to "#{site_title}", "/"          
     = javascript_include_tag  "all"
+    = google_analytics_universal_tag
