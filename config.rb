@@ -3,10 +3,6 @@
 ###
 Time.zone = "Tokyo"
 
-activate :syntax
-activate :directory_indexes # for convert URL from Wordpress
-# activate :search_engine_sitemap
-
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   # blog.prefix = "blog"
@@ -34,7 +30,9 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
-
+activate :directory_indexes # for convert URL from Wordpress
+activate :syntax
+# activate :search_engine_sitemap
 
 activate :google_analytics do |ga|
   ga.tracking_id = 'UA-769146-3'
@@ -46,8 +44,11 @@ activate :disqus do |d|
   d.shortname = 'gomlog'
 end
 
+set :relative_links, true
 page "/feed.xml", layout: false
-# page "/sitemap.xml", layout: false
+page "/sitemap.xml", layout: false
+page 'CNAME', layout: false
+page '/favicon.ico', layout: false
 
 ###
 # Compass
@@ -140,7 +141,7 @@ set :css_dir, 'css'
 set :js_dir, 'js'
 set :images_dir, 'images'
 
-after_configuration do
+ready do
   @bower_config = JSON.parse(IO.read("#{root}/.bowerrc"))
   Dir.glob(File.join("#{root}", @bower_config["directory"], "*", "fonts")) do |f|
     sprockets.append_path f
@@ -197,3 +198,8 @@ end
 #   deploy.password = "ftp-password"
 #   deploy.path = "ftp-path"
 # end
+activate :deploy do |deploy|
+  deploy.build_before = true
+  deploy.method = :git
+  deploy.branch = 'gh-pages'
+end
