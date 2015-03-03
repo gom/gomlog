@@ -28,13 +28,13 @@ tags: travel
 王宮、アルムデナ大聖堂、プラド美術館、ソフィア王妃芸術センター、マヨール広場
 
 <h5>王宮</h5>
-<a href="http://gomlog.com/wp-content/uploads/P9130022.jpg"><img src="http://gomlog.com/wp-content/uploads/_P9130022.jpg" width="187" height="250" alt="Royal Parace of Madrid" title="Royal Parace of Madrid" class="" /></a>
+<a href="/images/posts/P9130022.jpg"><img src="/images/posts/_P9130022.jpg" width="187" height="250" alt="Royal Parace of Madrid" title="Royal Parace of Madrid" class="" /></a>
 Sol駅から歩いて10分くらいのところに、王宮がそびえ立っています。
 18世紀にフェリペ5世によって建てられたそうです。中はおそろしいほどに豪華。壁や天井の装飾、調度品など、これでもかというくらい飾られています。シャンデリアと絵と銀の置物がいっぱい！
 ちなみに、いわゆる西洋風のものばかりでなく、中国風な装飾や壺なども多かったです。
 
 <h5>アルムデナ大聖堂</h5>
-<a href="http://gomlog.com/wp-content/uploads/P9130031.jpg"><img src="http://gomlog.com/wp-content/uploads/_P9130031.jpg" width="250" height="187" alt="Almudena" title="Almudena" class="" /></a>
+<a href="/images/posts/P9130031.jpg"><img src="/images/posts/_P9130031.jpg" width="250" height="187" alt="Almudena" title="Almudena" class="" /></a>
 王宮の真ん前に広場を挟んで建っています。これまたでかい！
 正門は広場側ではなく、道路に面したところです。横から入っちゃったよ･･･
 
@@ -56,7 +56,7 @@ Sol駅から歩いて10分くらいのところに、王宮がそびえ立って
 なお、僕は現代美術ってのはさっぱりわかりません。表現が抽象的すぎて･･･
 
 <h5>マヨール広場</h5>
-<a href="http://gomlog.com/wp-content/uploads/P9130036.jpg"><img src="http://gomlog.com/wp-content/uploads/_P9130036.jpg" width="250" height="187" alt="plaza mayor" title="plaza mayor" class="" /></a>
+<a href="/images/posts/P9130036.jpg"><img src="/images/posts/_P9130036.jpg" width="250" height="187" alt="plaza mayor" title="plaza mayor" class="" /></a>
 四方を建物に囲まれた広場です。カフェやBarが多くあり、テラス席が広場の端にひろがっています。
 昼間と夜に2回行きましたが、常に賑わっている感じでした。
 ここのBarで夕食をとりましたが、途中で流しの演奏がはじまったりしていい雰囲気。

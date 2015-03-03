@@ -3,7 +3,7 @@ title: ペプシアイスキューカンバーを飲んでみた
 date: 2007-06-19
 tags: diary, food
 ---
-<a href="http://gomlog.com/wp-content/uploads/pepsi-ice-cucumber.gif"><img src="http://gomlog.com/wp-content/uploads/_pepsi-ice-cucumber.gif" width="84" height="250" alt="ペプシアイスキューカンバー" title="ペプシアイスキューカンバー" class="" /></a>
+<a href="/images/posts/pepsi-ice-cucumber.gif"><img src="/images/posts/_pepsi-ice-cucumber.gif" width="84" height="250" alt="ペプシアイスキューカンバー" title="ペプシアイスキューカンバー" class="" /></a>
 
 「キュウリ味のコーラ」が6/12に発売されました。期間限定。
 コーラ+キュウリ・・・なんとも微妙なとりあわせ。というか、ネタとしか思えない。

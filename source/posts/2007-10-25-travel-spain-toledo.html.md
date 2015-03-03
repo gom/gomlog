@@ -14,12 +14,12 @@ tags: spain, travel
 周りは観光客だらけ。
 それもそのはず、トレドは旧市街全域が世界遺産指定されています。
 
-<a href="http://gomlog.com/wp-content/uploads/P9140066.jpg"><img src="http://gomlog.com/wp-content/uploads/_P9140066.jpg" width="250" height="187" alt="Toledo1" title="Toledo1" class="" /></a>
+<a href="/images/posts/P9140066.jpg"><img src="/images/posts/_P9140066.jpg" width="250" height="187" alt="Toledo1" title="Toledo1" class="" /></a>
 駅からは歩いて10分くらいだったかな？途中でアルカサルを横目に通り過ぎていきます。
 ホテルに荷物を置き、さっそく観光へGO～。
 
 <h4>旧市街をぷらぷら</h4>
-<a href="http://gomlog.com/wp-content/uploads/P9140076.jpg"><img src="http://gomlog.com/wp-content/uploads/_P9140076.jpg" width="250" height="187" alt="Toledo2" title="Toledo2" class="" /></a>
+<a href="/images/posts/P9140076.jpg"><img src="/images/posts/_P9140076.jpg" width="250" height="187" alt="Toledo2" title="Toledo2" class="" /></a>
 入り口からパシャリ。
 まあ、さっきの写真の地形からも分かるとおり･･･街は丘の上に立っています。
 坂がすごい！！！後半は、この坂に悩まされることになります･･･
@@ -29,7 +29,7 @@ tags: spain, travel
 アルカサルは残念ながら工事中。外から偉容を見上げます。
 
 そして大聖堂(カテドラル)へ。
-<a href="http://gomlog.com/wp-content/uploads/P9140102.jpg"><img src="http://gomlog.com/wp-content/uploads/_P9140102.jpg" width="187" height="250" alt="Toledo3" title="Toledo3" class="" /></a>
+<a href="/images/posts/P9140102.jpg"><img src="/images/posts/_P9140102.jpg" width="187" height="250" alt="Toledo3" title="Toledo3" class="" /></a>
 中はやっぱりものすごく広いです。豪華な祭壇やステンドグラス、宝物などが展示されてます。
 エル・グレコの絵や昔の法衣なんかもみれますよ。
 
@@ -41,7 +41,7 @@ tags: spain, travel
 ソゴベドール広場から出る71番のバスに乗って約10分。気のいい運転手さんに見送られ、パラドールの近くへ到着。
 うーん、山の上。
 そして待望の･･･
-<a href="http://gomlog.com/wp-content/uploads/P9140119.jpg"><img src="http://gomlog.com/wp-content/uploads/_P9140119.jpg" width="250" height="187" alt="Toledo4" title="Toledo4" class="" /></a>
+<a href="/images/posts/P9140119.jpg"><img src="/images/posts/_P9140119.jpg" width="250" height="187" alt="Toledo4" title="Toledo4" class="" /></a>
 (´∇｀)いい景色
 
 カフェテラスでコーヒーを飲み、さて帰ろう！･･･どうやって帰るの？
@@ -71,7 +71,7 @@ tags: spain, travel
 
 満腹で店を出るころには、すっかり暗くなっていました。明かりも少なめなせいか、ぼんやりと薄暗い古都の風景もいい感じです。
 気力をふりしぼって、カテドラルへ。
-<a href="http://gomlog.com/wp-content/uploads/P9150131.jpg"><img src="http://gomlog.com/wp-content/uploads/_P9150131.jpg" width="187" height="250" alt="Toledo5" title="Toledo5" class="" /></a>
+<a href="/images/posts/P9150131.jpg"><img src="/images/posts/_P9150131.jpg" width="187" height="250" alt="Toledo5" title="Toledo5" class="" /></a>
 
 ライトアップされていて、とても綺麗でした。
 目の前の広場では高校生っぽい子達がライブやってました。周りでは地元の人たちが騒ぎ、子ども達も遊んでいます。
@@ -83,7 +83,7 @@ tags: spain, travel
 古き良きヨーロッパの街並みがそのまま保存されています。教会や美術館等も多いですが、なんといってもその風景が一番の見所です。
 パラドールからの全景も絶対にオススメです。行き帰りが少々大変ですが、それに見合ったものは得られると思います。
 
-<a href="http://gomlog.com/wp-content/uploads/P9150139.jpg"><img src="http://gomlog.com/wp-content/uploads/_P9150139.jpg" width="250" height="187" alt="Toledo6" title="Toledo6" class="" /></a>
+<a href="/images/posts/P9150139.jpg"><img src="/images/posts/_P9150139.jpg" width="250" height="187" alt="Toledo6" title="Toledo6" class="" /></a>
 最後にトレドの夜景を1枚。とても思い出に残る街でした。
 
 次はバルセロナ！･･･と思いましたが、モンセラット編をまず書こうと思います。

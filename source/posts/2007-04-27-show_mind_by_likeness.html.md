@@ -8,7 +8,7 @@ tags: diary
 
 てなわけで、今の心境をサウスパーク風に表現してみました。
 
-<a href="http://gomlog.com/wp-content/uploads/kill.jpg"><img src="http://gomlog.com/wp-content/uploads/_kill.jpg" width="247" height="250" alt="" title="" class="" /></a>
+<a href="/images/posts/kill.jpg"><img src="/images/posts/_kill.jpg" width="247" height="250" alt="" title="" class="" /></a>
 
 うーん。表現しにくいもんだ。
 

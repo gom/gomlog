@@ -16,18 +16,18 @@ tags: spain, travel
 
 教会堂は未完成だそうで、1Fと地下しかできていないみたいです。外観と1Fの礼拝堂を見学することができます。
 
-<a href="http://gomlog.com/wp-content/uploads/P9170293.JPG"><img src="http://gomlog.com/wp-content/uploads/_P9170293.JPG" width="250" height="187" alt="colonia_guell_appearance" title="colonia_guell_appearance" class="" /></a>
+<a href="/images/posts/P9170293.JPG"><img src="/images/posts/_P9170293.JPG" width="250" height="187" alt="colonia_guell_appearance" title="colonia_guell_appearance" class="" /></a>
 教会堂にしてはやけに平べったい建物です。まあ、2F以降が完成していないせいですが･･･
 もし完成していたら、偉容を誇る建物になっていたのでしょうねぇ。
 
 礼拝堂の中はこんな感じ。
-<a href="http://gomlog.com/wp-content/uploads/P9170302.JPG"><img src="http://gomlog.com/wp-content/uploads/_P9170302.JPG" width="250" height="187" alt="colonia_guell" title="colonia_guell" class="" /></a>
+<a href="/images/posts/P9170302.JPG"><img src="/images/posts/_P9170302.JPG" width="250" height="187" alt="colonia_guell" title="colonia_guell" class="" /></a>
 こじんまりとしており、とても静かなところです。少し薄暗く、中に差し込んでくる光がとてもきれいでした。
 
-<a href="http://gomlog.com/wp-content/uploads/P9170297.JPG"><img src="http://gomlog.com/wp-content/uploads/_P9170297.JPG" width="250" height="187" alt="colonia_guell_steindgrass" title="colonia_guell_steindgrass" class="" /></a>
+<a href="/images/posts/P9170297.JPG"><img src="/images/posts/_P9170297.JPG" width="250" height="187" alt="colonia_guell_steindgrass" title="colonia_guell_steindgrass" class="" /></a>
 窓のステンドグラス。開くとまるで蝶のようになります。
 
-<a href="http://gomlog.com/wp-content/uploads/P9170299.JPG"><img src="http://gomlog.com/wp-content/uploads/_P9170299.JPG" width="250" height="187" alt="colonia_guell_chair" title="colonia_guell_chair" class="" /></a>
+<a href="/images/posts/P9170299.JPG"><img src="/images/posts/_P9170299.JPG" width="250" height="187" alt="colonia_guell_chair" title="colonia_guell_chair" class="" /></a>
 礼拝堂の椅子。これもガウディのデザインだそうです。
 
 外から屋上部分に上がることもでき、広場のようになっています。
@@ -37,12 +37,12 @@ tags: spain, travel
 <h4>モンセラット</h4>
 コロニア・グエルから電車とケーブルカーを乗り継いで約30分。
 やってきました山の中！！奇岩で有名な山地だそうです。
-<a href="http://gomlog.com/wp-content/uploads/P9170335.JPG"><img src="http://gomlog.com/wp-content/uploads/_P9170335.JPG" width="250" height="187" alt="montserrat_mountain" title="montserrat_mountain" class="" /></a>
+<a href="/images/posts/P9170335.JPG"><img src="/images/posts/_P9170335.JPG" width="250" height="187" alt="montserrat_mountain" title="montserrat_mountain" class="" /></a>
 
 ここには大聖堂があり、ほぼ毎日12時頃から少年聖歌隊が歌声を響かせているそうです。
 それを見ようと、朝早く出発→コロニア・グエルに寄り道→モンセラット大聖堂、と来たのですが･･･
 着いたときにはすでに終わる寸前！なんとか声は聴けましたが･･･こんな状態でした。
-<a href="http://gomlog.com/wp-content/uploads/P9170322.JPG"><img src="http://gomlog.com/wp-content/uploads/_P9170322.JPG" width="250" height="187" alt="montserrat_choir" title="montserrat_choir" class="" /></a>
+<a href="/images/posts/P9170322.JPG"><img src="/images/posts/_P9170322.JPG" width="250" height="187" alt="montserrat_choir" title="montserrat_choir" class="" /></a>
 
 コロニア・グエルの静かさがうそのような人混み！この日は日曜だったので、特にすごかったんですかねぇ。
 昼食をとったカフェもものすごい人人人でした。

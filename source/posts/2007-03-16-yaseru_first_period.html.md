@@ -6,7 +6,7 @@ tags: diary, diet
 もうすっかりアップもせず、ほったらかしと思われていそうですが・・・
 ちゃんとやってましたよ！！！
 
-というわけで、<a href="http://gomlog.com/2006/12/13/yaseru_pre/">プロジェクトYASERU</a>。12/14に始めて、ちょうど3ヶ月が経ちました。
+というわけで、<a href="/2006/12/13/yaseru_pre/">プロジェクトYASERU</a>。12/14に始めて、ちょうど3ヶ月が経ちました。
 結果発表！
 
 <!--more-->
@@ -22,7 +22,7 @@ tags: diary, diet
 たしか、計画時点で「目標：3ヶ月で5kg減」と言っていた記憶があります。
 見事成功、と言ってもいいのでしょうか・・・
 
-<a href="http://gomlog.com/wp-content/uploads/20070314weight.jpg" rel="lightbox" title="週別平均推移"><img src="http://gomlog.com/wp-content/uploads/_20070314weight.jpg" width="250" height="131" alt="週別平均推移" title="週別平均推移" class="" /></a>
+<a href="/images/posts/20070314weight.jpg" rel="lightbox" title="週別平均推移"><img src="/images/posts/_20070314weight.jpg" width="250" height="131" alt="週別平均推移" title="週別平均推移" class="" /></a>
 ちなみに週の平均値をグラフにするとこんな感じ。正月太りした以外は順調に減っています。
 以下、行っていた方法を紹介。
 

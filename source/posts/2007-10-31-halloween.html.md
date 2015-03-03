@@ -3,7 +3,7 @@ title: Happy Halloween!
 date: 2007-10-31
 tags: news
 ---
-<img src="http://gomlog.com/wp-content/uploads/halloween.jpg" width="204" height="152" alt="halloween" title="halloween" class="" />
+<img src="/images/posts/halloween.jpg" width="204" height="152" alt="halloween" title="halloween" class="" />
 feedmeterもハロウィン仕様になってました！
 日本でのハロウィンっていつごろから盛んになったんでしょうね？
 20年くらい前は、ほとんど知られてなかったような気がするんですが･･･
