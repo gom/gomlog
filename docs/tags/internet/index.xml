@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on gomlog</title>
+    <link>http://gomlog.com/tags/internet/index.xml</link>
+    <description>Recent content in Internet on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>gomlog.com</copyright>
+    <atom:link href="http://gomlog.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>オプションにご用心</title>
+      <link>http://gomlog.com/20080524_precaution-of-option</link>
+      <pubDate>Sat, 24 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomlog.com/20080524_precaution-of-option</guid>
+      <description>&lt;p&gt;友達のPC購入＆設置を手伝ってきました。
+久々に電気屋行ったりすると、色々知らなかったことがわんさか･･･&lt;/p&gt;
+
+&lt;p&gt;そのなかでも、回線とPCのセット購入が初体験だったので、ちょっとメモ。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;h4&gt;PCと回線のセット購入&lt;/h4&gt;
+よく、「PC購入と一緒にフレッツ光を申し込むと、PCが○○円引き！！」ってやってますよね。ネット回線がない環境なら、結構お得に見えますよね。
+やっぱ、罠が。&lt;/p&gt;
+
+&lt;p&gt;回線契約以外に、必ずオプションがつきます。フレッツなら、ひかり電話やひかりTV。つまり、回線以外に月額使用料がかかります。
+後から解約すればいいんですが･･･解約忘れるとそのままだったり、面倒だからそのまま～とか。
+気をつけないと、かえって余計なお金を払うことになります。
+また、ウイルスチェックや電話サポートも全てオプションになっていました。初めは何ヶ月か無料だそうですが、その頃には間違いなく忘れています。請求書が来てから気づくんでしょうね。&lt;/p&gt;
+
+&lt;p&gt;電話回線いじられると後々面倒なことになりかねないので、友達はひかりTVを申し込みました。1ヶ月経ったら解約できるそうです。忘れるなよー。&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;主力商品だけじゃ、儲からない&lt;/h4&gt;
+最近では携帯も、「当社指定オプションに加入すると、○○円引きになります！」なんてのをよくやってます。ISPも回線契約単体だともうけが少ないんでしょうね～。
+前にNTTのテレアポだかなんかしてた人に聞いても、「必ずオプションを推せ！」と上からしつこく言われていたそうです。そっちの方が収益になるんでしょうね。&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;甘い話にご用心&lt;/h4&gt;
+自分は解約だの設置変更だのが面倒なので、必要なものだけに収まるようにすることが多いです。
+安くなるとかインセンティブが発生するということは、どこかで業者の利益になる・こちらの損になるということが発生しうると思っているからです。
+本当にお得な話も中にはありますが、安易に飛びつかずによく内容を確認するようにしましょう。
+月々に払っていると、知らない内に大きな金額になってしまいますしね。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Winny</title>
+      <link>http://gomlog.com/20060311_winny_virus</link>
+      <pubDate>Sat, 11 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomlog.com/20060311_winny_virus</guid>
+      <description>&lt;p&gt;Winny経由での情報流出事件が相次いでいる。&lt;br /&gt;
+っていうかやけに騒がれている。&lt;br /&gt;
+いまだに「仁義なきキンタマ」が猛威をふるってるってことだろうか。&lt;a&gt;&lt;/a&gt;
+
+しかしこれ、「流出した！」っていう情報はどこから入ってくるんだろうか？&lt;br /&gt;
+考えられるとしたら・・・&lt;br /&gt;
+1.Winny上で「仁義なきキンタマ」で検索かける。それらしいファイル名を探してDL。&lt;br /&gt;
+2.1を実行したからの報告を受ける(直接、BBS等)。&lt;br /&gt;
+&lt;br /&gt;
+流出させた本人が気付くことはまずない、という仮定だとこのどっちかになるのではないか。&lt;br /&gt;
+そうすると、警察ないしマスコミは&lt;br /&gt;
+&lt;ul&gt;&lt;br /&gt;
+&lt;li&gt;Winny上を監視している&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;人を使ってWinny上を監視させている&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;そういった情報が書き込まれる場所を監視している&lt;/li&gt;&lt;br /&gt;
+&lt;/ul&gt;&lt;br /&gt;
+のどれかをやっているってことだろう。なんとも情けないなぁ。&lt;br /&gt;
+&lt;br /&gt;
+まあ、一番情けないのは・・・&lt;br /&gt;
+&lt;strong&gt;仕事の重要なファイルが入ってるPCでWinnyやってる方々&lt;/strong&gt;&lt;br /&gt;
+自分が使っているものの危険性くらい認識しましょうよ。&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&#34;http://kintama.client.jp/&#34; title=&#34;仁義なぅンタマ&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

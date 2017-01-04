@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myminicity on gomlog</title>
+    <link>http://gomlog.com/tags/myminicity/index.xml</link>
+    <description>Recent content in Myminicity on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>gomlog.com</copyright>
+    <atom:link href="http://gomlog.com/tags/myminicity/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>街を作ってみました</title>
+      <link>http://gomlog.com/20071231_myminicity</link>
+      <pubDate>Mon, 31 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomlog.com/20071231_myminicity</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://mmc.nipotan.org/gom/&#34;&gt;MyMiniCity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;いまさらかもしれないけど、MyMiniCity。自動進行のシムシティーみたいなやつ。
+複数の人がURLにアクセスすることによって人口が増え、街が発展していく。&lt;/p&gt;
+
+&lt;p&gt;ある程度の段階まで行くと、違うURLを踏んでもらうことによってパラメータが変動する。
+まだそこまでいってないからわからないけど:p&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

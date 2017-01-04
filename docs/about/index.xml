@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on gomlog</title>
+    <link>http://gomlog.com/about/index.xml</link>
+    <description>Recent content in Abouts on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>gomlog.com</copyright>
+    <lastBuildDate>Wed, 04 Jan 2017 17:11:21 +0900</lastBuildDate>
+    <atom:link href="http://gomlog.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://gomlog.com/about/</link>
+      <pubDate>Wed, 04 Jan 2017 17:11:21 +0900</pubDate>
+      
+      <guid>http://gomlog.com/about/</guid>
+      <description>&lt;p&gt;A Programmer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

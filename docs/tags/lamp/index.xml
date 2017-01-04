@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lamp on gomlog</title>
+    <link>http://gomlog.com/tags/lamp/index.xml</link>
+    <description>Recent content in Lamp on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>gomlog.com</copyright>
+    <atom:link href="http://gomlog.com/tags/lamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ノートPCサーバ</title>
+      <link>http://gomlog.com/20071204_laptop-server</link>
+      <pubDate>Tue, 04 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomlog.com/20071204_laptop-server</guid>
+      <description>&lt;p&gt;もう何度目になるのかわかりませんが、ノートPCでサーバ構築開始しました。
+LAMP+subversionの環境。基本はSSH接続＆emacsで会社からこっそr(ry&lt;/p&gt;
+
+&lt;p&gt;ほこりかぶってた5年以上前のノートPCにUbuntu Server突っ込んで稼働中。
+メモリが192MBなので、どこまで動くかわかりませんが･･･最悪svnさえ使えればいいんです。ええ。&lt;/p&gt;
+
+&lt;p&gt;先日からちょこちょことPHPをいじってるのですが、開発→公開のしくみを作ってしまいたかったんですよね。
+ソースをこのノートPCで管理＆編集して、どこかのレンタルサーバで公開しようかと。
+どこからでもリポジトリを見れるようにしておけば、色々便利かなぁなんて思って準備しちゃいました。&lt;/p&gt;
+
+&lt;p&gt;しかし･･･肝心の作るモノは構想しかできてません。
+少しずつ少しずつ･･･&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,352 @@
+<!doctype html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Wordpress &middot; gomlog</title>
+        <meta name="author">
+        <meta name="description" content="gom&#39;s diary">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="generator" content="Hugo 0.18.1" />
+        <link href="http://gomlog.com/post/index.xml" rel="alternate" type="application/rss+xml" title="gomlog" />
+        <link href="http://gomlog.com/post/index.xml" rel="feed" type="application/rss+xml" title="gomlog" />
+        <link href='//fonts.googleapis.com/css?family=Roboto:400,300,700|Noto+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="http://gomlog.com/css/styles.css">
+        <link rel="icon" href="http://gomlog.com/favicon.ico">
+        <link rel="apple-touch-icon" href="http://gomlog.com/apple-touch-icon.png" />
+        <link rel="stylesheet" href="http://gomlog.com/css/highlightjs/monokai.css">
+        <script src="http://gomlog.com/js/vendor/modernizr-2.8.0.min.js"></script>
+        
+        <style>
+        .site-header h2 .logo {
+        background: url(http://gomlog.com/img/desk.jpg) no-repeat 0 0;
+        }
+        @media (min--moz-device-pixel-ratio: 1.3), (-o-min-device-pixel-ratio: 2.6 / 2), (-webkit-min-device-pixel-ratio: 1.3), (min-device-pixel-ratio: 1.3), (min-resolution: 1.3dppx) {
+          .site-header h2 .logo {
+            background-image: url(http://gomlog.com/img/desk.jpg);
+        }}
+       .site-header {
+         background: #2a373d url(http://gomlog.com/img/desk.jpg) no-repeat center center;
+         z-index: -1;
+        }
+        </style>
+    </head>
+    <body>
+        
+        <header class="site-header">
+          <div class="transparent-layer">
+              <h2>gomlog</h2>
+          </div>
+        </header>
+
+<div class="container clearfix">
+    <main role="main" class="content">
+        <a class="btn home" href="http://gomlog.com/" title="">&laquo; </a>
+        
+        
+            <article class="post">
+    
+<h1><a href="http://gomlog.com/20100926_add_like_and_tweet_buttons" title="WordpressにFacebook LikeとTweetボタンを付けた">WordpressにFacebook LikeとTweetボタンを付けた</a></h1>
+
+<footer class="post-info"> <span class="post-meta"><time datetime="2010.09.26">2010.09.26</time>
+
+    &middot; 
+        
+        <a href="http://gomlog.com/tags/facebook">facebook</a>, 
+        
+        <a href="http://gomlog.com/tags/twitter">twitter</a>, 
+        
+        <a href="http://gomlog.com/tags/wordpress">wordpress</a>
+        
+    
+
+</span>
+</footer>
+
+    <p>プラグインになっているのでラクチンですね。 <a href="http://wordpress.org/extend/plugins/like/">http://wordpress.org/extend/plugins/like/</a> <a href="http://wordpress.org/extend/plugins/wp-tweet-button/">http://wordpress.org/extend/plugins/wp-tweet-button/</a>
+ついでに投稿時の通知もつけた。(今まではFeedからの通知) <a href="http://wordpress.org/extend/plugins/tweetable/">http://wordpress.org/extend/plugins/tweetable/</a>&hellip;</p>
+    <a href="http://gomlog.com/20100926_add_like_and_tweet_buttons" title="WordpressにFacebook LikeとTweetボタンを付けた"> &raquo;</a>
+</article>
+
+        
+            <article class="post">
+    
+<h1><a href="http://gomlog.com/20100222_migrated_to_coreserver" title="サーバー移転しました">サーバー移転しました</a></h1>
+
+<footer class="post-info"> <span class="post-meta"><time datetime="2010.02.22">2010.02.22</time>
+
+    &middot; 
+        
+        <a href="http://gomlog.com/tags/wordpress">wordpress</a>
+        
+    
+
+</span>
+</footer>
+
+    <p>XREA =&gt; CORESERVERに移転完了。 まだいろいろ表示されたりされなかったりですが、そのうち出てくるでしょう。
+以下、大雑把な移転作業ログ。
+ MySQLのダンプ取得 サーバ申し込み ファイルのバックアップと新サーバへ転送 (サーバ間転送機能を使用) DBの作成とダンプの復元 DNSの設定変更 サーバのドメイン・メール設定 wordpressプラグインのパーミッション設定  以上。
+問題があったのは、サーバ間転送機能。 logディレクトリ内の.htpasswdまでコピーされてしまい、パスワードわからなくて困った。 しかもsshでログインしてもhtpasswdコマンド使えないし・・・ Macでhtpasswd -nしてぺたぺたして解決。
+あと、CORESERVERの管理画面はDBができたのかできてないのかさっぱりわからないので、ずっとDBエラーが出続けていたのが困った程度。 作成ボタンを押してないことにもっと早く気づいていれば！
+そんなわけで一件落着。
+あ、ちなみにwordpress.comは検討したけど次の理由で今回は見送り。  自由にプラグインを入れられない テーマのカスタマイズも制限があるっぽい  その辺いじるのも面倒になったらブログサービスに完全に移してしまおう。&hellip;</p>
+    <a href="http://gomlog.com/20100222_migrated_to_coreserver" title="サーバー移転しました"> &raquo;</a>
+</article>
+
+        
+            <article class="post">
+    
+<h1><a href="http://gomlog.com/20100221_server_migration" title="サーバーを移します">サーバーを移します</a></h1>
+
+<footer class="post-info"> <span class="post-meta"><time datetime="2010.02.21">2010.02.21</time>
+
+    &middot; 
+        
+        <a href="http://gomlog.com/tags/wordpress">wordpress</a>
+        
+    
+
+</span>
+</footer>
+
+    <p>blogをホスティングしているサーバを移します。 ドメインを切り替えるときに数時間繋がらないかもしれませんが、そのうち見えるようになるはずです。
+もう金払っちゃったけど、どうせwordpressしか使ってないから、Wordpress.comのホスティングに変えてしまおうかしら・・・&hellip;</p>
+    <a href="http://gomlog.com/20100221_server_migration" title="サーバーを移します"> &raquo;</a>
+</article>
+
+        
+            <article class="post">
+    
+<h1><a href="http://gomlog.com/20091128_change-comment-system-to-disqus" title="コメントをDISQUSに変えてみた">コメントをDISQUSに変えてみた</a></h1>
+
+<footer class="post-info"> <span class="post-meta"><time datetime="2009.11.28">2009.11.28</time>
+
+    &middot; 
+        
+        <a href="http://gomlog.com/tags/disqus">disqus</a>, 
+        
+        <a href="http://gomlog.com/tags/wordpress">wordpress</a>
+        
+    
+
+</span>
+</footer>
+
+    <p>コメントをDISQUSに変えてみた。
+ブログを入れ替えたりするときに移行が楽かなーというのと、アイコンが表示されるという辺りが理由だったり。&hellip;</p>
+    <a href="http://gomlog.com/20091128_change-comment-system-to-disqus" title="コメントをDISQUSに変えてみた"> &raquo;</a>
+</article>
+
+        
+            <article class="post">
+    
+<h1><a href="http://gomlog.com/20090814_post-test-with-emacs" title="emacsからの投稿テスト">emacsからの投稿テスト</a></h1>
+
+<footer class="post-info"> <span class="post-meta"><time datetime="2009.08.14">2009.08.14</time>
+
+    &middot; 
+        
+        <a href="http://gomlog.com/tags/wordpress">wordpress</a>
+        
+    
+
+</span>
+</footer>
+
+    <p>テスト代わりの投稿。 Keywordsでカテゴリ指定、タグはいじれないんだな。
+X-URLを変更してからC-x C-s でもPermalinkはうまく反映されない。 C-c C-cでdraft投稿をして、公開前にPermalinkを調整してから公開するのがよさそう。&hellip;</p>
+    <a href="http://gomlog.com/20090814_post-test-with-emacs" title="emacsからの投稿テスト"> &raquo;</a>
+</article>
+
+        
+            <article class="post">
+    
+<h1><a href="http://gomlog.com/20090106_unpleasant-point-ofwordpress" title="Wordpressの嫌なところ">Wordpressの嫌なところ</a></h1>
+
+<footer class="post-info"> <span class="post-meta"><time datetime="2009.01.06">2009.01.06</time>
+
+    &middot; 
+        
+        <a href="http://gomlog.com/tags/wordpress">wordpress</a>
+        
+    
+
+</span>
+</footer>
+
+    <p>テーマごとに title タグの内容をカスタムしているので、変更するとタイトルの書式が変わってしまう。 wp_title() を見ているだけかと思ったら、直打ちしてあったりする。 まあ、書き換えればいいんだけどね・・・
+というわけで、テーマをblueberryからK2に戻しました。&hellip;</p>
+    <a href="http://gomlog.com/20090106_unpleasant-point-ofwordpress" title="Wordpressの嫌なところ"> &raquo;</a>
+</article>
+
+        
+            <article class="post">
+    
+<h1><a href="http://gomlog.com/20081214_upgrade-wordpress27" title="Wordpress2.7にアップグレード">Wordpress2.7にアップグレード</a></h1>
+
+<footer class="post-info"> <span class="post-meta"><time datetime="2008.12.14">2008.12.14</time>
+
+    &middot; 
+        
+        <a href="http://gomlog.com/tags/wordpress">wordpress</a>
+        
+    
+
+</span>
+</footer>
+
+    <p>Wordpress2.7にアップグレードしました。 WordPress | 日本語
+今回はダッシュボードを始め、管理画面が大幅に変更された様子。
+使いやすくなっているといいなあ。&hellip;</p>
+    <a href="http://gomlog.com/20081214_upgrade-wordpress27" title="Wordpress2.7にアップグレード"> &raquo;</a>
+</article>
+
+        
+            <article class="post">
+    
+<h1><a href="http://gomlog.com/20080930_update-wordpress262" title="WordPress--Wordpress2.6.2にアップデート">WordPress--Wordpress2.6.2にアップデート</a></h1>
+
+<footer class="post-info"> <span class="post-meta"><time datetime="2008.09.30">2008.09.30</time>
+
+    &middot; 
+        
+        <a href="http://gomlog.com/tags/wordpress">wordpress</a>
+        
+    
+
+</span>
+</footer>
+
+    <p>しました。 2.6 → 2.6.2
+なにも考えずに全ファイルアップロード。upgrade実行。 なにも問題が起こらず、ほっと一安心。&hellip;</p>
+    <a href="http://gomlog.com/20080930_update-wordpress262" title="WordPress--Wordpress2.6.2にアップデート"> &raquo;</a>
+</article>
+
+        
+            <article class="post">
+    
+<h1><a href="http://gomlog.com/20080805_wordpress-bookmarklet-new" title="Wordpress--Wordpress2.6で新しい投稿ブックマークレットが追加されていた">Wordpress--Wordpress2.6で新しい投稿ブックマークレットが追加されていた</a></h1>
+
+<footer class="post-info"> <span class="post-meta"><time datetime="2008.08.05">2008.08.05</time>
+
+    &middot; 
+        
+        <a href="http://gomlog.com/tags/wordpress">wordpress</a>
+        
+    
+
+</span>
+</footer>
+
+    <p>先日Wordpress :: Wordpress2.5.1以降でブックマークレットを使って投稿する なんていういエントリを書いた。 その時は気づかなかったのだが、Wordpress2.6で新しく投稿ブックマークレットが追加されていた。 下の「Press This」というリンク。 [caption id=&ldquo;attachment_311&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;150&rdquo; caption=&ldquo;&rdquo;][/caption]
+管理画面の右下の方に、ひっそりと。気づかなかったー。注意力が足りない。
+使ってみると、別窓で投稿画面が開くようになる。が、自分の環境(MacOS10.5, Fx3.01)だと、編集領域が妙に小さい。 ちょっと編集しづらいので、旧ブックマークレットを使い続けようかなあ。&hellip;</p>
+    <a href="http://gomlog.com/20080805_wordpress-bookmarklet-new" title="Wordpress--Wordpress2.6で新しい投稿ブックマークレットが追加されていた"> &raquo;</a>
+</article>
+
+        
+            <article class="post">
+    
+<h1><a href="http://gomlog.com/20080805_ipod-touche382a2e38397e383aae3818be38289e381aee68a95e7a8bfe38386e382b9e38388" title="iPod touchアプリからの投稿テスト">iPod touchアプリからの投稿テスト</a></h1>
+
+<footer class="post-info"> <span class="post-meta"><time datetime="2008.08.05">2008.08.05</time>
+
+    &middot; 
+        
+        <a href="http://gomlog.com/tags/ipod">ipod</a>, 
+        
+        <a href="http://gomlog.com/tags/mobile">mobile</a>, 
+        
+        <a href="http://gomlog.com/tags/wordpress">wordpress</a>
+        
+    
+
+</span>
+</footer>
+
+    <p>ver.1.1からのテスト。 日本語うてるかな？&hellip;</p>
+    <a href="http://gomlog.com/20080805_ipod-touche382a2e38397e383aae3818be38289e381aee68a95e7a8bfe38386e382b9e38388" title="iPod touchアプリからの投稿テスト"> &raquo;</a>
+</article>
+
+        
+        <div class="pagination">
+<nav>
+
+    
+
+	<p class="counter"> 1  2</p>
+
+
+	
+	<a class="btn older" href="/tags/wordpress/page/2/" title=""> &raquo;</a>
+	
+
+</nav>
+</div>
+
+    </main>
+
+    <aside class="author">
+  <img class="profile-image" src="http://gomlog.com/img/profile-image.png" alt="gom" />
+  <p class="name"> 
+  <strong>gom</strong></p>
+  <p class="address">A Programmer</p>
+  <p class="link"></p>
+  <ul class="social">
+    
+<li><a href="//twitter.com/gom" class="icon-twitter" target="_blank" title="Twitter"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="//github.com/gom" class="icon-github" target="_blank" title="Github"></a></li>
+
+
+
+
+<li><a href="http://gomlog.com/post/index.xml" class="icon-rss" target="_blank" title="RSS"></a></li>
+
+  </ul>
+  <br><br>
+</aside>
+
+</div>
+<footer class="main-footer">
+  <div class="container clearfix">
+        <a class="icon-rss" href="http://gomlog.com/post/index.xml" title="RSS"></a>
+        <p>&copy; 2017 &middot; gomlog.com</p>
+  </div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.8.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script>window.jQuery || document.write('<script src="http:\/\/gomlog.com\/js\/vendor\/jquery-1.11.0.min.js"><\/script>')</script>
+<script src="http://gomlog.com/js/plugins.js"></script>
+
+
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-769146-3', 'auto');
+ga('send', 'pageview');
+</script>
+
+</body>
+</html>
+

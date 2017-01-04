@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friendfeed on gomlog</title>
+    <link>http://gomlog.com/tags/friendfeed/index.xml</link>
+    <description>Recent content in Friendfeed on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>gomlog.com</copyright>
+    <atom:link href="http://gomlog.com/tags/friendfeed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FriendFeedに登録してみた</title>
+      <link>http://gomlog.com/20080323_friendfeed</link>
+      <pubDate>Sun, 23 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomlog.com/20080323_friendfeed</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://friendfeed.com/&#34;&gt;FriendFeed&lt;/a&gt;はWeb上の自分の活動をまとめて紹介できるサービス。
+自分のBlogやTwitter、del.icio.us、FrickrやLast.fmなどのサービスを始め、フィードを生成しているものならまとめて表示できる。&lt;/p&gt;
+
+&lt;p&gt;また、友達の活動を購読することで、一括して表示できる。ついでにFriendFeed上でコメントをつけることだってできる。&lt;/p&gt;
+
+&lt;p&gt;このサービス、色々な可能性があると思うのだが、Webでの活動を一括して表示できるだけでも価値があると感じている。
+しばらく使ってみて、様子を見てみることにしよう。&lt;/p&gt;
+
+&lt;p&gt;というわけで自分のFriendFeed。Subscribeはお気軽に～。
+&lt;a href=&#34;http://friendfeed.com/gom&#34;&gt;http://friendfeed.com/gom&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pasmo on gomlog</title>
+    <link>http://gomlog.com/tags/pasmo/index.xml</link>
+    <description>Recent content in Pasmo on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>gomlog.com</copyright>
+    <atom:link href="http://gomlog.com/tags/pasmo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子マネー不正利用で１０００万円被害</title>
+      <link>http://gomlog.com/20071110_e-money-unauthorized-using</link>
+      <pubDate>Sat, 10 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomlog.com/20071110_e-money-unauthorized-using</guid>
+      <description>&lt;p&gt;なんか「ああやっぱり」って感じですよね。便利と恐怖は紙一重。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://news.livedoor.com/article/detail/3380677/&#34;&gt;livedoor ニュース - [モバイルスイカ]電子マネー不正利用で１０００万円被害&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;自分は「携帯落としたら被害が大きくなる」という理由でこの手のサービスを利用したことはありません。
+ただ、モバイルでないSuicaやPasmo等の他の電子マネーも同様の危険を伴っています。
+自分もオートチャージで使っているので、気をつけねば･･･&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

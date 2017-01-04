@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cooking on gomlog</title>
+    <link>http://gomlog.com/tags/cooking/index.xml</link>
+    <description>Recent content in Cooking on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>gomlog.com</copyright>
+    <atom:link href="http://gomlog.com/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ホットプレートで簡単チーズフォンデュ</title>
+      <link>http://gomlog.com/20090314_cheese-fondue-by-hotplate</link>
+      <pubDate>Sat, 14 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomlog.com/20090314_cheese-fondue-by-hotplate</guid>
+      <description>&lt;p&gt;テレビでやってたのでメモ。
+専用の鍋とか必要ないので、有り合わせで簡単にできそうだ。&lt;/p&gt;
+
+&lt;p&gt;手順のメモ。
+&lt;ol&gt;
+    &lt;li&gt;とけるチーズに片栗粉を絡める&lt;/li&gt;
+    &lt;li&gt;耐熱容器にチーズを入れ、牛乳か白ワインを入れる&lt;/li&gt;
+    &lt;li&gt;電子レンジにかける。500Wで2分&lt;/li&gt;
+    &lt;li&gt;ホットプレートを低温に設定し、チーズを入れた容器をのせる&lt;/li&gt;
+    &lt;li&gt;容器の周りに野菜やパンなどの食材を並べる&lt;/li&gt;
+    &lt;li&gt;食材に軽く焦げ目がついたら、チーズを付けて食べる&lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;詳しくはこちらに載ってます。
+&lt;a href=&#34;http://www.tv-asahi.co.jp/kashikotsu/contents/backnumber/0042/&#34;&gt;テレビ朝日｜賢コツ!!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

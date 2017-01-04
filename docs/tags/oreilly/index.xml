@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oreilly on gomlog</title>
+    <link>http://gomlog.com/tags/oreilly/index.xml</link>
+    <description>Recent content in Oreilly on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>gomlog.com</copyright>
+    <atom:link href="http://gomlog.com/tags/oreilly/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>もしもO&#39;Reillyに載ったら</title>
+      <link>http://gomlog.com/20080125_orielly-book-cover</link>
+      <pubDate>Fri, 25 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomlog.com/20080125_orielly-book-cover</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://gomlog.com/images/posts/922471_huge.jpg&#34;&gt;&lt;img src=&#34;http://gomlog.com/images/posts/_922471_huge.jpg&#34; width=&#34;210&#34; height=&#34;250&#34; alt=&#34;gomlog-hacks&#34; title=&#34;gomlog-hacks&#34; class=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;こんな感じになるのかなぁ。
+&lt;a href=&#34;http://www.oreillymaker.com/link/4690/gomlog-hacks/&#34;&gt;gomlog Hacks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.oreillymaker.com/&#34;&gt;
+O&amp;rsquo;Reilly Maker - Create a funny book cover!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

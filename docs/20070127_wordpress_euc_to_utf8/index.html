@@ -1,0 +1,241 @@
+<!doctype html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>gomlog</title>
+        <meta name="author">
+        <meta name="description" content="gom&#39;s diary">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="generator" content="Hugo 0.18.1" />
+        <link href="http://gomlog.com/post/index.xml" rel="alternate" type="application/rss+xml" title="gomlog" />
+        <link href="http://gomlog.com/post/index.xml" rel="feed" type="application/rss+xml" title="gomlog" />
+        <link href='//fonts.googleapis.com/css?family=Roboto:400,300,700|Noto+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="http://gomlog.com/css/styles.css">
+        <link rel="icon" href="http://gomlog.com/favicon.ico">
+        <link rel="apple-touch-icon" href="http://gomlog.com/apple-touch-icon.png" />
+        <link rel="stylesheet" href="http://gomlog.com/css/highlightjs/monokai.css">
+        <script src="http://gomlog.com/js/vendor/modernizr-2.8.0.min.js"></script>
+        
+        <style>
+        .site-header h2 .logo {
+        background: url(http://gomlog.com/img/desk.jpg) no-repeat 0 0;
+        }
+        @media (min--moz-device-pixel-ratio: 1.3), (-o-min-device-pixel-ratio: 2.6 / 2), (-webkit-min-device-pixel-ratio: 1.3), (min-device-pixel-ratio: 1.3), (min-resolution: 1.3dppx) {
+          .site-header h2 .logo {
+            background-image: url(http://gomlog.com/img/desk.jpg);
+        }}
+       .site-header {
+         background: #2a373d url(http://gomlog.com/img/desk.jpg) no-repeat center center;
+         z-index: -1;
+        }
+        </style>
+    </head>
+    <body>
+        
+        <header class="site-header">
+          <div class="transparent-layer">
+              <h2>gomlog</h2>
+          </div>
+        </header>
+
+
+<div class="container clearfix">
+    <main role="main" class="content">
+        <article class="post">
+            <a class="btn home" href="http://gomlog.com/" title="">&laquo; </a>
+            
+<h1><a href="http://gomlog.com/20070127_wordpress_euc_to_utf8" title="Wordpress--EUCからUTF8への移行方法">Wordpress--EUCからUTF8への移行方法</a></h1>
+
+<footer class="post-info"> <span class="post-meta"><time datetime="2007.01.27">2007.01.27</time>
+
+    &middot; 
+        
+        <a href="http://gomlog.com/tags/blog">blog</a>, 
+        
+        <a href="http://gomlog.com/tags/diary">diary</a>, 
+        
+        <a href="http://gomlog.com/tags/wordpress">wordpress</a>
+        
+    
+
+</span>
+</footer>
+
+            <p>WordpressとMySQLの文字コードの不整合が起こっていたのですが、ようやく復旧しました。
+ひっそりとサーバー移転。MｙSQL4→5になり、文字コードもUTF-8にしました。</p>
+
+<p>管理画面へのアクセスに異常に時間がかかっていたのですが・・・これも解決しました。
+快適です。</p>
+
+<p>移行後の環境は
+Web：Apache1.3.37
+PHP5.1.6
+MySQL5.1.11</p>
+
+<p>以下、解決方法の紹介です。ちょっと長いですが、ご容赦ください。</p>
+
+<p>
+<div></div>
+<div></div>
+<div></div>
+<div><strong>1.現象</strong>
+まず、最初のサーバーでの設定。
+Wordpress：EUC-JP
+MySQL：EUC-JP</div>
+<div>MySQLはEUC-JPを指定して作成したのですが、なぜか照合順序がUTF-８に。
+初アクセス時にページが表示されない、管理画面に一回では繋がらない等の不具合が出てました。
+<a href="http://www.technorati.jp/">Technorati (テクノラティ) </a>の表示リンクも文字化け状態。</p>
+
+<p>そこで、文字コードを揃えて設定しなおすことにしました。</div>
+<strong>2.データ移行</strong>
+今度はUTF-8にしようと思い、サーバーアカウント取得。
+Wordpress：UTF-8
+MySQL：UTF-8
+で設定し、旧サーバーでMySQLのバックアップを行う。</p>
+
+<p>旧MySQL→新MySQLへデータを移行。
+phpMyAdminのエクスポートとインポートを利用してます。
+そのままエクスポート→インポートを行うと、文字コードがEUC-JPのままになり、MySQL内で文字化けが発生。
+エクスポートされたSQL文をちょいと修正
+<code>DEFAULT CHARSET=utf8</code>
+おし、無事インポートできました。</p>
+
+<p><strong>3.文字化け対応</strong>
+表示してみると･･･やはり文字化けが発生。
+<a href="http://bono.s201.xrea.com/2006/05/12-utf8_xrea_4/">power source* » XREAにUTF8設置時の文字化け： 4）設置方法まとめ</a>
+を参考にして修正。うまく表示されました。</p>
+
+<p><strong>4.権限のエラー解消</strong>
+さて、設定を変えよう・・・あれ？管理画面に入れない？
+ログインすると、下記のエラーが画面上部に表示される。</p>
+
+<p><code>
+Warning: Invalid argument supplied for foreach() in (サーバーのディレクトリ)/wp-includes/capabilities.php on line 19
+</code></p>
+
+<p>かろうじて管理画面のTOPが表示される。上記エラーはやっぱり表示されてる。
+管理画面以下の投稿・設定画面にアクセスしようとすると・・・</p>
+
+<p><code>
+Warning: Invalid argument supplied for foreach() in (サーバーのディレクトリ)/wp-includes/capabilities.php on line 19
+あなたはこのページにアクセスする権限を持っていません。
+</code></p>
+
+<p>capabilities.phpの19行目に一体何があるんだ！と思いつつ、フォーラムで同じ問題を発見。
+<a href="http://phpbb.xwd.jp/viewtopic.php?p=2628">WordPress Japan :: トピックを表示 - WPをインストールしてログインすると権限エラーになってしまいま</a></p>
+
+<p>返信にこうあったのが大ヒントになりました。
+<blockquote>新規インストール時に文字コードをUTF-8でインストールすると
+日本語の権限表記にバックスラッシュが付与されてしまうようです。
+**_option テーブルの **_user_roles の値を編集していただければ解決すると思います。</blockquote>
+早速user_rolesを見てみたら・・・あった！
+日本語権限名が全部文字化けしてる！</p>
+
+<p>同様に提示されていた、
+<a href="http://wordpress.xwd.jp/files/utf_patch.zip">http://wordpress.xwd.jp/files/utf_patch.zip</a>
+を使用したところ、うまく修正されました。</p>
+
+<p><strong>6.終わりに</strong>
+無事管理画面も使えるようになり、こうして投稿できたわけです・・・
+最近は日本語の資料もだいぶ増えてきたので、そこそこスムーズに解決できました。</p>
+            <ul class="share-buttons">
+    <li></li>
+    <li>
+        <a class="icon-facebook-squared" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fgomlog.com%2f20070127_wordpress_euc_to_utf8" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title=""></a>
+    </li>
+    <li>
+        <a class="icon-twitter" href="https://twitter.com/share?text=Wordpress--EUC%e3%81%8b%e3%82%89UTF8%e3%81%b8%e3%81%ae%e7%a7%bb%e8%a1%8c%e6%96%b9%e6%b3%95&amp;url=http%3a%2f%2fgomlog.com%2f20070127_wordpress_euc_to_utf8" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title=""></a>
+    </li>
+    <li>
+        <a class="icon-gplus" href="https://plus.google.com/share?url=http%3a%2f%2fgomlog.com%2f20070127_wordpress_euc_to_utf8" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" title=""></a>
+    </li>
+    <li>
+        <a class="icon-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fgomlog.com%2f20070127_wordpress_euc_to_utf8&title=Wordpress--EUC%e3%81%8b%e3%82%89UTF8%e3%81%b8%e3%81%ae%e7%a7%bb%e8%a1%8c%e6%96%b9%e6%b3%95" onclick="window.open(this.href, 'linkedin-share', 'width=600,height=494');return false;" title=""></a>
+    </li>
+</ul>
+
+        </article>
+        <div class="comments">
+            <h3></h3>
+            <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'gomlog';
+    var disqus_identifier = 'http:\/\/gomlog.com\/20070127_wordpress_euc_to_utf8';
+    var disqus_title = 'Wordpress--EUCからUTF8への移行方法';
+    var disqus_url = 'http:\/\/gomlog.com\/20070127_wordpress_euc_to_utf8';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        </div>
+    </main>
+    <aside class="author">
+  <img class="profile-image" src="http://gomlog.com/img/profile-image.png" alt="gom" />
+  <p class="name"> 
+  <strong>gom</strong></p>
+  <p class="address">A Programmer</p>
+  <p class="link"></p>
+  <ul class="social">
+    
+<li><a href="//twitter.com/gom" class="icon-twitter" target="_blank" title="Twitter"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="//github.com/gom" class="icon-github" target="_blank" title="Github"></a></li>
+
+
+
+
+<li><a href="http://gomlog.com/post/index.xml" class="icon-rss" target="_blank" title="RSS"></a></li>
+
+  </ul>
+  <br><br>
+</aside>
+
+</div>
+
+<footer class="main-footer">
+  <div class="container clearfix">
+        <a class="icon-rss" href="http://gomlog.com/post/index.xml" title="RSS"></a>
+        <p>&copy; 2017 &middot; gomlog.com</p>
+  </div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.8.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script>window.jQuery || document.write('<script src="http:\/\/gomlog.com\/js\/vendor\/jquery-1.11.0.min.js"><\/script>')</script>
+<script src="http://gomlog.com/js/plugins.js"></script>
+
+
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-769146-3', 'auto');
+ga('send', 'pageview');
+</script>
+
+</body>
+</html>
+

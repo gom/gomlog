@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calender on gomlog</title>
+    <link>http://gomlog.com/tags/calender/index.xml</link>
+    <description>Recent content in Calender on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>gomlog.com</copyright>
+    <atom:link href="http://gomlog.com/tags/calender/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Advanced／W-ZERO3[es]とGoogle Calenderを同期させる「POSync」</title>
+      <link>http://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d</link>
+      <pubDate>Tue, 07 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d</guid>
+      <description>&lt;p&gt;&amp;raquo;&lt;a href=&#34;http://www.geocities.jp/bjsoftab4/zero3.html&#34;&gt;W-ZERO3(iPAQも)用カレンダーツール&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Advanced／W-ZERO3[es]の予定表とgoogle calenderを同期してくれるツールです。
+正確に言うと、Outlook Mobileの予定表らしいですが・・・&lt;/p&gt;
+
+&lt;p&gt;Ad[es]で予定を登録→google calenderと同期することで、オフライン状態でも予定の閲覧・管理・編集ができます。
+さらにTODAY画面(トップ画面ね)にも今日の予定が表示されるので、便利！
+通知機能も使えるので、電波が届かないところでも大丈夫！&lt;/p&gt;
+
+&lt;p&gt;オンライン状態なら、&lt;a href=&#34;http://www.yamamoworks.net/gcmg/&#34;&gt;Google Calendar Mobile Gateway&lt;/a&gt;が便利ですが、
+電波のないところでも気軽に予定を編集できるのがいい感じです。
+ますますAd[es]依存になりそう・・・&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

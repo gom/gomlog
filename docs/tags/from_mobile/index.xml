@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>From_mobile on gomlog</title>
+    <link>http://gomlog.com/tags/from_mobile/index.xml</link>
+    <description>Recent content in From_mobile on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>gomlog.com</copyright>
+    <atom:link href="http://gomlog.com/tags/from_mobile/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test entry</title>
+      <link>http://gomlog.com/20080803_test-entry</link>
+      <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomlog.com/20080803_test-entry</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>レイジのチケットとったどー！</title>
+      <link>http://gomlog.com/20071015_got-ratm-ticket</link>
+      <pubDate>Mon, 15 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomlog.com/20071015_got-ratm-ticket</guid>
+      <description>&lt;p&gt;Smashに6000円貢ぎましたが、確保しちゃいました。&lt;br /&gt;
+2月10日(日)のファイナルです！&lt;br /&gt;
+今から楽しみだ～&lt;br /&gt;
+&lt;br /&gt;
+それにしても、どんな年齢層が集まるんだろう？&lt;br /&gt;
+ぐったりするまで楽しめるといいなぁ。&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

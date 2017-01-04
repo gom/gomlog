@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plugin on gomlog</title>
+    <link>http://gomlog.com/tags/plugin/index.xml</link>
+    <description>Recent content in Plugin on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>gomlog.com</copyright>
+    <atom:link href="http://gomlog.com/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Akismetの威力</title>
+      <link>http://gomlog.com/20071026_power-of-akismet</link>
+      <pubDate>Fri, 26 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomlog.com/20071026_power-of-akismet</guid>
+      <description>&lt;p&gt;先日よりコメントスパム爆撃にあっています。
+うちのような場末のblogでも、こんなことあるんですねぇ。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;30件/日くらいかな？本日までで約400件のスパムがあります。
+そしてそのスパム達は･･･全てAkismetが捕らえてくれています。
+取りこぼしは1件のみ。すごいよAkismet。
+必死にスパム削除しなくて済むってのはありがたいですね。&lt;/p&gt;
+
+&lt;p&gt;なお、Akismetについては以下が詳しいです。
+Wordpressでの導入方法
+&lt;a href=&#34;http://wordpress.xwd.jp/me2.0-docs/index.php?Akismet%20%A4%CE%BB%C8%A4%A4%CA%FD&#34;&gt;Akismet の使い方 - Wordpress Japan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;以前使っていた、Serena Bachもver 2.10D以降で対応しているようです。
+&lt;a href=&#34;http://serenebach.net/download/akismet.html&#34;&gt;sb開発研究所 | Akismetプラグイン&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;API Keyについてやリンク等
+&lt;a href=&#34;http://gigazine.net/index.php?/news/comments/20070127_akismet/&#34;&gt;最強の呼び声高いブログ用対スパムプラグイン「Akismet」 - GIGAZINE&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ちなみにうち、1日の平均ユニークユーザ数は両手で数えられる程度です。
+スパムの方が多い･･･とほほ･･･
+有名blogとかはどれくらいのスパム件数になるのですかね？&lt;/p&gt;
+
+&lt;p&gt;P.S.
+ここ2週間くらいで「コメントつけたけど反映されてない～」って人が&lt;strong&gt;もし&lt;/strong&gt;いましたら、教えてください。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
