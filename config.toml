@@ -1,0 +1,23 @@
+languageCode = "ja"
+title = "gomlog"
+baseurl = "/"
+#baseurl = "http://gomlog.com"
+theme = "minimalist"
+
+paginate = "10"
+disqusShortname = "gomlog"
+googleAnalytics = "UA-769146-3"
+
+[Params]
+    site_author = "gom"
+    site_description = "gom's diary"
+    location = "A Programmer"
+    # Link custom assets relative to /static
+    avatar = "img/profile-image.png"
+    header_background = "img/desk.jpg"
+    header_title = "gomlog"
+    copyright = "gomlog.com"
+
+[social]
+    twitter = "gom"
+    github = "gom"
