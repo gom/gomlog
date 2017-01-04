@@ -1,0 +1,28 @@
+languageCode = "ja-jp"
+title = "gomlog"
+baseurl = "/"
+#baseurl = "http://gomlog.com"
+theme = "mainroad"
+
+paginate = "10"
+disqusShortname = ""
+googleAnayltics = ""
+
+[Author]
+  name = "gom"
+  bio = ""
+  avatar = "img/avatar.png"
+
+[Params]
+  subtitle = ""
+  description = ""
+  opengraph = true
+  leftsidebar = false
+  authorbox = true
+  post_navigation = true
+
+[Params.widgets]
+  search = true
+  recent_articles = true
+  categories = true
+  tags = true
