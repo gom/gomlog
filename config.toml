@@ -1,28 +1,23 @@
-languageCode = "ja-jp"
+languageCode = "ja"
 title = "gomlog"
 baseurl = "/"
 #baseurl = "http://gomlog.com"
-theme = "mainroad"
+theme = "minimalist"
 
 paginate = "10"
-disqusShortname = ""
-googleAnayltics = ""
-
-[Author]
-  name = "gom"
-  bio = ""
-  avatar = "img/avatar.png"
+disqusShortname = "gomlog"
+googleAnalytics = "UA-769146-3"
 
 [Params]
-  subtitle = ""
-  description = ""
-  opengraph = true
-  leftsidebar = false
-  authorbox = true
-  post_navigation = true
+    site_author = "gom"
+    site_description = "gom's diary"
+    location = "A Programmer"
+    # Link custom assets relative to /static
+    avatar = "img/profile-image.png"
+    header_background = "img/desk.jpg"
+    header_title = "gomlog"
+    copyright = "gomlog.com"
 
-[Params.widgets]
-  search = true
-  recent_articles = true
-  categories = true
-  tags = true
+[social]
+    twitter = "gom"
+    github = "gom"
