@@ -39,4 +39,4 @@ deploy:
     - osteele/gh-pages@0.2.4:
         token: $GIT_TOKEN
         doamin: gomlog.com
-        basedir: public
+        basedir: docs
