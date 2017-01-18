@@ -24,7 +24,7 @@ build:
   steps:
     # Sets the go workspace and places you package
     # at the right place in the workspace tree
-    - setup-go-workspace
+    #- setup-go-workspace
 
     - arjen/hugo-build:
       version: "HEAD"
@@ -39,4 +39,4 @@ deploy:
     - osteele/gh-pages@0.2.4:
         token: $GIT_TOKEN
         doamin: gomlog.com
-        basedir: docs
+        basedir: public
