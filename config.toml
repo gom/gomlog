@@ -2,22 +2,46 @@ languageCode = "ja"
 title = "gomlog"
 #baseurl = "/"
 baseurl = "http://gomlog.com/"
-theme = "minimalist"
+theme = "blackburn"
 
 paginate = "10"
 disqusShortname = "gomlog"
 googleAnalytics = "UA-769146-3"
 
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
 [Params]
     site_author = "gom"
     site_description = "gom's diary"
-    location = "A Programmer"
+    #location = "A Programmer"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
-    header_title = "gomlog"
-    copyright = "gomlog.com"
+    #avatar = "img/profile-image.png"
+    #header_background = "img/desk.jpg"
+    #header_title = "gomlog"
+    #copyright = "gomlog.com"
+
+    brand = "gomlog"
+    subtitle = "いきあたりばったり"
+    disqus = "gomlog"
+    googleAnalytics = "UA-769146-3"
 
 [social]
     twitter = "gom"
     github = "gom"
+
+[menu]
+  # Shown in the side menu.
+[[menu.main]]
+  name = "Home"
+  pre = "<i class='fa fa-home fa-fw'></i>"
+  weight = 0
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Posts"
+  pre = "<i class='fa fa-list fa-fw'></i>"
+  weight = 1
+  identifier = "post"
+  url = "/post/"
