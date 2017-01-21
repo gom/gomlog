@@ -28,7 +28,6 @@ build:
 
     - arjen/hugo-build:
       version: "HEAD"
-      theme: minimalist
       config: config.toml
       flags: --buildDrafts=true
 
