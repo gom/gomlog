@@ -1,7 +1,7 @@
 languageCode = "ja"
 title = "gomlog"
 #baseurl = "/"
-baseurl = "http://gomlog.com/"
+baseurl = "https://gomlog.com/"
 theme = "blackburn"
 
 paginate = "10"
