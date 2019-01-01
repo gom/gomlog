@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toeic on gomlog</title>
+    <link>https://gomlog.com/tags/toeic/</link>
+    <description>Recent content in Toeic on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 01 Mar 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/toeic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TOEIC返ってきた</title>
+      <link>https://gomlog.com/20100301_second-toeic-result/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20100301_second-toeic-result/</guid>
+      <description>先日TOEICを受けてきたが、その結果が返ってきた。
+  前回 (2008年2月): 575  今回 (2010年2月): 645  一応600点は超えました！が、目標の700点台には届かず・・・
+ちなみに内訳。  Listening: 350 Reading : 295 
+リーディングの方が頑張ってるつもりだったんだけど、意外な結果。 長文読むのが遅かったため、最後1/3くらい適当に書かざるを得なかったのが響いたようだ。 リスニング・リーディング共に短文の方がスコアが低い。長文は前後から意味推測が可能だが、単語・文法が弱いので稼げないのだろうか？
+やっぱり単語がわからないのが致命的だなあ。 昔から単語丸暗記は苦手なので、DUOでも覚えなおそう。普通に読んでる時も結構意味がわからない単語に出くわして困ることが多いし。 あとは文法もか。まあゆっくりやりましょ。</description>
+    </item>
+    
+  </channel>
+</rss>

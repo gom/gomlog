@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pigg on gomlog</title>
+    <link>https://gomlog.com/tags/pigg/</link>
+    <description>Recent content in Pigg on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 31 Jul 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/pigg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>アメーバピグを始めてみた</title>
+      <link>https://gomlog.com/20110731_started_amebapigg/</link>
+      <pubDate>Sun, 31 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20110731_started_amebapigg/</guid>
+      <description>特にイベントのないMMORPGな感じ ピグかわいい やたらとグッピグ(いいね！みたいなアレ)を求める人がいる プロフィールに「大人」「中Xです！」とか書いてある人多くてびっくり ピグライフなるもので庭育てゲーができる 釣りゲーもあるけどまだ未体験  異文化なかおりがしていいですね。</description>
+    </item>
+    
+  </channel>
+</rss>

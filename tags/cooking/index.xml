@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cooking on gomlog</title>
+    <link>https://gomlog.com/tags/cooking/</link>
+    <description>Recent content in Cooking on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 14 Mar 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ホットプレートで簡単チーズフォンデュ</title>
+      <link>https://gomlog.com/20090314_cheese-fondue-by-hotplate/</link>
+      <pubDate>Sat, 14 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20090314_cheese-fondue-by-hotplate/</guid>
+      <description>テレビでやってたのでメモ。 専用の鍋とか必要ないので、有り合わせで簡単にできそうだ。
+手順のメモ。  とけるチーズに片栗粉を絡める 耐熱容器にチーズを入れ、牛乳か白ワインを入れる 電子レンジにかける。500Wで2分 ホットプレートを低温に設定し、チーズを入れた容器をのせる 容器の周りに野菜やパンなどの食材を並べる 食材に軽く焦げ目がついたら、チーズを付けて食べる 
+詳しくはこちらに載ってます。 テレビ朝日｜賢コツ!!</description>
+    </item>
+    
+  </channel>
+</rss>

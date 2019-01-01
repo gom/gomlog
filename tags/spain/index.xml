@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spain on gomlog</title>
+    <link>https://gomlog.com/tags/spain/</link>
+    <description>Recent content in Spain on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 23 Nov 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/spain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>スペイン旅行記 in モンセラット</title>
+      <link>https://gomlog.com/20071123_travel-spain-montserrat/</link>
+      <pubDate>Fri, 23 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20071123_travel-spain-montserrat/</guid>
+      <description>&lt;p&gt;スペイン旅行記も第3弾(やっと)。時系列をちょっと外れますが、先にモンセラットのことを書きます。
+モンセラットはバルセロナから約1時間の距離にある、山の中です。
+途中、コロニア・グエルという場所でガウディ作の教会堂を観て、それからモンセラットへ向かいました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>スペイン旅行記 in トレド</title>
+      <link>https://gomlog.com/20071025_travel-spain-toledo/</link>
+      <pubDate>Thu, 25 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20071025_travel-spain-toledo/</guid>
+      <description>&lt;p&gt;ちょっと間が空きましたが、スペインの続きです。
+もう1ヶ月以上経ってしまったので、早く書かないと記憶が薄れる！
+今回はトレド。古都らしくとても趣のある、いい街でした。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>スペイン旅行 -序章-</title>
+      <link>https://gomlog.com/20070922_spain-prologue/</link>
+      <pubDate>Sat, 22 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20070922_spain-prologue/</guid>
+      <description>スペインに9日間の旅行に行ってきました。 マドリッド-トレド-バルセロナと立ち寄っています。 目的は観光、観光地回りですね。ツアー等は使わず、自分たちで用意しました。
+次回から何度かに分けて旅行の様子をつづってみたいと思います。 感想や食べたもの、現地の様子なんかを見た限りお伝えできれば幸いです。
+とりあえず今日は･･･疲れた･･･</description>
+    </item>
+    
+  </channel>
+</rss>

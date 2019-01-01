@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search on gomlog</title>
+    <link>https://gomlog.com/tags/search/</link>
+    <description>Recent content in Search on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 13 Aug 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/search/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>自動ソーシャルブックマーク「Pathtraq」</title>
+      <link>https://gomlog.com/20070813_pathtraq/</link>
+      <pubDate>Mon, 13 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20070813_pathtraq/</guid>
+      <description>&amp;raquo;Pathtraq - みんなの見ているサイトをチェック
+FirefoxやIEに拡張を入れ、サイトを眺めていく。 すると、みんなが見ているページにどんなものが多いのか、というデータが溜まっていく。 結果として人気のあるページがわかる。
+とこんな感じでしょうか。ブラウザの右下に現在見ているページの人気度も表示されます。 なお、認証の必要なサイトのデータは送られないそうなので、安心。
+Kazuho@Cybozu Labs: 新サービス: Pathtraq リリースのおしらせ  ただ、ソーシャルブックマークに反映されない情報は、たくさんあります。皆さんは、一日にウェブページを何ページブラウズしていますか？　そのうち、何ページをブクマしていますか？　ごく一部のはずです。ブクマされる情報というのは、そのとき、あとから使えそうな情報だと思ったり、あるいなネタとしておもしろいと思った情報だったりと、どうしても偏ってしまいます。たとえばスポーツや芸能関連のニュースなどは、はてブを見ていてもわかりません。 
+確かに。瞬間的に人気のページってのは反映されにくいのだろうなぁ。 言うなれば、ネット全体のアクセス解析って感じだろうか。全ブラウザに入れば、個別のアクセス解析がいらなくなるのだろうけど・・・さすがにそれは難しいか。 さあ、試しにインストールしてみませんか？</description>
+    </item>
+    
+    <item>
+      <title>Googleブック検索日本語版が出ました</title>
+      <link>https://gomlog.com/20070706_googlebook-japanese/</link>
+      <pubDate>Fri, 06 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20070706_googlebook-japanese/</guid>
+      <description>＞＞Google ブック検索 
+毎度おなじみGoogleより、ブック検索の日本語版が出ました。 キーワードを元に、本の全文から検索してくれるそうです。すごい。 図書館や本屋に行く前に使って、出版社・著者・題名なんかをメモっておく時に便利そうですね。
+また、「全文表示」や「部分プレビュー」など、内容を閲覧できるようになっている本もあります。 著作権が切れているものや許可を得ているものとのことですが、 気になっている本、古典の名作などを無料で読むことができるってことです！
+エセ本好きにはたまらないです。また、ネット時間が増えそうだ・・・</description>
+    </item>
+    
+  </channel>
+</rss>

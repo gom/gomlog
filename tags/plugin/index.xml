@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plugin on gomlog</title>
+    <link>https://gomlog.com/tags/plugin/</link>
+    <description>Recent content in Plugin on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 26 Oct 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Akismetの威力</title>
+      <link>https://gomlog.com/20071026_power-of-akismet/</link>
+      <pubDate>Fri, 26 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20071026_power-of-akismet/</guid>
+      <description>&lt;p&gt;先日よりコメントスパム爆撃にあっています。
+うちのような場末のblogでも、こんなことあるんですねぇ。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on gomlog</title>
+    <link>https://gomlog.com/tags/web/</link>
+    <description>Recent content in Web on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 31 Jul 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>アメーバピグを始めてみた</title>
+      <link>https://gomlog.com/20110731_started_amebapigg/</link>
+      <pubDate>Sun, 31 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20110731_started_amebapigg/</guid>
+      <description>特にイベントのないMMORPGな感じ ピグかわいい やたらとグッピグ(いいね！みたいなアレ)を求める人がいる プロフィールに「大人」「中Xです！」とか書いてある人多くてびっくり ピグライフなるもので庭育てゲーができる 釣りゲーもあるけどまだ未体験  異文化なかおりがしていいですね。</description>
+    </item>
+    
+    <item>
+      <title>GeekChart</title>
+      <link>https://gomlog.com/20090524_geekchart/</link>
+      <pubDate>Sun, 24 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20090524_geekchart/</guid>
+      <description> やってみた。過去30日間のソーシャルサイトでのアクティビティをチャートで表示してくれるんだってさ。
+
+Gom&amp;rsquo;s Geek Chart
+ delicious: 61% Twitter: 20% Last.fm: 12% blog: 7%  ブクマだらけです。 Google Reader Share Itemとか、任意の複数RSSを登録できるようになるといいなあ。というfeedbackを送っておいた。 目で見て比較できると、どんな活動が多いかよくわかっていいね！
+friendfeedにグラフ描画ができればいいような気もする・・・ </description>
+    </item>
+    
+    <item>
+      <title>Gmailで未読メールを検索する</title>
+      <link>https://gomlog.com/20090430_search-unread-mail-in-gmail/</link>
+      <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20090430_search-unread-mail-in-gmail/</guid>
+      <description>検索窓で
+is:unread  と打てば良い。
+他にも  is:xxx で状態別の検索 in:xxx でBoxごとの検索 has:attachment で添付ファイル付きのファイルを検索 list:xxx でメーリングリストのメールを検索 
+辺りは便利そう。
+全コマンドはヘルプで確認しましょう。 詳細検索の使用 - Gmail ヘルプ</description>
+    </item>
+    
+    <item>
+      <title>添削し合って語学を学ぶSNS lang-8</title>
+      <link>https://gomlog.com/20081225_lang-8/</link>
+      <pubDate>Thu, 25 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20081225_lang-8/</guid>
+      <description>なにかを学ぶ時は、それをよく知る人からダメ出しを受けるといいみたい。 特に語学なんて良い先生がいっぱいいる。
+英語習得メソッド＝英語インプット＋日本人から「コツ」＋ネイティブから「ダメだし」 - tech tech okdt
+というわけで、学びたい外国語で日記を書いて、友達に添削してもらえるSNS、lang-8 を紹介。
+相互添削型SNS Lang-8(ランゲート)
+ ・自分の母国語、学びたい言語を登録し、学びたい言語で日記を書く。 ・その言語が母国語の人が、日記を添削してくれる。(1行ずつ添削できるシス テム) ・自分の母国語を学習している人がいたら、添削してあげよう。
+・友達を増やすと、それだけ自分の日記を添削してくれる人が増える。 という互助的システム。お互いに「ツッコミ待ち」が前提なので、添削に対する心理障壁も低くてよい感じ。
+「ネイティブスピーカーと知り合いになって、自分の英語の（発音や表現の） ダメだしをしてもらう」というokdtさんの文脈とは若干異なりますが、 ネイティブに自分の英語表現をダメだしをしてもらえる場として、こんなものも あるよという紹介でした。</description>
+    </item>
+    
+    <item>
+      <title>複数のサービスに一括投稿？</title>
+      <link>https://gomlog.com/20081202_cross-post-service/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20081202_cross-post-service/</guid>
+      <description>lifehacker.jp で紹介されてたサービス。複数のソーシャルサイトやブログに一括投稿できるらしい。 クロスポストってあまり好まれる行為ではないみたいだけど、必要になる場合もある。 例えば自分の場合は、ブログ記事をmixiに流し込めたらいいなーなんて思っていたり。
+便利そうなので、時間がある時に試す。
+postkun（ポスト君） ブログ・SNS一括投稿フリーツール tarpipe
+以上、昼休憩のこっそり投稿でした。
+元記事: 「Tarpipe」なら複数のソーシャルサイトをメールで一括操作 : ライフハッカー［日本版］, 仕事も生活も上手くこなすライフハック情報満載のブログ・メディア</description>
+    </item>
+    
+    <item>
+      <title>携帯フィルタリングのカテゴリ</title>
+      <link>https://gomlog.com/20081129_mobile-filtering/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20081129_mobile-filtering/</guid>
+      <description>「調べる」ウェブサイトのカテゴリ登録を確認｜ネットスター株式会社
+ほー。そんなのが調べられるんだ。 どれどれ、うちのサイトは・・・？
+
+
+[caption id=&amp;ldquo;attachment_411&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;150&amp;rdquo; caption=&amp;ldquo;登録なし？&amp;rdquo;][/caption]
+ けっ！</description>
+    </item>
+    
+    <item>
+      <title>Outputzで自分の出力が原稿用紙何枚分かを観察する</title>
+      <link>https://gomlog.com/20081109_outputz/</link>
+      <pubDate>Sun, 09 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20081109_outputz/</guid>
+      <description>最近Webへの出力が減ってきたなあと悩んでいるところへ、絶好のサービスを見つけた。
+あなたは原稿用紙何枚分のアウトプットをしていますか？ Outputz をインストールすると簡単に知ることができます。 - Outputz
+「今日のあなたのアウトプットは原稿用紙何枚？」 Outputz をリリースしました - ひげぽん OSとか作っちゃうかMona-
+Firefoxアドオンを入れると、Web上で入力した文字数を記録してくれる。 原稿用紙何枚分をアウトプットしたか？を表示してくれ、おまけにそれを時間帯・サイト別にグラフ化してくれる。
+1週間を振り返る時にこれを見て、「今週はあまりアウトプットできなかったなあ。仕事忙しかったしなあ。」とか「今週はいっぱいブログ書いた！いっぱいコメントした！」とかアウトプットできた/できなかった要因を探るのに使ってみようと思う。
+ちなみに下のが11/8(土)のアウトプットのグラフ 2008/11/8 の Outputz原稿用紙 2.0枚（805文字） powered by Outputz.
+
+今週、今月、今年なんていう単位でも見れるし、複数のパソコンでも「復活の呪文」を入れることでデータを共有できる。
+ちょっとした注意 ちょっとした注意点は、文字入力したページのURLと文字列数が全て記録されてしまうこと。 例えば銀行とかショッピングサイトとかひみつ☆の部屋などで入力した文字数もアウトプット数としてカウントされる。 どーーーーーーしてもアウトプットを記録されたくない時は別のブラウザ使うなりしましょうね。 ※ 文字列自体が記録されるわけではない(と思う)し、記録が公開されるわけではない。</description>
+    </item>
+    
+    <item>
+      <title>そういやエイプリルフールだった</title>
+      <link>https://gomlog.com/20080401_april-fool-2008/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20080401_april-fool-2008/</guid>
+      <description>今年もエイプリルフールがやってきました。 根っからの善人であるわたくしは嘘などついたこともないわけなので、何の関係もないイベントなのですが、 ネット上では様々なジョークが飛び交っていたようです。 GIGAZINEさんにまとめ記事が上げられていたので、ブクマ代わりに紹介します。
+エイプリルフールに便乗しているサイトまとめ2008年版 - GIGAZINE
+続・エイプリルフールに便乗しているサイトまとめ2008年版 - GIGAZINE
+実に色々なサイトがネタを披露しています。 個人的にお気に入りはこの2つ。
+「コーヒー吹いたｗｗｗ」で破損した製品の特別修理サービス 若槻千夏限定だが麻婆豆腐まで補償対象になっている
+カネゴンの78ちゃんねるまとめブログ 「ウ→ル→ト→ラ→マ→ンでウルトラの母の秘蔵画像うｐ」でのバルタンで吹いた</description>
+    </item>
+    
+    <item>
+      <title>FriendFeedに登録してみた</title>
+      <link>https://gomlog.com/20080323_friendfeed/</link>
+      <pubDate>Sun, 23 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20080323_friendfeed/</guid>
+      <description>FriendFeedはWeb上の自分の活動をまとめて紹介できるサービス。 自分のBlogやTwitter、del.icio.us、FrickrやLast.fmなどのサービスを始め、フィードを生成しているものならまとめて表示できる。
+また、友達の活動を購読することで、一括して表示できる。ついでにFriendFeed上でコメントをつけることだってできる。
+このサービス、色々な可能性があると思うのだが、Webでの活動を一括して表示できるだけでも価値があると感じている。 しばらく使ってみて、様子を見てみることにしよう。
+というわけで自分のFriendFeed。Subscribeはお気軽に～。 http://friendfeed.com/gom</description>
+    </item>
+    
+    <item>
+      <title>もしもO&#39;Reillyに載ったら</title>
+      <link>https://gomlog.com/20080125_orielly-book-cover/</link>
+      <pubDate>Fri, 25 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20080125_orielly-book-cover/</guid>
+      <description>こんな感じになるのかなぁ。 gomlog Hacks
+O&amp;rsquo;Reilly Maker - Create a funny book cover!</description>
+    </item>
+    
+    <item>
+      <title>街を作ってみました</title>
+      <link>https://gomlog.com/20071231_myminicity/</link>
+      <pubDate>Mon, 31 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20071231_myminicity/</guid>
+      <description>MyMiniCity
+いまさらかもしれないけど、MyMiniCity。自動進行のシムシティーみたいなやつ。 複数の人がURLにアクセスすることによって人口が増え、街が発展していく。
+ある程度の段階まで行くと、違うURLを踏んでもらうことによってパラメータが変動する。 まだそこまでいってないからわからないけど:p</description>
+    </item>
+    
+    <item>
+      <title>読後メモ：2ch「ブラック会社に勤めてるんだが、もう俺は限界かもしれない」</title>
+      <link>https://gomlog.com/20071216_black-company/</link>
+      <pubDate>Sun, 16 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20071216_black-company/</guid>
+      <description>ようやく読了。面白かった。 ただの社内事情暴露スレかと思って読んでいたら、まさかこんな結末になるなんて･･･
+完結：ブラック会社に勤めてるんだが、もう俺は限界かもしれないハムスター速報　２ろぐ
+過去のエントリへのリンクが最初にあるので、未読の人は時間があるときにでも、ぜひ最初から読んでみてください。 俺も藤田さんのような先輩に巡り会ってみたいな･･･</description>
+    </item>
+    
+    <item>
+      <title>違う世界だと感じる時</title>
+      <link>https://gomlog.com/20070911_another-world/</link>
+      <pubDate>Tue, 11 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20070911_another-world/</guid>
+      <description>人月計算とExcelとスーツの世界より
+ブクマの山に埋もれないようにメモ。 同じように考えてる人、やっぱいたんだなぁ。よかった。 次の部分があまりに共感できる、というか今自分が考えていることそのままなので、貼っておきます。じゃあ俺はどんな世界にいて、どう考えているのか？は、もうちょっと時間があるときにまた書きます。
+俺はCOBOLやってるわけじゃないけど、気持ちがすごくよくわかる･･･
+３０年前のシステムをカビの生えた言語でツギハギする仕事じゃ、俺の心はまったく満たされない。 ユーザーの業務知識ばかり身につけたって、俺自身の人生には、いいことなんてない。 俺が求めていたのは、この仕事じゃないんだ。 社内の誰も、TumblrもTwitterもやっていない。ライフハックなんて聞いたこともない。 Joostやモバゲーや２ちゃんねるが社会に与える影響について誰も語れない。 休日はゴルフや酒に興じている。自宅にPCを持ってない人までいる。 おかしいことじゃない。普通の人たちだ。 それどころか彼らは、仕事とプライベートを切り分けている、立派な人たちだ。 でも、やっぱり俺の生きていきたい世界は、ここじゃないんだ。 </description>
+    </item>
+    
+    <item>
+      <title>自動ソーシャルブックマーク「Pathtraq」</title>
+      <link>https://gomlog.com/20070813_pathtraq/</link>
+      <pubDate>Mon, 13 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20070813_pathtraq/</guid>
+      <description>&amp;raquo;Pathtraq - みんなの見ているサイトをチェック
+FirefoxやIEに拡張を入れ、サイトを眺めていく。 すると、みんなが見ているページにどんなものが多いのか、というデータが溜まっていく。 結果として人気のあるページがわかる。
+とこんな感じでしょうか。ブラウザの右下に現在見ているページの人気度も表示されます。 なお、認証の必要なサイトのデータは送られないそうなので、安心。
+Kazuho@Cybozu Labs: 新サービス: Pathtraq リリースのおしらせ  ただ、ソーシャルブックマークに反映されない情報は、たくさんあります。皆さんは、一日にウェブページを何ページブラウズしていますか？　そのうち、何ページをブクマしていますか？　ごく一部のはずです。ブクマされる情報というのは、そのとき、あとから使えそうな情報だと思ったり、あるいなネタとしておもしろいと思った情報だったりと、どうしても偏ってしまいます。たとえばスポーツや芸能関連のニュースなどは、はてブを見ていてもわかりません。 
+確かに。瞬間的に人気のページってのは反映されにくいのだろうなぁ。 言うなれば、ネット全体のアクセス解析って感じだろうか。全ブラウザに入れば、個別のアクセス解析がいらなくなるのだろうけど・・・さすがにそれは難しいか。 さあ、試しにインストールしてみませんか？</description>
+    </item>
+    
+    <item>
+      <title>Webページを日本語化してくれる拡張「Japanize 0.8.9」リリース</title>
+      <link>https://gomlog.com/20070809_bug-in-japanize089/</link>
+      <pubDate>Thu, 09 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20070809_bug-in-japanize089/</guid>
+      <description>&amp;raquo;ネットを日本語化する:Japanize
+閲覧しているページを日本語化してくれるFirefox拡張、Japanizeの0.8.9がリリースされました。 del.icio.usなどの英語ページも重要部分を日本語に翻訳してページを表示してくれる、とても便利なFirefox拡張です。 サイト単位での翻訳許可/不許可が設定できるようになるなど、かゆいところに手が届く修正が入っています。
+が・・・うちの環境では、ブックマークツールバーが読み込めなくなります。 ブックマーク自体も、メニューバーから開けなくなる不具合が発生しているようです。 開発ブログを見てみたところ、同様の症状が数件報告されている模様。 きっと近日中に直されると思うので、それを待っています。ないと不便なものだ、ということを実感しています・・・
+英語が苦手な人はGoogle Toolbarと併せて使うと、英語サイトでも楽に閲覧できますよ！ 修正バージョンがリリースされたら、ぜひ使ってみてください。 翻訳対応サイト一覧はこちら</description>
+    </item>
+    
+    <item>
+      <title>Googleブック検索日本語版が出ました</title>
+      <link>https://gomlog.com/20070706_googlebook-japanese/</link>
+      <pubDate>Fri, 06 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20070706_googlebook-japanese/</guid>
+      <description>＞＞Google ブック検索 
+毎度おなじみGoogleより、ブック検索の日本語版が出ました。 キーワードを元に、本の全文から検索してくれるそうです。すごい。 図書館や本屋に行く前に使って、出版社・著者・題名なんかをメモっておく時に便利そうですね。
+また、「全文表示」や「部分プレビュー」など、内容を閲覧できるようになっている本もあります。 著作権が切れているものや許可を得ているものとのことですが、 気になっている本、古典の名作などを無料で読むことができるってことです！
+エセ本好きにはたまらないです。また、ネット時間が増えそうだ・・・</description>
+    </item>
+    
+    <item>
+      <title>RSSって楽ね。</title>
+      <link>https://gomlog.com/20050727_rss_easiry_the_news_inspection/</link>
+      <pubDate>Wed, 27 Jul 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20050727_rss_easiry_the_news_inspection/</guid>
+      <description>&lt;p&gt;とっても今更ですが、RSS使い始めました。&lt;br /&gt;
+&lt;br /&gt;
+便利ですねーこれ。主に会社で使っているんですが、今まで毎朝ニュースのチェックにYahoo見てたんですが。。。&lt;br /&gt;
+記事のタイトルを一瞥するだけでも、結構な手間になるんですよね。時間かけすぎると隣から冷たい視線も飛んでくるし。&lt;br /&gt;
+そこで、会社ではFirefox使っているため、SageというRSSリーダを入れてみました。&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>淡く儚く</title>
+      <link>https://gomlog.com/20041123_cherry_blossam/</link>
+      <pubDate>Tue, 23 Nov 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20041123_cherry_blossam/</guid>
+      <description>&lt;p&gt;さて、昨日どっぷりはまったものがあります。&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&#34;http://www5f.biglobe.ne.jp/~sakura_cb/&#34; title=&#34;CHERRY BLOSSOM&#34;&gt;CHERRY BLOSSOM&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+悠里さんという方が書いているｵﾝﾗｲﾝ小説です。&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

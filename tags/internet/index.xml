@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on gomlog</title>
+    <link>https://gomlog.com/tags/internet/</link>
+    <description>Recent content in Internet on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 24 May 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>オプションにご用心</title>
+      <link>https://gomlog.com/20080524_precaution-of-option/</link>
+      <pubDate>Sat, 24 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20080524_precaution-of-option/</guid>
+      <description>&lt;p&gt;友達のPC購入＆設置を手伝ってきました。
+久々に電気屋行ったりすると、色々知らなかったことがわんさか･･･&lt;/p&gt;
+
+&lt;p&gt;そのなかでも、回線とPCのセット購入が初体験だったので、ちょっとメモ。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Winny</title>
+      <link>https://gomlog.com/20060311_winny_virus/</link>
+      <pubDate>Sat, 11 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20060311_winny_virus/</guid>
+      <description>&lt;p&gt;Winny経由での情報流出事件が相次いでいる。&lt;br /&gt;
+っていうかやけに騒がれている。&lt;br /&gt;
+いまだに「仁義なきキンタマ」が猛威をふるってるってことだろうか。&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

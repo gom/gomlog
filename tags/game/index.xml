@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game on gomlog</title>
+    <link>https://gomlog.com/tags/game/</link>
+    <description>Recent content in Game on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ドラクエ9</title>
+      <link>https://gomlog.com/20090822_dragonquest9/</link>
+      <pubDate>Sat, 22 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20090822_dragonquest9/</guid>
+      <description>買いました。まだレベル12くらい。 2年ぶりくらいにゲームやったけど、はまってしまうのが怖いw
+ </description>
+    </item>
+    
+    <item>
+      <title>ファミコンブームの裏側</title>
+      <link>https://gomlog.com/20090313_truth-of-family-computer-movement/</link>
+      <pubDate>Fri, 13 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20090313_truth-of-family-computer-movement/</guid>
+      <description>Business Media 誠：“高橋名人”という社会現象——高橋利幸氏、ファミコンブームを振り返る（前編） (1&amp;frasl;5) Business Media 誠：16連射、ゲームは1日1時間の裏側——高橋利幸氏、ファミコンブームを振り返る（後編） (1&amp;frasl;5)
+ちょうどファミコンブームまっただ中に子ども時代を過ごした自分にとっては、とても面白い記事だった。
+なによりも、「ゲームは健全なものである」ということを強く押し出していったというのは印象的。 少しでも多くゲームで遊んで欲しいはずのメーカーが、「1日1時間！」と強く主張し続けるというのは ものすごいことだと思う。 「雪国もやしは高いから買っちゃだめ！」的なすごさ。
+でも、その裏側ではいかに子どもに楽しんでもらうか、一方的に商品を押し付けるのではなく、子どもの成長とゲーム楽しみを共存させようと真剣に考えてた人達がいたのだと感動した。</description>
+    </item>
+    
+  </channel>
+</rss>

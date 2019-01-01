@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tool on gomlog</title>
+    <link>https://gomlog.com/tags/tool/</link>
+    <description>Recent content in Tool on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 13 Aug 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/tool/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>自動ソーシャルブックマーク「Pathtraq」</title>
+      <link>https://gomlog.com/20070813_pathtraq/</link>
+      <pubDate>Mon, 13 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20070813_pathtraq/</guid>
+      <description>&amp;raquo;Pathtraq - みんなの見ているサイトをチェック
+FirefoxやIEに拡張を入れ、サイトを眺めていく。 すると、みんなが見ているページにどんなものが多いのか、というデータが溜まっていく。 結果として人気のあるページがわかる。
+とこんな感じでしょうか。ブラウザの右下に現在見ているページの人気度も表示されます。 なお、認証の必要なサイトのデータは送られないそうなので、安心。
+Kazuho@Cybozu Labs: 新サービス: Pathtraq リリースのおしらせ  ただ、ソーシャルブックマークに反映されない情報は、たくさんあります。皆さんは、一日にウェブページを何ページブラウズしていますか？　そのうち、何ページをブクマしていますか？　ごく一部のはずです。ブクマされる情報というのは、そのとき、あとから使えそうな情報だと思ったり、あるいなネタとしておもしろいと思った情報だったりと、どうしても偏ってしまいます。たとえばスポーツや芸能関連のニュースなどは、はてブを見ていてもわかりません。 
+確かに。瞬間的に人気のページってのは反映されにくいのだろうなぁ。 言うなれば、ネット全体のアクセス解析って感じだろうか。全ブラウザに入れば、個別のアクセス解析がいらなくなるのだろうけど・・・さすがにそれは難しいか。 さあ、試しにインストールしてみませんか？</description>
+    </item>
+    
+    <item>
+      <title>Daemon Toolの甘い罠</title>
+      <link>https://gomlog.com/20050803_daemon_tools_trap/</link>
+      <pubDate>Wed, 03 Aug 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20050803_daemon_tools_trap/</guid>
+      <description>&lt;p&gt;毎日とか言っておいて早速さぼってみました。&lt;br /&gt;
+&lt;br /&gt;
+CDやDVDのイメージを作って、仮想ドライブに読み込んで?なんてことは最近多いと思います。&lt;br /&gt;
+おいらもDaemon Toolsを使ってます。&lt;br /&gt;
+このDaemon Tools、紹介とかインストール、使い方説明のページはいっぱいあります。&lt;br /&gt;
+が。アンインストールの説明をしているページはほとんどありません。&lt;br /&gt;
+「アプリケーションの削除でいいんじゃね？」とお思いでしょう。&lt;br /&gt;
+実際はそれでいいんですが（ぇ&lt;br /&gt;
+&lt;br /&gt;
+実はこのDaemon Tools、ただではアンインストールされてくれないんです。今日はそんなお話･･･&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RSSって楽ね。</title>
+      <link>https://gomlog.com/20050727_rss_easiry_the_news_inspection/</link>
+      <pubDate>Wed, 27 Jul 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20050727_rss_easiry_the_news_inspection/</guid>
+      <description>&lt;p&gt;とっても今更ですが、RSS使い始めました。&lt;br /&gt;
+&lt;br /&gt;
+便利ですねーこれ。主に会社で使っているんですが、今まで毎朝ニュースのチェックにYahoo見てたんですが。。。&lt;br /&gt;
+記事のタイトルを一瞥するだけでも、結構な手間になるんですよね。時間かけすぎると隣から冷たい視線も飛んでくるし。&lt;br /&gt;
+そこで、会社ではFirefox使っているため、SageというRSSリーダを入れてみました。&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skype on gomlog</title>
+    <link>https://gomlog.com/tags/skype/</link>
+    <description>Recent content in Skype on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 25 Dec 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/skype/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skypeボタン</title>
+      <link>https://gomlog.com/20071225_skype-button/</link>
+      <pubDate>Tue, 25 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20071225_skype-button/</guid>
+      <description>Skypeボタンを付けてみました。使われるとも思えませんが、Blog見てもらえば連絡付くようになると楽かなと･･･ さて、このSkypeボタン。12/25現在、日本語のSkype公式サイトからは作成できません。 Javascriptがエラーはき出してます(IE6、Firefox2で確認)
+Skypeサイト(英語)に切り替えて、Share→Button and Widgets→Create Skype Me! button nowと押していくと、ボタン作成画面になります。
+SkypeIDを入力、希望の形式を選んで、コードをコピペするだけです。
+  ↑押すとSkypeでチャットが立ち上がります。</description>
+    </item>
+    
+  </channel>
+</rss>

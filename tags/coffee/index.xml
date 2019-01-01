@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coffee on gomlog</title>
+    <link>https://gomlog.com/tags/coffee/</link>
+    <description>Recent content in Coffee on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 18 Jan 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/coffee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>コーヒーのおいしい入れ方まとめのメモ</title>
+      <link>https://gomlog.com/20090118_dripping-nice-coffee/</link>
+      <pubDate>Sun, 18 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20090118_dripping-nice-coffee/</guid>
+      <description>参考: | ＾＾ |秒刊SUNDAY | これで不味いなら諦めろ！コーヒー激旨化レシピ集２００８
+色々書いてあって正直覚えきれないので、ペーパードリップで気をつけるべきことを軽くメモ。
+ 豆を粉にするのは抽出する直前。粉を買ってこない方が良い。 器具は暖める。お湯の温度が下がると味が変わるらしい。 入れるときはまず粉全体を蒸らす。ふくらむといいらしい。 泡が落ちきる前にドリッパーを外す。  ドリッパーとペーパーは既に使っているが、結構適当にいれている。 追加でミルとコーヒーケトルを買うともっと美味しく飲めそうだが、1杯飲むごとにいちいち洗うのがちょっと面倒とも思う。
+特に参考になったリンク：  おいしいコーヒーの入れ方＆ドリップ式・コーヒーメーカー編／ToNeGaWaCoffee おいしいコーヒーのいれ方 おいしいコーヒーの正しい入れ方　 シグマ珈琲・旨いコーヒーの淹れ方 
+      </description>
+    </item>
+    
+  </channel>
+</rss>

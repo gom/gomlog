@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theme on gomlog</title>
+    <link>https://gomlog.com/tags/theme/</link>
+    <description>Recent content in Theme on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 05 Jun 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>wordpress--K2は悪くなかっ･･･た？</title>
+      <link>https://gomlog.com/20070605_sorry_k2/</link>
+      <pubDate>Tue, 05 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20070605_sorry_k2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://gomlog.com/2007/05/29/k2_no_bad/&#34;&gt;前回のエントリ&lt;/a&gt;の続きです。
+表示されていなかったK2ライブアーカイブ機能を復活させました。バージョンアップが原因なのか、はたまた・・・
+以下、詳細。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

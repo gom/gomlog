@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gmail on gomlog</title>
+    <link>https://gomlog.com/tags/gmail/</link>
+    <description>Recent content in Gmail on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 30 Apr 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/gmail/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gmailで未読メールを検索する</title>
+      <link>https://gomlog.com/20090430_search-unread-mail-in-gmail/</link>
+      <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20090430_search-unread-mail-in-gmail/</guid>
+      <description>検索窓で
+is:unread  と打てば良い。
+他にも  is:xxx で状態別の検索 in:xxx でBoxごとの検索 has:attachment で添付ファイル付きのファイルを検索 list:xxx でメーリングリストのメールを検索 
+辺りは便利そう。
+全コマンドはヘルプで確認しましょう。 詳細検索の使用 - Gmail ヘルプ</description>
+    </item>
+    
+  </channel>
+</rss>

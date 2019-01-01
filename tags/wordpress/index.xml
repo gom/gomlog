@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on gomlog</title>
+    <link>https://gomlog.com/tags/wordpress/</link>
+    <description>Recent content in Wordpress on gomlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 26 Sep 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gomlog.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordpressにFacebook LikeとTweetボタンを付けた</title>
+      <link>https://gomlog.com/20100926_add_like_and_tweet_buttons/</link>
+      <pubDate>Sun, 26 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20100926_add_like_and_tweet_buttons/</guid>
+      <description>プラグインになっているのでラクチンですね。 http://wordpress.org/extend/plugins/like/ http://wordpress.org/extend/plugins/wp-tweet-button/
+ついでに投稿時の通知もつけた。(今まではFeedからの通知) http://wordpress.org/extend/plugins/tweetable/</description>
+    </item>
+    
+    <item>
+      <title>サーバー移転しました</title>
+      <link>https://gomlog.com/20100222_migrated_to_coreserver/</link>
+      <pubDate>Mon, 22 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20100222_migrated_to_coreserver/</guid>
+      <description>XREA =&amp;gt; CORESERVERに移転完了。 まだいろいろ表示されたりされなかったりですが、そのうち出てくるでしょう。
+以下、大雑把な移転作業ログ。
+ MySQLのダンプ取得 サーバ申し込み ファイルのバックアップと新サーバへ転送 (サーバ間転送機能を使用) DBの作成とダンプの復元 DNSの設定変更 サーバのドメイン・メール設定 wordpressプラグインのパーミッション設定  以上。
+問題があったのは、サーバ間転送機能。 logディレクトリ内の.htpasswdまでコピーされてしまい、パスワードわからなくて困った。 しかもsshでログインしてもhtpasswdコマンド使えないし・・・ Macでhtpasswd -nしてぺたぺたして解決。
+あと、CORESERVERの管理画面はDBができたのかできてないのかさっぱりわからないので、ずっとDBエラーが出続けていたのが困った程度。 作成ボタンを押してないことにもっと早く気づいていれば！
+そんなわけで一件落着。
+あ、ちなみにwordpress.comは検討したけど次の理由で今回は見送り。  自由にプラグインを入れられない テーマのカスタマイズも制限があるっぽい  その辺いじるのも面倒になったらブログサービスに完全に移してしまおう。</description>
+    </item>
+    
+    <item>
+      <title>サーバーを移します</title>
+      <link>https://gomlog.com/20100221_server_migration/</link>
+      <pubDate>Sun, 21 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20100221_server_migration/</guid>
+      <description>blogをホスティングしているサーバを移します。 ドメインを切り替えるときに数時間繋がらないかもしれませんが、そのうち見えるようになるはずです。
+もう金払っちゃったけど、どうせwordpressしか使ってないから、Wordpress.comのホスティングに変えてしまおうかしら・・・</description>
+    </item>
+    
+    <item>
+      <title>コメントをDISQUSに変えてみた</title>
+      <link>https://gomlog.com/20091128_change-comment-system-to-disqus/</link>
+      <pubDate>Sat, 28 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20091128_change-comment-system-to-disqus/</guid>
+      <description>コメントをDISQUSに変えてみた。
+ブログを入れ替えたりするときに移行が楽かなーというのと、アイコンが表示されるという辺りが理由だったり。</description>
+    </item>
+    
+    <item>
+      <title>emacsからの投稿テスト</title>
+      <link>https://gomlog.com/20090814_post-test-with-emacs/</link>
+      <pubDate>Fri, 14 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20090814_post-test-with-emacs/</guid>
+      <description>テスト代わりの投稿。 Keywordsでカテゴリ指定、タグはいじれないんだな。
+X-URLを変更してからC-x C-s でもPermalinkはうまく反映されない。 C-c C-cでdraft投稿をして、公開前にPermalinkを調整してから公開するのがよさそう。</description>
+    </item>
+    
+    <item>
+      <title>Wordpressの嫌なところ</title>
+      <link>https://gomlog.com/20090106_unpleasant-point-ofwordpress/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20090106_unpleasant-point-ofwordpress/</guid>
+      <description>テーマごとに title タグの内容をカスタムしているので、変更するとタイトルの書式が変わってしまう。 wp_title() を見ているだけかと思ったら、直打ちしてあったりする。 まあ、書き換えればいいんだけどね・・・
+というわけで、テーマをblueberryからK2に戻しました。</description>
+    </item>
+    
+    <item>
+      <title>Wordpress2.7にアップグレード</title>
+      <link>https://gomlog.com/20081214_upgrade-wordpress27/</link>
+      <pubDate>Sun, 14 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20081214_upgrade-wordpress27/</guid>
+      <description>Wordpress2.7にアップグレードしました。 WordPress | 日本語
+今回はダッシュボードを始め、管理画面が大幅に変更された様子。 
+使いやすくなっているといいなあ。</description>
+    </item>
+    
+    <item>
+      <title>WordPress--Wordpress2.6.2にアップデート</title>
+      <link>https://gomlog.com/20080930_update-wordpress262/</link>
+      <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20080930_update-wordpress262/</guid>
+      <description>しました。 2.6 → 2.6.2
+なにも考えずに全ファイルアップロード。upgrade実行。 なにも問題が起こらず、ほっと一安心。</description>
+    </item>
+    
+    <item>
+      <title>Wordpress--Wordpress2.6で新しい投稿ブックマークレットが追加されていた</title>
+      <link>https://gomlog.com/20080805_wordpress-bookmarklet-new/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20080805_wordpress-bookmarklet-new/</guid>
+      <description>先日Wordpress :: Wordpress2.5.1以降でブックマークレットを使って投稿する なんていういエントリを書いた。 その時は気づかなかったのだが、Wordpress2.6で新しく投稿ブックマークレットが追加されていた。 下の「Press This」というリンク。 [caption id=&amp;ldquo;attachment_311&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;150&amp;rdquo; caption=&amp;ldquo;&amp;rdquo;][/caption]
+管理画面の右下の方に、ひっそりと。気づかなかったー。注意力が足りない。
+使ってみると、別窓で投稿画面が開くようになる。が、自分の環境(MacOS10.5, Fx3.01)だと、編集領域が妙に小さい。 ちょっと編集しづらいので、旧ブックマークレットを使い続けようかなあ。</description>
+    </item>
+    
+    <item>
+      <title>iPod touchアプリからの投稿テスト</title>
+      <link>https://gomlog.com/20080805_ipod-touche382a2e38397e383aae3818be38289e381aee68a95e7a8bfe38386e382b9e38388/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20080805_ipod-touche382a2e38397e383aae3818be38289e381aee68a95e7a8bfe38386e382b9e38388/</guid>
+      <description>ver.1.1からのテスト。 日本語うてるかな？</description>
+    </item>
+    
+    <item>
+      <title>Wordpress-- iPhoneのWordpressアプリが使えない</title>
+      <link>https://gomlog.com/20080803_cannot-use-wordpress-for-iphone/</link>
+      <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20080803_cannot-use-wordpress-for-iphone/</guid>
+      <description>正確に言うと、iPod touchで試したんですが。
+どうやら2byte文字を含むとPostできないみたい。改善されると、ブログの更新率がぐっと上がるんだけどなあ。</description>
+    </item>
+    
+    <item>
+      <title>Wordpress -- Wordpress2.5.1以降でブックマークレットを使って投稿する</title>
+      <link>https://gomlog.com/20080802_wordpress_bookmarkret/</link>
+      <pubDate>Sat, 02 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20080802_wordpress_bookmarkret/</guid>
+      <description>Wordpress2.3までに使えていた投稿用ブックマークレットを使う方法。
+以下のブックマークレットをブックマークに登録します。 自分のブログのURLに書き換えましょう。  javascript:if(navigator.userAgent.indexOf(&amp;lsquo;Safari&amp;rsquo;)&amp;gt;=%200){Q=getSelection();}else{Q=document.selection? document.selection.createRange().text:document.getSelection();} location.href=&amp;lsquo;http://example.com/wp-admin/post-new.php?text=&#39;+encodeURIComponent(Q)+&#39;&amp;amp;popupurl=&#39;+encodeURIComponent(location.href)+&#39;&amp;amp;popuptitle=&#39;+encodeURIComponent(document.title); 
+投稿したいページでブックマークレットを押すと、投稿ページに飛びます。 本文に投稿したいページのURLが挿入されていれば成功。</description>
+    </item>
+    
+    <item>
+      <title>Wordpress2.5へのアップデートとfaviconの設置</title>
+      <link>https://gomlog.com/20080402_wordpress-update/</link>
+      <pubDate>Wed, 02 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20080402_wordpress-update/</guid>
+      <description>WordPress2.5にアップデートした。
+いつのまにか変わってた 以前はUTF-8対応のため、/wp-includes/wp-db.phpの89行目付近に1行追加していた。 WordPress2.2以上では、上記ファイルに手を加える必要がなくなったらしい。 全く気づいてなかった･･･ 代わりにwp-config.phpに以下の設定が追加されていた。
+ define(&#39;DB_CHARSET&#39;, &#39;utf8&#39;); define(&#39;DB_COLLATE&#39;, &#39;&#39;);  デフォルト値がUTF-８なので、これでOK。楽になったもんだ。
+参考：power source* » XREAにUTF8設置時の文字化け： 4）設置方法まとめ Wordpress::EUCからUTF8への移行方法 : gomlog
+ついでにfavicon 勢いでfaviconも作ってしまった。ブラウザの端っこの方に小さく表示されている･･･はず！ イラレが3回吹き飛んだのでどんどん手抜きになっていったけど、元から手抜きなんで気にしない。</description>
+    </item>
+    
+    <item>
+      <title>WordPressME 2.2からWordPress2.3.3へ乗り換えた</title>
+      <link>https://gomlog.com/20080327_wordpressme-22e3818be38289wordpress233e381b8e4b997e3828ae68f9be38188e38197e3819f/</link>
+      <pubDate>Thu, 27 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20080327_wordpressme-22e3818be38289wordpress233e381b8e4b997e3828ae68f9be38188e38197e3819f/</guid>
+      <description>久々にWordpressをいじくった。
+WordPress Japan DB » WordPress Japan 閉鎖のお知らせ
+3月末日をもちまして、WordPress Japan 及び関連コンテンツを閉鎖させていただきます。 長い間ご利用いただきまして有難うございました。 現在 ME をご利用中のユーザーさんは、配信しているフィードや画像が読み込めなくなりますので、 本家の対応バージョンにて上書きするなりのご対応をお願いいたします。 とまあ、Wordpress Japan閉鎖、WordpressMEの更新停止を受け、本家版に乗り換えておこうと画策。 さくっと乗り換えてみた。
+UTWの問題 特に問題はでなかったけど、Ultimate Tag Warriorを使っていると、query.phpのis_tagメソッドが衝突してエラーになる。 2.3からタグ機能が標準搭載になったようなので、アップデート前にプラグインを無効化しましょう。 間違えて有効にしたままアップデートしちゃったら、以下の手順でUTWを無効化しましょう。
+query.phpをME2.2のものに差し戻す→管理画面のプラグインタグからUTWを無効化する→2.3.3のquery.phpに戻す
+以上。自分はこの方法で移行できた。 後は管理画面→管理→インポートからUTWのタグをインポートできるので忘れずに行おう。
+プラグインの入れ替え UTWが使えなくなったので、関連プラグインも削除。 タグ管理には、代わりにSimple Tagsを使用。
+他にプラグインのアップデートと不要になったものの削除。
+次は2.5 もうすぐ2.5が出るらしいので、期待。大幅に変更されているらしいけど、まだ見ていない。</description>
+    </item>
+    
+    <item>
+      <title>2007年の記事別アクセスレポート</title>
+      <link>https://gomlog.com/20071231_2007-access-report/</link>
+      <pubDate>Mon, 31 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20071231_2007-access-report/</guid>
+      <description>今年も残すところ1日となりました。たまには自Blogについて振り返ってみようと思います。 1年間でもっともアクセスがあった記事トップ5を紹介します。
+ 2girls1cupを見てみた SIerってやつは ユビキタス・キャプチャー Daemon Toolの甘い罠 違法ダウンロードとCDの売り上げ低迷は関係ないらしい  やはり流行りもの強し。あとはネタ元の影響が強い記事が多いですね。 そして4位には珍しくツールの解説記事。2年前の文章を読み返すと、かなりはづかしいなぁ・・・
+今年見にきてくれた皆様、ありがとうございました。 来年もよろしくお願いします。</description>
+    </item>
+    
+    <item>
+      <title>Akismetの威力</title>
+      <link>https://gomlog.com/20071026_power-of-akismet/</link>
+      <pubDate>Fri, 26 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20071026_power-of-akismet/</guid>
+      <description>&lt;p&gt;先日よりコメントスパム爆撃にあっています。
+うちのような場末のblogでも、こんなことあるんですねぇ。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>wordpress--K2は悪くなかっ･･･た？</title>
+      <link>https://gomlog.com/20070605_sorry_k2/</link>
+      <pubDate>Tue, 05 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20070605_sorry_k2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://gomlog.com/2007/05/29/k2_no_bad/&#34;&gt;前回のエントリ&lt;/a&gt;の続きです。
+表示されていなかったK2ライブアーカイブ機能を復活させました。バージョンアップが原因なのか、はたまた・・・
+以下、詳細。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>wordpress--K2は悪くない･･･はず</title>
+      <link>https://gomlog.com/20070529_k2_no_bad/</link>
+      <pubDate>Tue, 29 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20070529_k2_no_bad/</guid>
+      <description>使っているWordpressのテーマ、「K2」がバグりまくっている。 いや、K2が悪いってわけじゃない。カスタマイズも楽でいいテーマだ。 ただ・・・なぜかそのカスタマイズ部分が動かない。 ちょっと前にWPのバージョンアップをした辺りからなんか変。アーカイブは見れなくなるわ、関連エントリのプラグインは表示されなくなるわ・・・ きっとバージョンアップの時になんか忘れてたんだろうか・・・ WP2.2.1が出たらバージョンアップついでにテーマ入れ替えてみる予定。そろそろ夏の準備！</description>
+    </item>
+    
+    <item>
+      <title>Wordpress--EUCからUTF8への移行方法</title>
+      <link>https://gomlog.com/20070127_wordpress_euc_to_utf8/</link>
+      <pubDate>Sat, 27 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://gomlog.com/20070127_wordpress_euc_to_utf8/</guid>
+      <description>&lt;p&gt;WordpressとMySQLの文字コードの不整合が起こっていたのですが、ようやく復旧しました。
+ひっそりとサーバー移転。MｙSQL4→5になり、文字コードもUTF-8にしました。&lt;/p&gt;
+
+&lt;p&gt;管理画面へのアクセスに異常に時間がかかっていたのですが・・・これも解決しました。
+快適です。&lt;/p&gt;
+
+&lt;p&gt;移行後の環境は
+Web：Apache1.3.37
+PHP5.1.6
+MySQL5.1.11&lt;/p&gt;
+
+&lt;p&gt;以下、解決方法の紹介です。ちょっと長いですが、ご容赦ください。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
