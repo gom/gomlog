@@ -1,48 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Twitter on gomlog</title>
-    <link>https://gomlog.com/tags/twitter/</link>
-    <description>Recent content in Twitter on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Sun, 26 Sep 2010 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>WordpressにFacebook LikeとTweetボタンを付けた</title>
-      <link>https://gomlog.com/20100926_add_like_and_tweet_buttons/</link>
-      <pubDate>Sun, 26 Sep 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20100926_add_like_and_tweet_buttons/</guid>
-      <description>プラグインになっているのでラクチンですね。 http://wordpress.org/extend/plugins/like/ http://wordpress.org/extend/plugins/wp-tweet-button/
-ついでに投稿時の通知もつけた。(今まではFeedからの通知) http://wordpress.org/extend/plugins/tweetable/</description>
-    </item>
-    
-    <item>
-      <title>follow me バッヂを付けてみた</title>
-      <link>https://gomlog.com/20090926_follow-me-badge/</link>
-      <pubDate>Sat, 26 Sep 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20090926_follow-me-badge/</guid>
-      <description>付けてみました。
-ブログの横に「Follow me」バッジをつける方法・・・ - IDEA*IDEA ～ 百式管理人のライフハックブログ
-Twitter &amp;quot;Follow&amp;quot; Badge for your site / blog</description>
-    </item>
-    
-    <item>
-      <title>FriendFeedに登録してみた</title>
-      <link>https://gomlog.com/20080323_friendfeed/</link>
-      <pubDate>Sun, 23 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20080323_friendfeed/</guid>
-      <description>FriendFeedはWeb上の自分の活動をまとめて紹介できるサービス。 自分のBlogやTwitter、del.icio.us、FrickrやLast.fmなどのサービスを始め、フィードを生成しているものならまとめて表示できる。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>twitter on gomlog</title><link>https://gomlog.com/tags/twitter/</link><description>Recent content in twitter on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 26 Sep 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://gomlog.com/tags/twitter/index.xml" rel="self" type="application/rss+xml"/><item><title>WordpressにFacebook LikeとTweetボタンを付けた</title><link>https://gomlog.com/20100926_add_like_and_tweet_buttons/</link><pubDate>Sun, 26 Sep 2010 00:00:00 +0000</pubDate><guid>https://gomlog.com/20100926_add_like_and_tweet_buttons/</guid><description>プラグインになっているのでラクチンですね。 http://wordpress.org/extend/plugins/like/ http://wordpress.org/extend/plugins/wp-tweet-button/
+ついでに投稿時の通知もつけた。(今まではFeedからの通知) http://wordpress.org/extend/plugins/tweetable/</description></item><item><title>follow me バッヂを付けてみた</title><link>https://gomlog.com/20090926_follow-me-badge/</link><pubDate>Sat, 26 Sep 2009 00:00:00 +0000</pubDate><guid>https://gomlog.com/20090926_follow-me-badge/</guid><description>付けてみました。
+ブログの横に「Follow me」バッジをつける方法・・・ - IDEA*IDEA ～ 百式管理人のライフハックブログTwitter &amp;quot;Follow&amp;quot; Badge for your site / blog</description></item><item><title>FriendFeedに登録してみた</title><link>https://gomlog.com/20080323_friendfeed/</link><pubDate>Sun, 23 Mar 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20080323_friendfeed/</guid><description>FriendFeedはWeb上の自分の活動をまとめて紹介できるサービス。 自分のBlogやTwitter、del.icio.us、FrickrやLast.fmなどのサービスを始め、フィードを生成しているものならまとめて表示できる。
 また、友達の活動を購読することで、一括して表示できる。ついでにFriendFeed上でコメントをつけることだってできる。
 このサービス、色々な可能性があると思うのだが、Webでの活動を一括して表示できるだけでも価値があると感じている。 しばらく使ってみて、様子を見てみることにしよう。
-というわけで自分のFriendFeed。Subscribeはお気軽に～。 http://friendfeed.com/gom</description>
-    </item>
-    
-  </channel>
-</rss>
+というわけで自分のFriendFeed。Subscribeはお気軽に～。 http://friendfeed.</description></item></channel></rss>

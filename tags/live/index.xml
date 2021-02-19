@@ -1,75 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Live on gomlog</title>
-    <link>https://gomlog.com/tags/live/</link>
-    <description>Recent content in Live on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Mon, 15 Oct 2007 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/live/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>レイジのチケットとったどー！</title>
-      <link>https://gomlog.com/20071015_got-ratm-ticket/</link>
-      <pubDate>Mon, 15 Oct 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20071015_got-ratm-ticket/</guid>
-      <description>Smashに6000円貢ぎましたが、確保しちゃいました。
-2月10日(日)のファイナルです！
-今から楽しみだ～
-それにしても、どんな年齢層が集まるんだろう？
-ぐったりするまで楽しめるといいなぁ。</description>
-    </item>
-    
-    <item>
-      <title>Red Hot Chili Peppers Live in Tokyo Dome</title>
-      <link>https://gomlog.com/20070607_rhcp-live/</link>
-      <pubDate>Thu, 07 Jun 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070607_rhcp-live/</guid>
-      <description>&lt;p&gt;というわけで、行って参りました東京ドーム！
-レッチリライブ＆ドームライブ初参戦です。人が多い多い。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>いよいよ今日!　Red Hot Chili Peppers IN 東京ドーム</title>
-      <link>https://gomlog.com/20070605_go-to-rhcp-live/</link>
-      <pubDate>Tue, 05 Jun 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070605_go-to-rhcp-live/</guid>
-      <description>3月の公演がアンソニーの風邪で延期になり、待つこと3ヶ月。いよいよやってまいりました！ 今日は会社終わったらダッシュで水道橋です。
-感想は夜にでも～。</description>
-    </item>
-    
-    <item>
-      <title>Red Hot Chili Peppers- 日本公演延期</title>
-      <link>https://gomlog.com/20070318_rhcp_postpone_performance/</link>
-      <pubDate>Sun, 18 Mar 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070318_rhcp_postpone_performance/</guid>
-      <description>レッド･ホット・チリ・ペッパーズ 日本公演延期のお知らせ
-3/19（月）京セラドーム大阪、3/22（木）・23（金）東京ドームにて予定されておりました、レッド・ホット・チリ・ペッパーズ日本公演は、リード・シンガー、アンソニー・キーディスの急病により、公演が延期となりました。 病状は気管支肺炎により10日間の絶対安静との診断が下され、今回の来日は余儀なく不可能となりました。 22日のドーム、楽しみだったのになぁ・・・残念。チケットは払い戻しになるそうです。 延期、とのことなので数ヶ月後にはあるのかなぁと思ったら・・・
-延期日程に関しましては、ワールドツアーの調整を行い、早々に発表される予定ですが、現時点では今秋になるものと思われます。  秋は遠いよ(´･ω･｀) 次来るときも、チケット取れるといいなぁ。</description>
-    </item>
-    
-    <item>
-      <title>SummerSonic05</title>
-      <link>https://gomlog.com/20050820_summersonic2005/</link>
-      <pubDate>Sat, 20 Aug 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20050820_summersonic2005/</guid>
-      <description>&lt;p&gt;もう1週間経ってしまいましたが･･･&lt;br /&gt;
-サマソニ05行ってきました！！幕張の8/13のみ参加でございます。&lt;br /&gt;
-とりあえず見てきたのが･･･&lt;br /&gt;
-Subways → ORANGE RANGE → buckcherry → THEMADCUPSUREMARKETS&lt;br /&gt;
-→ DeepPurple → Slipknot&lt;br /&gt;
-&lt;br /&gt;
-Slipknot終了時で連れが帰る帰ると騒ぎ出したので、NIN見たいと思いながら撤収。後から聞いたらものすごかったとか･･･俺合掌。&lt;br /&gt;
-さて、中身はどうだったかというと・・・&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>live on gomlog</title><link>https://gomlog.com/tags/live/</link><description>Recent content in live on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 15 Oct 2007 00:00:00 +0000</lastBuildDate><atom:link href="https://gomlog.com/tags/live/index.xml" rel="self" type="application/rss+xml"/><item><title>レイジのチケットとったどー！</title><link>https://gomlog.com/20071015_got-ratm-ticket/</link><pubDate>Mon, 15 Oct 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20071015_got-ratm-ticket/</guid><description>Smashに6000円貢ぎましたが、確保しちゃいました。2月10日(日)のファイナルです！今から楽しみだ～それにしても、どんな年齢層が集まるんだろう？ぐったりするまで楽しめるといいなぁ。</description></item><item><title>Red Hot Chili Peppers Live in Tokyo Dome</title><link>https://gomlog.com/20070607_rhcp-live/</link><pubDate>Thu, 07 Jun 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070607_rhcp-live/</guid><description>&lt;p>というわけで、行って参りました東京ドーム！
+レッチリライブ＆ドームライブ初参戦です。人が多い多い。&lt;/p></description></item><item><title>いよいよ今日!　Red Hot Chili Peppers IN 東京ドーム</title><link>https://gomlog.com/20070605_go-to-rhcp-live/</link><pubDate>Tue, 05 Jun 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070605_go-to-rhcp-live/</guid><description>3月の公演がアンソニーの風邪で延期になり、待つこと3ヶ月。いよいよやってまいりました！ 今日は会社終わったらダッシュで水道橋です。
+感想は夜にでも～。</description></item><item><title>Red Hot Chili Peppers- 日本公演延期</title><link>https://gomlog.com/20070318_rhcp_postpone_performance/</link><pubDate>Sun, 18 Mar 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070318_rhcp_postpone_performance/</guid><description>レッド･ホット・チリ・ペッパーズ 日本公演延期のお知らせ22日のドーム、楽しみだったのになぁ・・・残念。チケットは払い戻しになるそうです。 延期、とのことなので数ヶ月後にはあるのかなぁと思ったら・・・
+秋は遠いよ(´･ω･｀) 次来るときも、チケット取れるといいなぁ。</description></item><item><title>SummerSonic05</title><link>https://gomlog.com/20050820_summersonic2005/</link><pubDate>Sat, 20 Aug 2005 00:00:00 +0000</pubDate><guid>https://gomlog.com/20050820_summersonic2005/</guid><description>&lt;p>もう1週間経ってしまいましたが･･･&lt;!-- raw HTML omitted -->
+サマソニ05行ってきました！！幕張の8/13のみ参加でございます。&lt;!-- raw HTML omitted -->
+とりあえず見てきたのが･･･&lt;!-- raw HTML omitted -->
+Subways → ORANGE RANGE → buckcherry → THEMADCUPSUREMARKETS&lt;!-- raw HTML omitted -->
+→ DeepPurple → Slipknot&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+Slipknot終了時で連れが帰る帰ると騒ぎ出したので、NIN見たいと思いながら撤収。後から聞いたらものすごかったとか･･･俺合掌。&lt;!-- raw HTML omitted -->
+さて、中身はどうだったかというと・・・&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p></description></item></channel></rss>

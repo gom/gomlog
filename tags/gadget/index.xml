@@ -1,204 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gadget on gomlog</title>
-    <link>https://gomlog.com/tags/gadget/</link>
-    <description>Recent content in Gadget on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Mon, 23 Jul 2007 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/gadget/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Advanced／W-ZERO3[es] をいじってみました</title>
-      <link>https://gomlog.com/20070723_use-advanced-w-zero3/</link>
-      <pubDate>Mon, 23 Jul 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070723_use-advanced-w-zero3/</guid>
-      <description>さて、Ad[es]を持って4日ばかり経ちました。週末も超えてわかってきたことなんかをちょっとだけ。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>gadget on gomlog</title><link>https://gomlog.com/tags/gadget/</link><description>Recent content in gadget on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 23 Jul 2007 00:00:00 +0000</lastBuildDate><atom:link href="https://gomlog.com/tags/gadget/index.xml" rel="self" type="application/rss+xml"/><item><title>Advanced／W-ZERO3[es] をいじってみました</title><link>https://gomlog.com/20070723_use-advanced-w-zero3/</link><pubDate>Mon, 23 Jul 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070723_use-advanced-w-zero3/</guid><description>さて、Ad[es]を持って4日ばかり経ちました。週末も超えてわかってきたことなんかをちょっとだけ。
 今回は、よく使ってるアプリについて。
-今のところよく使っているものといえば・・・ ○Opera Mobile 主にRSSリーダーとToDo管理に使ってます。 PCページも表示速度の遅さに耐えれば見られるので、Ad[es]のワイド画面とあわせて便利に使える。 ただ、横ボタンで戻る/進むできないのがちょっと不便かなぁ・・・ Webブラウザに関しては、Lunascape Mobileも軽快という話。次はこいつを試してみよう。
-○TCPMP 多くのファイルフォーマットに対応したPocketPC用メディアプレーヤ。ビデオファイル再生用に入れてみました。 縦画面での映りは上々で、見るには不自由しません。 ・・・が！横画面での再生ができない！エラーになって終了してしまいます。 せっかくならワイド画面で見たいなぁ・・・
+今のところよく使っているものといえば・・・ ○Opera Mobile主にRSSリーダーとToDo管理に使ってます。 PCページも表示速度の遅さに耐えれば見られるので、Ad[es]のワイド画面とあわせて便利に使える。 ただ、横ボタンで戻る/進むできないのがちょっと不便かなぁ・・・ Webブラウザに関しては、Lunascape Mobileも軽快という話。次はこいつを試してみよう。
+○TCPMP多くのファイルフォーマットに対応したPocketPC用メディアプレーヤ。ビデオファイル再生用に入れてみました。 縦画面での映りは上々で、見るには不自由しません。 ・・・が！横画面での再生ができない！エラーになって終了してしまいます。 せっかくならワイド画面で見たいなぁ・・・
 今のところはこれくらいです。どちらにしろメインで使っていくのはWeb&amp;amp;メディアになりそう。 本来の機能であるメールと通話は・・・携帯で！スマートフォンである必要なし！
-その他、通信関係でおかしな現象が起きてたりもしますが、それはまた後日。</description>
-    </item>
-    
-    <item>
-      <title>iPhone発売！！(ただしアメリカで)</title>
-      <link>https://gomlog.com/20070630_sale-iphone/</link>
-      <pubDate>Sat, 30 Jun 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070630_sale-iphone/</guid>
-      <description>&lt;p&gt;日本ではまだまだですが･･･とうとう発売になったようですね。
-4日前からApple Storeに並ぶ人まで出て、結構な騒ぎになっているようです。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>イー・モバイル モバイル端末「EM・ONE」を発売</title>
-      <link>https://gomlog.com/20070219_emone/</link>
-      <pubDate>Mon, 19 Feb 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070219_emone/</guid>
-      <description>イー・モバイルEM・ONE ワンセグ＋デュアルスライドWindows Mobile端末 - Engadget Japanese 
-W-ZERO3がヒットし、スマートフォンが 流行る昨今。すごいスペックの端末が出てきました。 Windows Mobile5搭載、ワンセグの視聴可能、グラフィックメモリにGoForceTM5500という具合です。 液晶も視野角160度・コントラスト比400：1とくっきりはっきり見えそうです。 これだけのスペックで、薄さがなんと18.9mm！！
-また、通信速度は下り3.6Mbps。この速さで月額5980円とのことです。 年契約等で割り引きされるプランもあり、さらに安くなるとのこと。 無線LANやBluetoothも搭載されています。 気になる発売日は2007年3月31日。 値段次第では欲しいなぁ・・・ イー・モバイル株式会社 http://www.emobile.jp/index.html</description>
-    </item>
-    
-    <item>
-      <title>iPhone発表！！</title>
-      <link>https://gomlog.com/20070112_announce_iphone/</link>
-      <pubDate>Fri, 12 Jan 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070112_announce_iphone/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://japanese.engadget.com/2007/01/09/macworld-2007-jobs-keynote/&#34;&gt;Macworld 2007：スティーブ・ジョブズ キーノート - Engadget Japanese&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;とうとうやってきました。
+その他、通信関係でおかしな現象が起きてたりもしますが、それはまた後日。</description></item><item><title>iPhone発売！！(ただしアメリカで)</title><link>https://gomlog.com/20070630_sale-iphone/</link><pubDate>Sat, 30 Jun 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070630_sale-iphone/</guid><description>&lt;p>日本ではまだまだですが･･･とうとう発売になったようですね。
+4日前からApple Storeに並ぶ人まで出て、結構な騒ぎになっているようです。&lt;/p></description></item><item><title>イー・モバイル モバイル端末「EM・ONE」を発売</title><link>https://gomlog.com/20070219_emone/</link><pubDate>Mon, 19 Feb 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070219_emone/</guid><description>イー・モバイルEM・ONE ワンセグ＋デュアルスライドWindows Mobile端末 - Engadget Japanese W-ZERO3がヒットし、スマートフォンが 流行る昨今。すごいスペックの端末が出てきました。 Windows Mobile5搭載、ワンセグの視聴可能、グラフィックメモリにGoForceTM5500という具合です。 液晶も視野角160度・コントラスト比400：1とくっきりはっきり見えそうです。 これだけのスペックで、薄さがなんと18.9mm！！
+また、通信速度は下り3.6Mbps。この速さで月額5980円とのことです。 年契約等で割り引きされるプランもあり、さらに安くなるとのこと。 無線LANやBluetoothも搭載されています。 気になる発売日は2007年3月31日。 値段次第では欲しいなぁ・・・ イー・モバイル株式会社 http://www.emobile.jp/index.html</description></item><item><title>iPhone発表！！</title><link>https://gomlog.com/20070112_announce_iphone/</link><pubDate>Fri, 12 Jan 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070112_announce_iphone/</guid><description>&lt;p>&lt;!-- raw HTML omitted -->Macworld 2007：スティーブ・ジョブズ キーノート - Engadget Japanese&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>とうとうやってきました。
 ただのiPod+ケータイかと思いきや、とんでもないものを出してきましたね。
-発表の瞬間から株価も跳ね上がるなど、各方面に激震を与えたようです。&lt;/p&gt;
-
-&lt;p&gt;アメリカでの発売は6月頃、日本での発売は2008年ごろになる見通しとか。
-待ち遠しいですね。&lt;/p&gt;
-
-&lt;p&gt;詳しくは上のリンクのキーノートを読んでください。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>なんかすごいストロー</title>
-      <link>https://gomlog.com/20070108_celery-straw/</link>
-      <pubDate>Mon, 08 Jan 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070108_celery-straw/</guid>
-      <description>セロリストロー実現、人類文明は頂点へ - Engadget Japanese
-衝動的に連続エントリー。 究極にエコなストローですよね。飲み終わったら食べられるんでしょうか、これ。 野菜ジュースに合わせるのも良さそうです。なんかヘルシーな感じ。
-それにしても、セロリストローが人類文明の頂点というのがいまいちわからない･･･なにかに引っかけてるのかなぁ。</description>
-    </item>
-    
-    <item>
-      <title>PS3</title>
-      <link>https://gomlog.com/20061112_ps3/</link>
-      <pubDate>Sun, 12 Nov 2006 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20061112_ps3/</guid>
-      <description>&lt;p&gt;発売されましたね。&lt;br /&gt;
-地元でもそんなに長蛇ではないですが、行列ができてました。&lt;br /&gt;
-しかも、金曜の19時にはすでに並んでる人が・・・&lt;br /&gt;
-すごいなぁ、その気概。&lt;br /&gt;
-これ書いてる頃にはきっと各所で使用レポートが出ているんでしょうね。&lt;br /&gt;
-&lt;br /&gt;
-続きに行列ムービー。&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PORTER</title>
-      <link>https://gomlog.com/20051025_porter/</link>
-      <pubDate>Tue, 25 Oct 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20051025_porter/</guid>
-      <description>なんかいつぞやに頼んだiPod nano用のケースがやっと来ました。
-ここの一番上のやつ(黒)
-ちょっと重量があるのが難点だけど、イヤホンも入っちゃうのがいい感じ。
-ただ･･･コードの長いE3c。
-イヤホンも入れると、なんかパンパンになります(ﾟДﾟ;)
-そして問題がネックストラップ。
-使い方がわからねええ！！
-明日から頑張って装着場所を考えてみよう･･･
-首からかけるか、腰にぶらさげるか。
-うーむ</description>
-    </item>
-    
-    <item>
-      <title>復活?！</title>
-      <link>https://gomlog.com/20051001_ipodnano/</link>
-      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20051001_ipodnano/</guid>
-      <description>iPod nano(4GB Black)買って参りました(´∇`)
-地獄の音無し通勤ともおさらば！！！
-しかしちっさい･･･横においた携帯が巨大に感じます。
-ポケットに入れておいたら転んだ拍子にまっぷたつになりそうです(＝＝；
-さてさて、今まで使っていたiPod(20GB)に比べてHDD容量がすごく減りました。
-ちなみにPC内の音楽ファイルが10GB越えております。
-iPodに全曲自動転送するとパンクします！！
-というわけで、プレイリストを編集して曲を入れていくことにしました。
-めんどい。
-適当にシャッフルして、指定した容量の分だけ転送してくれる機能とかないかしら。
-ディスプレイに傷が入りやすいとのことなので、早速nano用ケースを探してます。
-なんかかっこいいやつないかしら?♪
-ここで一つ問題発生。
-Dockがない！！！
-(Dock = 立てて置いておくためのあれ)
-アダプタ？というのは付いてるけど、iPod用のDockにアダプタさして使うらしい。
-･･･ざけんな腐林檎！！！</description>
-    </item>
-    
-    <item>
-      <title>E3c：その後</title>
-      <link>https://gomlog.com/20050529_e3c_after/</link>
-      <pubDate>Sun, 29 May 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20050529_e3c_after/</guid>
-      <description>&lt;p&gt;気がつけば5月も(ry&lt;br /&gt;
-月一になってきました。最近忙しいやらなにやらですっかり滞ってましたが･･･&lt;br /&gt;
-&lt;br /&gt;
-久々だとﾈﾀがいっぱいあるような気がします。&lt;br /&gt;
-第一弾は&lt;a href=&#34;http://www.soundhouse.co.jp/shop/ProductDetail.asp?Item=662%5EE3C&#34;&gt;E3c&lt;/a&gt;再び。&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>今月の計画-WかAか-</title>
-      <link>https://gomlog.com/20050228_headphone/</link>
-      <pubDate>Mon, 28 Feb 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20050228_headphone/</guid>
-      <description>&lt;p&gt;最近買い物にすら行けない日々です。&lt;br /&gt;
-マンガも買えんCDも買えん。&lt;br /&gt;
-当然の如くゲームなんて夢のまた夢です。&lt;br /&gt;
-去年のヒキオタ生活が懐かしい(&amp;lsquo;A`)&lt;br /&gt;
-&lt;br /&gt;
-さて、そんな毎日なんでネタとしては・・・&lt;br /&gt;
-・仕事の話&lt;br /&gt;
-・電車の話&lt;br /&gt;
-・欲しいものの話&lt;br /&gt;
-・聴いてるものの話&lt;br /&gt;
-くらいしかないわけですが。&lt;br /&gt;
-&lt;br /&gt;
-今日は今月のお買い物計画！&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>E3c：その後</title>
-      <link>https://gomlog.com/20050205_e3c_equalizer/</link>
-      <pubDate>Sat, 05 Feb 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20050205_e3c_equalizer/</guid>
-      <description>&lt;p&gt;週刊日記、というか休みにしか更新してないような・・・&lt;br /&gt;
-そんなわけですが、生暖かく見守ってやってください。&lt;br /&gt;
-&lt;br /&gt;
-さて、先日購入した&lt;a href=&#34;http://www.hibino.co.jp/avcsales/product/shure/product/earphones/e3c.html&#34;&gt;E3ｃ&lt;/a&gt;。まだ買って1週間も経ってないし、エージングもまだまだですが・・・&lt;br /&gt;
-&lt;br /&gt;
-イコライザがいまいち決まらず。&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>E3c購入！</title>
-      <link>https://gomlog.com/20050127_buying_e3c/</link>
-      <pubDate>Thu, 27 Jan 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20050127_buying_e3c/</guid>
-      <description>&lt;p&gt;ほぼ衝動買いしてしまいました(´∇`)&lt;br /&gt;
-&lt;br /&gt;
-SHUREの&lt;a href=&#34;http://www.hibino.co.jp/avcsales/product/shure/product/earphones/e3c.html&#34; title=&#34;E3c&#34;&gt;E3c&lt;/a&gt;!!&lt;br /&gt;
-&lt;br /&gt;
-iPodが通勤のお供なんですが、毎日使うのでちょっといいイヤホンが欲しかったのです。&lt;br /&gt;
-インナーイヤーヘッドホン(見た目は普通にイヤホン)なんですが、価格がなんと・・・&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;19,800円(税込)&lt;/strong&gt;&lt;br /&gt;
-&lt;br /&gt;
-イヤホンを買うには躊躇われるような値段ですが、新宿のヨドバシにてさくっと購入。買うまでに3日間悩み続けましたが。&lt;br /&gt;
-最後の1個だったそうです。だからなんだ。&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+発表の瞬間から株価も跳ね上がるなど、各方面に激震を与えたようです。&lt;/p>
+&lt;p>アメリカでの発売は6月頃、日本での発売は2008年ごろになる見通しとか。
+待ち遠しいですね。&lt;/p>
+&lt;p>詳しくは上のリンクのキーノートを読んでください。&lt;/p></description></item><item><title>なんかすごいストロー</title><link>https://gomlog.com/20070108_celery-straw/</link><pubDate>Mon, 08 Jan 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070108_celery-straw/</guid><description>セロリストロー実現、人類文明は頂点へ - Engadget Japanese衝動的に連続エントリー。 究極にエコなストローですよね。飲み終わったら食べられるんでしょうか、これ。 野菜ジュースに合わせるのも良さそうです。なんかヘルシーな感じ。
+それにしても、セロリストローが人類文明の頂点というのがいまいちわからない･･･なにかに引っかけてるのかなぁ。</description></item><item><title>PS3</title><link>https://gomlog.com/20061112_ps3/</link><pubDate>Sun, 12 Nov 2006 00:00:00 +0000</pubDate><guid>https://gomlog.com/20061112_ps3/</guid><description>&lt;p>発売されましたね。&lt;!-- raw HTML omitted -->
+地元でもそんなに長蛇ではないですが、行列ができてました。&lt;!-- raw HTML omitted -->
+しかも、金曜の19時にはすでに並んでる人が・・・&lt;!-- raw HTML omitted -->
+すごいなぁ、その気概。&lt;!-- raw HTML omitted -->
+これ書いてる頃にはきっと各所で使用レポートが出ているんでしょうね。&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+続きに行列ムービー。&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p></description></item><item><title>PORTER</title><link>https://gomlog.com/20051025_porter/</link><pubDate>Tue, 25 Oct 2005 00:00:00 +0000</pubDate><guid>https://gomlog.com/20051025_porter/</guid><description>なんかいつぞやに頼んだiPod nano用のケースがやっと来ました。ここの一番上のやつ(黒)ちょっと重量があるのが難点だけど、イヤホンも入っちゃうのがいい感じ。ただ･･･コードの長いE3c。イヤホンも入れると、なんかパンパンになります(ﾟДﾟ;)そして問題がネックストラップ。使い方がわからねええ！！明日から頑張って装着場所を考えてみよう･･･首からかけるか、腰にぶらさげるか。うーむ</description></item><item><title>復活?！</title><link>https://gomlog.com/20051001_ipodnano/</link><pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate><guid>https://gomlog.com/20051001_ipodnano/</guid><description>iPod nano(4GB Black)買って参りました(´∇`)地獄の音無し通勤ともおさらば！！！しかしちっさい･･･横においた携帯が巨大に感じます。ポケットに入れておいたら転んだ拍子にまっぷたつになりそうです(＝＝；さてさて、今まで使っていたiPod(20GB)に比べてHDD容量がすごく減りました。ちなみにPC内の音楽ファイルが10GB越えております。iPodに全曲自動転送するとパンクします！！というわけで、プレイリストを編集して曲を入れていくことにしました。めんどい。適当にシャッフルして、指定した容量の分だけ転送してくれる機能とかないかしら。ディスプレイに傷が入りやすいとのことなので、早速nano用ケースを探してます。なんかかっこいいやつないかしら?♪ここで一つ問題発生。Dockがない！！！(Dock = 立てて置いておくためのあれ)アダプタ？というのは付いてるけど、iPod用のDockにアダプタさして使うらしい。･･･ざけんな腐林檎！！！</description></item><item><title>E3c：その後</title><link>https://gomlog.com/20050529_e3c_after/</link><pubDate>Sun, 29 May 2005 00:00:00 +0000</pubDate><guid>https://gomlog.com/20050529_e3c_after/</guid><description>&lt;p>気がつけば5月も(ry&lt;!-- raw HTML omitted -->
+月一になってきました。最近忙しいやらなにやらですっかり滞ってましたが･･･&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+久々だとﾈﾀがいっぱいあるような気がします。&lt;!-- raw HTML omitted -->
+第一弾は&lt;!-- raw HTML omitted -->E3c&lt;!-- raw HTML omitted -->再び。&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p></description></item><item><title>今月の計画-WかAか-</title><link>https://gomlog.com/20050228_headphone/</link><pubDate>Mon, 28 Feb 2005 00:00:00 +0000</pubDate><guid>https://gomlog.com/20050228_headphone/</guid><description>&lt;p>最近買い物にすら行けない日々です。&lt;!-- raw HTML omitted -->
+マンガも買えんCDも買えん。&lt;!-- raw HTML omitted -->
+当然の如くゲームなんて夢のまた夢です。&lt;!-- raw HTML omitted -->
+去年のヒキオタ生活が懐かしい(&amp;lsquo;A`)&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+さて、そんな毎日なんでネタとしては・・・&lt;!-- raw HTML omitted -->
+・仕事の話&lt;!-- raw HTML omitted -->
+・電車の話&lt;!-- raw HTML omitted -->
+・欲しいものの話&lt;!-- raw HTML omitted -->
+・聴いてるものの話&lt;!-- raw HTML omitted -->
+くらいしかないわけですが。&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+今日は今月のお買い物計画！&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p></description></item><item><title>E3c：その後</title><link>https://gomlog.com/20050205_e3c_equalizer/</link><pubDate>Sat, 05 Feb 2005 00:00:00 +0000</pubDate><guid>https://gomlog.com/20050205_e3c_equalizer/</guid><description>&lt;p>週刊日記、というか休みにしか更新してないような・・・&lt;!-- raw HTML omitted -->
+そんなわけですが、生暖かく見守ってやってください。&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+さて、先日購入した&lt;!-- raw HTML omitted -->E3ｃ&lt;!-- raw HTML omitted -->。まだ買って1週間も経ってないし、エージングもまだまだですが・・・&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+イコライザがいまいち決まらず。&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p></description></item><item><title>E3c購入！</title><link>https://gomlog.com/20050127_buying_e3c/</link><pubDate>Thu, 27 Jan 2005 00:00:00 +0000</pubDate><guid>https://gomlog.com/20050127_buying_e3c/</guid><description>&lt;p>ほぼ衝動買いしてしまいました(´∇`)&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+SHUREの&lt;!-- raw HTML omitted -->E3c&lt;!-- raw HTML omitted -->!!&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+iPodが通勤のお供なんですが、毎日使うのでちょっといいイヤホンが欲しかったのです。&lt;!-- raw HTML omitted -->
+インナーイヤーヘッドホン(見た目は普通にイヤホン)なんですが、価格がなんと・・・&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->19,800円(税込)&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+イヤホンを買うには躊躇われるような値段ですが、新宿のヨドバシにてさくっと購入。買うまでに3日間悩み続けましたが。&lt;!-- raw HTML omitted -->
+最後の1個だったそうです。だからなんだ。&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p></description></item></channel></rss>

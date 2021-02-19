@@ -1,61 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>China on gomlog</title>
-    <link>https://gomlog.com/tags/china/</link>
-    <description>Recent content in China on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Sun, 13 Apr 2008 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/china/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>チベット問題とねつ造報道についての動画</title>
-      <link>https://gomlog.com/20080413_free-tibe/</link>
-      <pubDate>Sun, 13 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20080413_free-tibe/</guid>
-      <description>&lt;p&gt;あまり追っかけていないので詳しい意見は控えますが、あまりにもひどい動画を見つけたので2点ほど紹介。
-モノがモノなので、消えてしまっても泣かない。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>チベット暴動</title>
-      <link>https://gomlog.com/20080316_2008-riot-of-tibet/</link>
-      <pubDate>Sun, 16 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20080316_2008-riot-of-tibet/</guid>
-      <description>チベット暴動での死者数は80人・負傷者は72人＝亡命政府 | Reuters インド北部ダラムサラのチベット亡命政府は１６日、１４日に発生したチベット自治区ラサでのデモ参加者と中国当局との衝突による死者数は８０人との見方を示した。
-世界のホットスポットのうちの一つが発火しかけてるね。 チベットの僧侶によるデモ・抗議活動を中国政府の武装警察が暴力で鎮圧したことが発端らしい。 中国はオリンピック前に何してるんだ。
-チベット暴動、中国はダライ・ラマ派との「人民戦争」を宣言 | Reuters 中国チベット自治区ラサで発生したチベット仏教僧らによる大規模な暴動を受け、中国の当局者らは、チベット仏教の最高指導者ダライ・ラマ１４世の支持者らとの「人民戦争」を戦うとの姿勢を強調した。
-内戦おっぱじめようってことか？そんな国で平和の祭典ってのも皮肉だね。
-なお、チベット問題については余り詳しくないので、Wikipediaでも読んでください。 チベット - Wikipedia</description>
-    </item>
-    
-    <item>
-      <title>最大の「加害者」の間違いだ</title>
-      <link>https://gomlog.com/20080215_not-victim/</link>
-      <pubDate>Fri, 15 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20080215_not-victim/</guid>
-      <description>ツラの皮が厚いのもほどがある。
-NIKKEI NET（日経ネット）：主要ニュース－各分野の重要ニュースを掲載
-天洋食品の底夢路工場長は15日、石家荘市内で記者会見し、「我々が最大の被害者だ」などと訴えた。 最大の加害者は、誰がなんと言おうと「実際に製品を食べた人」だろう。なんの罪もない。 最終的にこの工場での混入でないという事実がはっきりすれば、確かに被害者側になるかもしれない。 でも今の段階では容疑者である。少なくとも、被害者面するな。</description>
-    </item>
-    
-    <item>
-      <title>報道規制しろってことか？</title>
-      <link>https://gomlog.com/20080209_regulate-reporting/</link>
-      <pubDate>Sat, 09 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20080209_regulate-reporting/</guid>
-      <description>他の国にまで自分のとこの概念を押し付けるなよ、と。
-日本に国内世論制御を要求　中国高官、ギョーザ報道に懸念 - MSN産経ニュース
-中国外務省、商務省などの担当者らも８日までに、日本側関係者に国内世論のコントロールを要求。  かの国ではきっと規制が当たり前だから、特に違和感のない発言なんだろうな、きっと。 でもその概念は他の国でも当たり前とは限らない。
-たしかに餃子事件は中国にとって大損害をもたらすだろう。北京五輪もあることだし、中国政府としては早急に鎮火したいに違いない。 ただ、日本のメディアもかなり控えめに報道しているように見える。餃子と冷凍食品にしかスポットが当たっていないように見えるからだ。 いい機会なのだから、現代の日本の食料事情についてもっと関心を持ち、今自分たちが何を食べて生活しているのか見直してみるのもいいね。</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>china on gomlog</title><link>https://gomlog.com/tags/china/</link><description>Recent content in china on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 13 Apr 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://gomlog.com/tags/china/index.xml" rel="self" type="application/rss+xml"/><item><title>チベット問題とねつ造報道についての動画</title><link>https://gomlog.com/20080413_free-tibe/</link><pubDate>Sun, 13 Apr 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20080413_free-tibe/</guid><description>&lt;p>あまり追っかけていないので詳しい意見は控えますが、あまりにもひどい動画を見つけたので2点ほど紹介。
+モノがモノなので、消えてしまっても泣かない。&lt;/p></description></item><item><title>チベット暴動</title><link>https://gomlog.com/20080316_2008-riot-of-tibet/</link><pubDate>Sun, 16 Mar 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20080316_2008-riot-of-tibet/</guid><description>チベット暴動での死者数は80人・負傷者は72人＝亡命政府 | Reuters世界のホットスポットのうちの一つが発火しかけてるね。 チベットの僧侶によるデモ・抗議活動を中国政府の武装警察が暴力で鎮圧したことが発端らしい。 中国はオリンピック前に何してるんだ。
+チベット暴動、中国はダライ・ラマ派との「人民戦争」を宣言 | Reuters内戦おっぱじめようってことか？そんな国で平和の祭典ってのも皮肉だね。
+なお、チベット問題については余り詳しくないので、Wikipediaでも読んでください。 チベット - Wikipedia</description></item><item><title>最大の「加害者」の間違いだ</title><link>https://gomlog.com/20080215_not-victim/</link><pubDate>Fri, 15 Feb 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20080215_not-victim/</guid><description>ツラの皮が厚いのもほどがある。
+NIKKEI NET（日経ネット）：主要ニュース－各分野の重要ニュースを掲載最大の加害者は、誰がなんと言おうと「実際に製品を食べた人」だろう。なんの罪もない。 最終的にこの工場での混入でないという事実がはっきりすれば、確かに被害者側になるかもしれない。 でも今の段階では容疑者である。少なくとも、被害者面するな。</description></item><item><title>報道規制しろってことか？</title><link>https://gomlog.com/20080209_regulate-reporting/</link><pubDate>Sat, 09 Feb 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20080209_regulate-reporting/</guid><description>他の国にまで自分のとこの概念を押し付けるなよ、と。
+日本に国内世論制御を要求　中国高官、ギョーザ報道に懸念 - MSN産経ニュースかの国ではきっと規制が当たり前だから、特に違和感のない発言なんだろうな、きっと。 でもその概念は他の国でも当たり前とは限らない。
+たしかに餃子事件は中国にとって大損害をもたらすだろう。北京五輪もあることだし、中国政府としては早急に鎮火したいに違いない。 ただ、日本のメディアもかなり控えめに報道しているように見える。餃子と冷凍食品にしかスポットが当たっていないように見えるからだ。 いい機会なのだから、現代の日本の食料事情についてもっと関心を持ち、今自分たちが何を食べて生活しているのか見直してみるのもいいね。</description></item></channel></rss>

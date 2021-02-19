@@ -1,32 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Output on gomlog</title>
-    <link>https://gomlog.com/tags/output/</link>
-    <description>Recent content in Output on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Sun, 09 Nov 2008 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/output/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Outputzで自分の出力が原稿用紙何枚分かを観察する</title>
-      <link>https://gomlog.com/20081109_outputz/</link>
-      <pubDate>Sun, 09 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20081109_outputz/</guid>
-      <description>最近Webへの出力が減ってきたなあと悩んでいるところへ、絶好のサービスを見つけた。
-あなたは原稿用紙何枚分のアウトプットをしていますか？ Outputz をインストールすると簡単に知ることができます。 - Outputz
-「今日のあなたのアウトプットは原稿用紙何枚？」 Outputz をリリースしました - ひげぽん OSとか作っちゃうかMona-
-Firefoxアドオンを入れると、Web上で入力した文字数を記録してくれる。 原稿用紙何枚分をアウトプットしたか？を表示してくれ、おまけにそれを時間帯・サイト別にグラフ化してくれる。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>output on gomlog</title><link>https://gomlog.com/tags/output/</link><description>Recent content in output on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 09 Nov 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://gomlog.com/tags/output/index.xml" rel="self" type="application/rss+xml"/><item><title>Outputzで自分の出力が原稿用紙何枚分かを観察する</title><link>https://gomlog.com/20081109_outputz/</link><pubDate>Sun, 09 Nov 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20081109_outputz/</guid><description>最近Webへの出力が減ってきたなあと悩んでいるところへ、絶好のサービスを見つけた。
+あなたは原稿用紙何枚分のアウトプットをしていますか？ Outputz をインストールすると簡単に知ることができます。 - Outputz「今日のあなたのアウトプットは原稿用紙何枚？」 Outputz をリリースしました - ひげぽん OSとか作っちゃうかMona-Firefoxアドオンを入れると、Web上で入力した文字数を記録してくれる。 原稿用紙何枚分をアウトプットしたか？を表示してくれ、おまけにそれを時間帯・サイト別にグラフ化してくれる。
 1週間を振り返る時にこれを見て、「今週はあまりアウトプットできなかったなあ。仕事忙しかったしなあ。」とか「今週はいっぱいブログ書いた！いっぱいコメントした！」とかアウトプットできた/できなかった要因を探るのに使ってみようと思う。
-ちなみに下のが11/8(土)のアウトプットのグラフ 2008/11/8 の Outputz原稿用紙 2.0枚（805文字） powered by Outputz.
-
-今週、今月、今年なんていう単位でも見れるし、複数のパソコンでも「復活の呪文」を入れることでデータを共有できる。
-ちょっとした注意 ちょっとした注意点は、文字入力したページのURLと文字列数が全て記録されてしまうこと。 例えば銀行とかショッピングサイトとかひみつ☆の部屋などで入力した文字数もアウトプット数としてカウントされる。 どーーーーーーしてもアウトプットを記録されたくない時は別のブラウザ使うなりしましょうね。 ※ 文字列自体が記録されるわけではない(と思う)し、記録が公開されるわけではない。</description>
-    </item>
-    
-  </channel>
-</rss>
+ちなみに下のが11/8(土)のアウトプットのグラフ
+今週、今月、今年なんていう単位でも見れるし、複数のパソコンでも「復活の呪文」を入れることでデータを共有できる。</description></item></channel></rss>

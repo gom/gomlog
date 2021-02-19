@@ -1,192 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog on gomlog</title>
-    <link>https://gomlog.com/tags/blog/</link>
-    <description>Recent content in Blog on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Thu, 19 Jan 2017 00:26:59 +0900</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>wercker</title>
-      <link>https://gomlog.com/post/20170119_wercker/</link>
-      <pubDate>Thu, 19 Jan 2017 00:26:59 +0900</pubDate>
-      
-      <guid>https://gomlog.com/post/20170119_wercker/</guid>
-      <description>wercker でビルドするようにしてみたのでテスト。
-何年か前に遊んでたけど、随分UIも変わっていた。</description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://gomlog.com/post/20170104_hugo/</link>
-      <pubDate>Wed, 04 Jan 2017 23:06:12 +0900</pubDate>
-      
-      <guid>https://gomlog.com/post/20170104_hugo/</guid>
-      <description>Hugo 使ってみた。 ついでに古い記事を一覧からは見えないようにした</description>
-    </item>
-    
-    <item>
-      <title>2008年 アクセスランキング トップ5</title>
-      <link>https://gomlog.com/20081231_2008-access-report/</link>
-      <pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20081231_2008-access-report/</guid>
-      <description>今年も残すところ後1日となりました。 今年1年を振り返り、どんな記事にアクセスが集まっていたかを見てみたいと思います。
- 2girls1cupを見てみた Daemon Toolの甘い罠 手掌多汗症って治せるの？ Wordpress::EUCからUTF8への移行方法 ファイルをダウンロードすると逮捕されるそうです  総評 2girls1cupがダントツ。英語圏のネタは強いってことかなあ。1年経った今でも独走状態です。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog on gomlog</title><link>https://gomlog.com/tags/blog/</link><description>Recent content in blog on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 19 Jan 2017 00:26:59 +0900</lastBuildDate><atom:link href="https://gomlog.com/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>wercker</title><link>https://gomlog.com/post/20170119_wercker/</link><pubDate>Thu, 19 Jan 2017 00:26:59 +0900</pubDate><guid>https://gomlog.com/post/20170119_wercker/</guid><description>wercker でビルドするようにしてみたのでテスト。
+何年か前に遊んでたけど、随分UIも変わっていた。</description></item><item><title>Hugo</title><link>https://gomlog.com/post/20170104_hugo/</link><pubDate>Wed, 04 Jan 2017 23:06:12 +0900</pubDate><guid>https://gomlog.com/post/20170104_hugo/</guid><description>Hugo 使ってみた。 ついでに古い記事を一覧からは見えないようにした</description></item><item><title>2008年 アクセスランキング トップ5</title><link>https://gomlog.com/20081231_2008-access-report/</link><pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20081231_2008-access-report/</guid><description>今年も残すところ後1日となりました。 今年1年を振り返り、どんな記事にアクセスが集まっていたかを見てみたいと思います。
 2番目はDaemon Toolのアンインストール時の話 &amp;amp; CloneCD によるコピーメディアごまかし機能ではまった話。2年も前の話ですし、今はどちらのツールも使っていないので、だいぶ事情が違うかもしれません。
 3番目にようやく今年書いた記事。手掌多汗症についての治療法と自分の対策についての考察。同じ症状で困ってる人の助けに少しでもなれば幸いです。
-4番目はサーバ移転時に文字コードではまった時の話。移行前の環境とWordpressのバージョンが書いてないのがイケてないですね。 たしかこれはWordpress ME 2.3くらいまでの話で、Wordpress 本家日本語版(2.5以降)では wp-config.phpを修正すればOKです。 参考: Wordpress2.5へのアップデートとfaviconの設置 : gomlog
-最後は違法ダウンロードの話。最近この話題を追いかけてないのでどう進展したかはよく知らないのですが、制作・提供側も消費側も幸せになる方向へ向かってくれるといいですね。
-反省 さて、結果を見た自分の反省。
-今年書いたエントリが少なすぎる！！！
-今年書いたエントリが79本。うち、ランクインしたのは1本のみ。 ランクインしている記事自体、大した中身はありませんが、今年書いた記事はさらに中身も面白くもないということか・・・ google のインデックスが、とかページランクが、なんていう関係もあるのかもしれません。 どこかで取り上げられて最大風速を稼ぐような記事もないですし。
-いかに他人が見て面白いと思えるものを書くか？が来年の課題ですかね。 気楽につらつらと書きつつ、定期的に力の入った記事を書いていきたいと思います。
-書き納め というわけで、2008年に見ていただいた方、ありがとうございました。 来年もよろしくお願いします。</description>
-    </item>
-    
-    <item>
-      <title>複数のサービスに一括投稿？</title>
-      <link>https://gomlog.com/20081202_cross-post-service/</link>
-      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20081202_cross-post-service/</guid>
-      <description>lifehacker.jp で紹介されてたサービス。複数のソーシャルサイトやブログに一括投稿できるらしい。 クロスポストってあまり好まれる行為ではないみたいだけど、必要になる場合もある。 例えば自分の場合は、ブログ記事をmixiに流し込めたらいいなーなんて思っていたり。
+4番目はサーバ移転時に文字コードではまった時の話。移行前の環境とWordpressのバージョンが書いてないのがイケてないですね。 たしかこれはWordpress ME 2.3くらいまでの話で、Wordpress 本家日本語版(2.5以降)では wp-config.phpを修正すればOKです。 参考: Wordpress2.5へのアップデートとfaviconの設置 : gomlog最後は違法ダウンロードの話。最近この話題を追いかけてないのでどう進展したかはよく知らないのですが、制作・提供側も消費側も幸せになる方向へ向かってくれるといいですね。
+今年書いたエントリが少なすぎる！！！今年書いたエントリが79本。うち、ランクインしたのは1本のみ。 ランクインしている記事自体、大した中身はありませんが、今年書いた記事はさらに中身も面白くもないということか・・・ google のインデックスが、とかページランクが、なんていう関係もあるのかもしれません。 どこかで取り上げられて最大風速を稼ぐような記事もないですし。
+いかに他人が見て面白いと思えるものを書くか？が来年の課題ですかね。 気楽につらつらと書きつつ、定期的に力の入った記事を書いていきたいと思います。</description></item><item><title>複数のサービスに一括投稿？</title><link>https://gomlog.com/20081202_cross-post-service/</link><pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20081202_cross-post-service/</guid><description>lifehacker.jp で紹介されてたサービス。複数のソーシャルサイトやブログに一括投稿できるらしい。 クロスポストってあまり好まれる行為ではないみたいだけど、必要になる場合もある。 例えば自分の場合は、ブログ記事をmixiに流し込めたらいいなーなんて思っていたり。
 便利そうなので、時間がある時に試す。
-postkun（ポスト君） ブログ・SNS一括投稿フリーツール tarpipe
-以上、昼休憩のこっそり投稿でした。
-元記事: 「Tarpipe」なら複数のソーシャルサイトをメールで一括操作 : ライフハッカー［日本版］, 仕事も生活も上手くこなすライフハック情報満載のブログ・メディア</description>
-    </item>
-    
-    <item>
-      <title>ヘッダ画像変更</title>
-      <link>https://gomlog.com/20081022_change-header-image/</link>
-      <pubDate>Wed, 22 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20081022_change-header-image/</guid>
-      <description>ヘッダの画像を変更してみました。 青い海〜〜
-今までずっと青で来ているので、また青系で。使っているテーマ、K2のデフォルト色なんだけどね・・・ テーマの切り替えもちょっと考えようかなあ。</description>
-    </item>
-    
-    <item>
-      <title>2007年の記事別アクセスレポート</title>
-      <link>https://gomlog.com/20071231_2007-access-report/</link>
-      <pubDate>Mon, 31 Dec 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20071231_2007-access-report/</guid>
-      <description>今年も残すところ1日となりました。たまには自Blogについて振り返ってみようと思います。 1年間でもっともアクセスがあった記事トップ5を紹介します。
- 2girls1cupを見てみた SIerってやつは ユビキタス・キャプチャー Daemon Toolの甘い罠 違法ダウンロードとCDの売り上げ低迷は関係ないらしい  やはり流行りもの強し。あとはネタ元の影響が強い記事が多いですね。 そして4位には珍しくツールの解説記事。2年前の文章を読み返すと、かなりはづかしいなぁ・・・
-今年見にきてくれた皆様、ありがとうございました。 来年もよろしくお願いします。</description>
-    </item>
-    
-    <item>
-      <title>FeedBurnerはじめました</title>
-      <link>https://gomlog.com/20071215_change-rss/</link>
-      <pubDate>Sat, 15 Dec 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20071215_change-rss/</guid>
-      <description>RSSをFeedBurnerに変更しました。
-記事 http://feeds.feedburner.jp/gomlog/
-コメント http://feeds.feedburner.jp/CommentsForGomlog
-RSSで読んでくださっている方がもしいらっしゃいましたら、できれば変更をお願いします。 なお、通常のRSSフィードhttp://gomlog.com/feed/も変わらず使えます。 右下のEntries Rssも、表示は従来通りですが、クリックするとFeedBurnerのフィードが表示されます。ご了承ください。</description>
-    </item>
-    
-    <item>
-      <title>Akismetの威力</title>
-      <link>https://gomlog.com/20071026_power-of-akismet/</link>
-      <pubDate>Fri, 26 Oct 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20071026_power-of-akismet/</guid>
-      <description>&lt;p&gt;先日よりコメントスパム爆撃にあっています。
-うちのような場末のblogでも、こんなことあるんですねぇ。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>wordpress--K2は悪くなかっ･･･た？</title>
-      <link>https://gomlog.com/20070605_sorry_k2/</link>
-      <pubDate>Tue, 05 Jun 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070605_sorry_k2/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://gomlog.com/2007/05/29/k2_no_bad/&#34;&gt;前回のエントリ&lt;/a&gt;の続きです。
+postkun（ポスト君） ブログ・SNS一括投稿フリーツールtarpipe以上、昼休憩のこっそり投稿でした。
+元記事: 「Tarpipe」なら複数のソーシャルサイトをメールで一括操作 : ライフハッカー［日本版］, 仕事も生活も上手くこなすライフハック情報満載のブログ・メディア</description></item><item><title>ヘッダ画像変更</title><link>https://gomlog.com/20081022_change-header-image/</link><pubDate>Wed, 22 Oct 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20081022_change-header-image/</guid><description>ヘッダの画像を変更してみました。 青い海〜〜
+今までずっと青で来ているので、また青系で。使っているテーマ、K2のデフォルト色なんだけどね・・・ テーマの切り替えもちょっと考えようかなあ。</description></item><item><title>2007年の記事別アクセスレポート</title><link>https://gomlog.com/20071231_2007-access-report/</link><pubDate>Mon, 31 Dec 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20071231_2007-access-report/</guid><description>今年も残すところ1日となりました。たまには自Blogについて振り返ってみようと思います。 1年間でもっともアクセスがあった記事トップ5を紹介します。
+やはり流行りもの強し。あとはネタ元の影響が強い記事が多いですね。 そして4位には珍しくツールの解説記事。2年前の文章を読み返すと、かなりはづかしいなぁ・・・
+今年見にきてくれた皆様、ありがとうございました。 来年もよろしくお願いします。</description></item><item><title>FeedBurnerはじめました</title><link>https://gomlog.com/20071215_change-rss/</link><pubDate>Sat, 15 Dec 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20071215_change-rss/</guid><description>RSSをFeedBurnerに変更しました。
+記事 http://feeds.feedburner.jp/gomlog/コメント http://feeds.feedburner.jp/CommentsForGomlogRSSで読んでくださっている方がもしいらっしゃいましたら、できれば変更をお願いします。 なお、通常のRSSフィードhttp://gomlog.com/feed/も変わらず使えます。 右下のEntries Rssも、表示は従来通りですが、クリックするとFeedBurnerのフィードが表示されます。ご了承ください。</description></item><item><title>Akismetの威力</title><link>https://gomlog.com/20071026_power-of-akismet/</link><pubDate>Fri, 26 Oct 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20071026_power-of-akismet/</guid><description>&lt;p>先日よりコメントスパム爆撃にあっています。
+うちのような場末のblogでも、こんなことあるんですねぇ。&lt;/p></description></item><item><title>wordpress--K2は悪くなかっ･･･た？</title><link>https://gomlog.com/20070605_sorry_k2/</link><pubDate>Tue, 05 Jun 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070605_sorry_k2/</guid><description>&lt;p>&lt;!-- raw HTML omitted -->前回のエントリ&lt;!-- raw HTML omitted -->の続きです。
 表示されていなかったK2ライブアーカイブ機能を復活させました。バージョンアップが原因なのか、はたまた・・・
-以下、詳細。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Wordpress--EUCからUTF8への移行方法</title>
-      <link>https://gomlog.com/20070127_wordpress_euc_to_utf8/</link>
-      <pubDate>Sat, 27 Jan 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070127_wordpress_euc_to_utf8/</guid>
-      <description>&lt;p&gt;WordpressとMySQLの文字コードの不整合が起こっていたのですが、ようやく復旧しました。
-ひっそりとサーバー移転。MｙSQL4→5になり、文字コードもUTF-8にしました。&lt;/p&gt;
-
-&lt;p&gt;管理画面へのアクセスに異常に時間がかかっていたのですが・・・これも解決しました。
-快適です。&lt;/p&gt;
-
-&lt;p&gt;移行後の環境は
+以下、詳細。&lt;/p></description></item><item><title>Wordpress--EUCからUTF8への移行方法</title><link>https://gomlog.com/20070127_wordpress_euc_to_utf8/</link><pubDate>Sat, 27 Jan 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070127_wordpress_euc_to_utf8/</guid><description>&lt;p>WordpressとMySQLの文字コードの不整合が起こっていたのですが、ようやく復旧しました。
+ひっそりとサーバー移転。MｙSQL4→5になり、文字コードもUTF-8にしました。&lt;/p>
+&lt;p>管理画面へのアクセスに異常に時間がかかっていたのですが・・・これも解決しました。
+快適です。&lt;/p>
+&lt;p>移行後の環境は
 Web：Apache1.3.37
 PHP5.1.6
-MySQL5.1.11&lt;/p&gt;
-
-&lt;p&gt;以下、解決方法の紹介です。ちょっと長いですが、ご容赦ください。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>テンプレ変更</title>
-      <link>https://gomlog.com/20061007_change_templete/</link>
-      <pubDate>Sat, 07 Oct 2006 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20061007_change_templete/</guid>
-      <description>季節感のあるテンプレにしてみました。
-使わせて頂いたのは、blog TK*Plus1さんの「秋の夕暮れ」。
-他にも好みのテンプレが多かったので、これからもこっそり使わせて頂こう・・・
-未だにネットコミュニケーションがよくわかってないため、失礼ながらこっそりで！！</description>
-    </item>
-    
-    <item>
-      <title>がんばってますっ！</title>
-      <link>https://gomlog.com/20060202_nospam/</link>
-      <pubDate>Thu, 02 Feb 2006 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20060202_nospam/</guid>
-      <description>会社から帰って来て自分のページ見てみると、珍しくトラックバックとコメント欄に更新の跡が。しかも3個ずつ。
-どう見てもエロサイトです。本当に(ry
-3日くらい経って忘れてなかったら消す予定。</description>
-    </item>
-    
-    <item>
-      <title>てんぷら</title>
-      <link>https://gomlog.com/20041016_change_template/</link>
-      <pubDate>Sat, 16 Oct 2004 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20041016_change_template/</guid>
-      <description>とりあえず、テンプレ追加＆変更。
-ずいぶん見た目が変わるもんだ・・・
-自分でCSSからなにから書ければ一番いいんだろうけど・・・無理。
-とりあえず、今週はこの見た目で！
-閑話休題。
-ここのところ雨続きだったせいか、気分までショボーンとしております。
-おまけに風邪引いたっぽくて体もだるだるです。
-ヴァー</description>
-    </item>
-    
-    <item>
-      <title>設置！</title>
-      <link>https://gomlog.com/20041014_installation/</link>
-      <pubDate>Thu, 14 Oct 2004 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20041014_installation/</guid>
-      <description>というわけで、設置してみました。
-更新と管理楽になるのかなぁ、とか思ってたけど・・・
-タグ打たなくてもいいのか、くらいの違いくらい(´･ω･｀)
-今のところレイアウトが思い通りにいかないので、ちょっと心苦しかったり。
-とりあえずは、テンプレ捜索中?</description>
-    </item>
-    
-  </channel>
-</rss>
+MySQL5.1.11&lt;/p>
+&lt;p>以下、解決方法の紹介です。ちょっと長いですが、ご容赦ください。&lt;/p></description></item><item><title>テンプレ変更</title><link>https://gomlog.com/20061007_change_templete/</link><pubDate>Sat, 07 Oct 2006 00:00:00 +0000</pubDate><guid>https://gomlog.com/20061007_change_templete/</guid><description>季節感のあるテンプレにしてみました。使わせて頂いたのは、blog TK*Plus1さんの「秋の夕暮れ」。他にも好みのテンプレが多かったので、これからもこっそり使わせて頂こう・・・未だにネットコミュニケーションがよくわかってないため、失礼ながらこっそりで！！</description></item><item><title>がんばってますっ！</title><link>https://gomlog.com/20060202_nospam/</link><pubDate>Thu, 02 Feb 2006 00:00:00 +0000</pubDate><guid>https://gomlog.com/20060202_nospam/</guid><description>会社から帰って来て自分のページ見てみると、珍しくトラックバックとコメント欄に更新の跡が。しかも3個ずつ。どう見てもエロサイトです。本当に(ry3日くらい経って忘れてなかったら消す予定。</description></item><item><title>てんぷら</title><link>https://gomlog.com/20041016_change_template/</link><pubDate>Sat, 16 Oct 2004 00:00:00 +0000</pubDate><guid>https://gomlog.com/20041016_change_template/</guid><description>とりあえず、テンプレ追加＆変更。ずいぶん見た目が変わるもんだ・・・自分でCSSからなにから書ければ一番いいんだろうけど・・・無理。とりあえず、今週はこの見た目で！閑話休題。ここのところ雨続きだったせいか、気分までショボーンとしております。おまけに風邪引いたっぽくて体もだるだるです。ヴァー</description></item><item><title>設置！</title><link>https://gomlog.com/20041014_installation/</link><pubDate>Thu, 14 Oct 2004 00:00:00 +0000</pubDate><guid>https://gomlog.com/20041014_installation/</guid><description>というわけで、設置してみました。更新と管理楽になるのかなぁ、とか思ってたけど・・・タグ打たなくてもいいのか、くらいの違いくらい(´･ω･｀)今のところレイアウトが思い通りにいかないので、ちょっと心苦しかったり。とりあえずは、テンプレ捜索中?</description></item></channel></rss>

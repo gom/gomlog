@@ -1,77 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>W Zero3 on gomlog</title>
-    <link>https://gomlog.com/tags/w-zero3/</link>
-    <description>Recent content in W Zero3 on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Tue, 07 Aug 2007 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/w-zero3/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Advanced／W-ZERO3[es]とGoogle Calenderを同期させる「POSync」</title>
-      <link>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</link>
-      <pubDate>Tue, 07 Aug 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</guid>
-      <description>&amp;raquo;W-ZERO3(iPAQも)用カレンダーツール
-Advanced／W-ZERO3[es]の予定表とgoogle calenderを同期してくれるツールです。 正確に言うと、Outlook Mobileの予定表らしいですが・・・
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>w-zero3 on gomlog</title><link>https://gomlog.com/tags/w-zero3/</link><description>Recent content in w-zero3 on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 07 Aug 2007 00:00:00 +0000</lastBuildDate><atom:link href="https://gomlog.com/tags/w-zero3/index.xml" rel="self" type="application/rss+xml"/><item><title>Advanced／W-ZERO3[es]とGoogle Calenderを同期させる「POSync」</title><link>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</link><pubDate>Tue, 07 Aug 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</guid><description>»W-ZERO3(iPAQも)用カレンダーツールAdvanced／W-ZERO3[es]の予定表とgoogle calenderを同期してくれるツールです。 正確に言うと、Outlook Mobileの予定表らしいですが・・・
 Ad[es]で予定を登録→google calenderと同期することで、オフライン状態でも予定の閲覧・管理・編集ができます。 さらにTODAY画面(トップ画面ね)にも今日の予定が表示されるので、便利！ 通知機能も使えるので、電波が届かないところでも大丈夫！
-オンライン状態なら、Google Calendar Mobile Gatewayが便利ですが、 電波のないところでも気軽に予定を編集できるのがいい感じです。 ますますAd[es]依存になりそう・・・</description>
-    </item>
-    
-    <item>
-      <title>Advanced／W-ZERO3[es] の覚え書き -Hardware編-</title>
-      <link>https://gomlog.com/20070728_tips-advanced-w-zero3/</link>
-      <pubDate>Sat, 28 Jul 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070728_tips-advanced-w-zero3/</guid>
-      <description>すでに各所で情報がでているが、忘れないようにメモ。 Hardware編となっているが、他の編があるかどうかは不明です。あしからず。
-音質を良くする方法 「\Windows\use44khz.exe」を実行。「はい」を選択。 Windows Mobileを再起動(フルキーボード横にあるResetを押す)すると完了。 音質改善後は音量の調整を忘れずに！
-メール末尾の文字を消す方法 「W-ZERO3メール」から送るとメール末尾に追加される、「sent from W-ZERO3」の文字。 「\windows\STMailToggleMsg.exe」を実行すると、文字が表示されなくなる。</description>
-    </item>
-    
-    <item>
-      <title>Advanced／W-ZERO3[es] をいじってみました</title>
-      <link>https://gomlog.com/20070723_use-advanced-w-zero3/</link>
-      <pubDate>Mon, 23 Jul 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070723_use-advanced-w-zero3/</guid>
-      <description>さて、Ad[es]を持って4日ばかり経ちました。週末も超えてわかってきたことなんかをちょっとだけ。
+オンライン状態なら、Google Calendar Mobile Gatewayが便利ですが、 電波のないところでも気軽に予定を編集できるのがいい感じです。 ますますAd[es]依存になりそう・・・</description></item><item><title>Advanced／W-ZERO3[es] の覚え書き -Hardware編-</title><link>https://gomlog.com/20070728_tips-advanced-w-zero3/</link><pubDate>Sat, 28 Jul 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070728_tips-advanced-w-zero3/</guid><description>すでに各所で情報がでているが、忘れないようにメモ。 Hardware編となっているが、他の編があるかどうかは不明です。あしからず。</description></item><item><title>Advanced／W-ZERO3[es] をいじってみました</title><link>https://gomlog.com/20070723_use-advanced-w-zero3/</link><pubDate>Mon, 23 Jul 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070723_use-advanced-w-zero3/</guid><description>さて、Ad[es]を持って4日ばかり経ちました。週末も超えてわかってきたことなんかをちょっとだけ。
 今回は、よく使ってるアプリについて。
-今のところよく使っているものといえば・・・ ○Opera Mobile 主にRSSリーダーとToDo管理に使ってます。 PCページも表示速度の遅さに耐えれば見られるので、Ad[es]のワイド画面とあわせて便利に使える。 ただ、横ボタンで戻る/進むできないのがちょっと不便かなぁ・・・ Webブラウザに関しては、Lunascape Mobileも軽快という話。次はこいつを試してみよう。
-○TCPMP 多くのファイルフォーマットに対応したPocketPC用メディアプレーヤ。ビデオファイル再生用に入れてみました。 縦画面での映りは上々で、見るには不自由しません。 ・・・が！横画面での再生ができない！エラーになって終了してしまいます。 せっかくならワイド画面で見たいなぁ・・・
+今のところよく使っているものといえば・・・ ○Opera Mobile主にRSSリーダーとToDo管理に使ってます。 PCページも表示速度の遅さに耐えれば見られるので、Ad[es]のワイド画面とあわせて便利に使える。 ただ、横ボタンで戻る/進むできないのがちょっと不便かなぁ・・・ Webブラウザに関しては、Lunascape Mobileも軽快という話。次はこいつを試してみよう。
+○TCPMP多くのファイルフォーマットに対応したPocketPC用メディアプレーヤ。ビデオファイル再生用に入れてみました。 縦画面での映りは上々で、見るには不自由しません。 ・・・が！横画面での再生ができない！エラーになって終了してしまいます。 せっかくならワイド画面で見たいなぁ・・・
 今のところはこれくらいです。どちらにしろメインで使っていくのはWeb&amp;amp;メディアになりそう。 本来の機能であるメールと通話は・・・携帯で！スマートフォンである必要なし！
-その他、通信関係でおかしな現象が起きてたりもしますが、それはまた後日。</description>
-    </item>
-    
-    <item>
-      <title>Advanced/W-ZERO3[es]を買ってきました</title>
-      <link>https://gomlog.com/20070720_getting-advanced-w-zero3/</link>
-      <pubDate>Fri, 20 Jul 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070720_getting-advanced-w-zero3/</guid>
-      <description>結局予約した上で購入してきました。予約しなくても、結構在庫あったみたいだが・・・ まだ余り使ってないけど、スマートフォン初体験記を箇条書き。
- 予想以上に小さい。手になじむ。 通信はなかなか。PC用のページは見づらいものもあるが、携帯用のページならきれいに見れる。 重さは結構ある。電車で30分いじっていたら、なんか手首が変に・・・ キーボードは打ちやすい。指が少し大きめだが、間違えることはない。 Xcrawlに若干難あり。下方向に動かそうとすると、「2」キーを押してしまうことが・・・ ただし、Xcrawlによるスクロールはかなり楽。縦方向でのWeb閲覧が超楽。 スタイラスは必須。くくりつけておくストラップも必須。 Operaが軽快。無線LANと組み合わせるとさくさく動く。 接続の切り替えが不安定になることがたまにある。アクセスポイントとか電波の関係か？ さすがWindows。フリーズはお家芸。  ちょこっといじってみた限りではこんな感じでした。 ブラウジングはPHS回線でも結構ストレスなく見れますよ。 ちなみに、ユーザーエージェントがモバイルとして認識されたりPCになったりするのは、普通なんですかね。 知ってたら誰か教えて～。
-microSDも買ってきたので、今度は音楽とか動画とかぶち込んで見る予定。 その前にブログ更新できるようにしておかないとなぁ・・・</description>
-    </item>
-    
-    <item>
-      <title>Advanced/W-ZERO3[es]の予約が･･･</title>
-      <link>https://gomlog.com/20070627_pre-w-zero3/</link>
-      <pubDate>Wed, 27 Jun 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070627_pre-w-zero3/</guid>
-      <description>&lt;p&gt;Advanced/W-ZERO3[es]が欲しい。超欲しい。
+その他、通信関係でおかしな現象が起きてたりもしますが、それはまた後日。</description></item><item><title>Advanced/W-ZERO3[es]を買ってきました</title><link>https://gomlog.com/20070720_getting-advanced-w-zero3/</link><pubDate>Fri, 20 Jul 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070720_getting-advanced-w-zero3/</guid><description>結局予約した上で購入してきました。予約しなくても、結構在庫あったみたいだが・・・ まだ余り使ってないけど、スマートフォン初体験記を箇条書き。
+ちょこっといじってみた限りではこんな感じでした。 ブラウジングはPHS回線でも結構ストレスなく見れますよ。 ちなみに、ユーザーエージェントがモバイルとして認識されたりPCになったりするのは、普通なんですかね。 知ってたら誰か教えて～。
+microSDも買ってきたので、今度は音楽とか動画とかぶち込んで見る予定。 その前にブログ更新できるようにしておかないとなぁ・・・</description></item><item><title>Advanced/W-ZERO3[es]の予約が･･･</title><link>https://gomlog.com/20070627_pre-w-zero3/</link><pubDate>Wed, 27 Jun 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070627_pre-w-zero3/</guid><description>&lt;p>Advanced/W-ZERO3[es]が欲しい。超欲しい。
 予約販売開始が6/29の予定と聞いていたので、わくわくしながら待っていたんですよ。
-「29日には予約GETしてやる！」なんて思いながら。&lt;/p&gt;
-
-&lt;p&gt;今日、たまたまこんなの↓を見つけました。
-&lt;a href=&#34;http://www.wince.ne.jp/snap/cnBoard.asp?PID=2491&#34;&gt;ウィルコム「Advanced / W-ZERO3[es]」6 月 29 日の予約販売に先駆けて予約事前登録を 26 日より開始 (WindowsCE FAN)&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+「29日には予約GETしてやる！」なんて思いながら。&lt;/p>
+&lt;p>今日、たまたまこんなの↓を見つけました。
+&lt;!-- raw HTML omitted -->ウィルコム「Advanced / W-ZERO3[es]」6 月 29 日の予約販売に先駆けて予約事前登録を 26 日より開始 (WindowsCE FAN)&lt;!-- raw HTML omitted -->&lt;/p></description></item></channel></rss>

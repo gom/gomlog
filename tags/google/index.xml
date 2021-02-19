@@ -1,39 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Google on gomlog</title>
-    <link>https://gomlog.com/tags/google/</link>
-    <description>Recent content in Google on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Tue, 07 Aug 2007 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/google/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Advanced／W-ZERO3[es]とGoogle Calenderを同期させる「POSync」</title>
-      <link>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</link>
-      <pubDate>Tue, 07 Aug 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</guid>
-      <description>&amp;raquo;W-ZERO3(iPAQも)用カレンダーツール
-Advanced／W-ZERO3[es]の予定表とgoogle calenderを同期してくれるツールです。 正確に言うと、Outlook Mobileの予定表らしいですが・・・
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>google on gomlog</title><link>https://gomlog.com/tags/google/</link><description>Recent content in google on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 07 Aug 2007 00:00:00 +0000</lastBuildDate><atom:link href="https://gomlog.com/tags/google/index.xml" rel="self" type="application/rss+xml"/><item><title>Advanced／W-ZERO3[es]とGoogle Calenderを同期させる「POSync」</title><link>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</link><pubDate>Tue, 07 Aug 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</guid><description>»W-ZERO3(iPAQも)用カレンダーツールAdvanced／W-ZERO3[es]の予定表とgoogle calenderを同期してくれるツールです。 正確に言うと、Outlook Mobileの予定表らしいですが・・・
 Ad[es]で予定を登録→google calenderと同期することで、オフライン状態でも予定の閲覧・管理・編集ができます。 さらにTODAY画面(トップ画面ね)にも今日の予定が表示されるので、便利！ 通知機能も使えるので、電波が届かないところでも大丈夫！
-オンライン状態なら、Google Calendar Mobile Gatewayが便利ですが、 電波のないところでも気軽に予定を編集できるのがいい感じです。 ますますAd[es]依存になりそう・・・</description>
-    </item>
-    
-    <item>
-      <title>Googleブック検索日本語版が出ました</title>
-      <link>https://gomlog.com/20070706_googlebook-japanese/</link>
-      <pubDate>Fri, 06 Jul 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070706_googlebook-japanese/</guid>
-      <description>＞＞Google ブック検索 
-毎度おなじみGoogleより、ブック検索の日本語版が出ました。 キーワードを元に、本の全文から検索してくれるそうです。すごい。 図書館や本屋に行く前に使って、出版社・著者・題名なんかをメモっておく時に便利そうですね。
+オンライン状態なら、Google Calendar Mobile Gatewayが便利ですが、 電波のないところでも気軽に予定を編集できるのがいい感じです。 ますますAd[es]依存になりそう・・・</description></item><item><title>Googleブック検索日本語版が出ました</title><link>https://gomlog.com/20070706_googlebook-japanese/</link><pubDate>Fri, 06 Jul 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070706_googlebook-japanese/</guid><description>＞＞Google ブック検索 毎度おなじみGoogleより、ブック検索の日本語版が出ました。 キーワードを元に、本の全文から検索してくれるそうです。すごい。 図書館や本屋に行く前に使って、出版社・著者・題名なんかをメモっておく時に便利そうですね。
 また、「全文表示」や「部分プレビュー」など、内容を閲覧できるようになっている本もあります。 著作権が切れているものや許可を得ているものとのことですが、 気になっている本、古典の名作などを無料で読むことができるってことです！
-エセ本好きにはたまらないです。また、ネット時間が増えそうだ・・・</description>
-    </item>
-    
-  </channel>
-</rss>
+エセ本好きにはたまらないです。また、ネット時間が増えそうだ・・・</description></item></channel></rss>

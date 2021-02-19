@@ -1,305 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mobile on gomlog</title>
-    <link>https://gomlog.com/tags/mobile/</link>
-    <description>Recent content in Mobile on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Fri, 25 Nov 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Kindle fireを買った</title>
-      <link>https://gomlog.com/20111125_bought_kindle_fire/</link>
-      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20111125_bought_kindle_fire/</guid>
-      <description>最近仕事でUSに来ているので、買っちゃいました。
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>mobile on gomlog</title><link>https://gomlog.com/tags/mobile/</link><description>Recent content in mobile on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 25 Nov 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://gomlog.com/tags/mobile/index.xml" rel="self" type="application/rss+xml"/><item><title>Kindle fireを買った</title><link>https://gomlog.com/20111125_bought_kindle_fire/</link><pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate><guid>https://gomlog.com/20111125_bought_kindle_fire/</guid><description>最近仕事でUSに来ているので、買っちゃいました。
 ちょっと使ってみて思ったことをさらさらと書いておきます。
-所感  7inchは大きさ的にちょうどいい感じ。iPadだと持ち運ぶのに大きすぎるけど、こちらは片手にちょうど収まる。 Android Marketは入ってない。Amazon Appstoreにあるアプリのみ使える。他のアプリ入れる方法は後述。 とにかくAmazonからコンテンツ買って楽しむための端末、という感じ。いわゆる何でもできる感じは少ない。 Amazon Cloudは驚愕。買った本や音楽が自動でロードされるし、他の端末でも楽しめてすごく便利！ Video, Movieはあまり興味ないので不明。 ブラウザは普通に使いやすい。速度が早いか？と聞かれてもよくわかりません。 
 さて、使ってて気づいたこととかやったこととかをさらにつらつら書いておきます。
-launcherを入れ替える defaultのlauncherはAmazonのコンテンツにばかりアクセスさせようとするので、使い慣れたlauncherに入れ替えます。
 Amazon AppstoreにGo launcherがあるので、これを入れる。あとはHomeボタンを押してGo launcherを選択すればOK。defaultにする、チェックボックスを忘れずに。
 ついでにES File Explorerも入れておくといいかもしれません。
-自分で入れたファイルを見る USBでPCと繋げるので、そこからPDFやMP3, MP4なんかをKindleに移せる。それぞれDocuments, Music, Videoなんてフォルダがあるので、その辺に入れておくとよさげ。
 ただ、Amazon MP3 Player, Video PlayerはAmazonコンテンツ以外は見てくれないので、自力でメディアプレイヤーを入れましょう。
 僕は好みでVLC入れました。
-Amazon Appstoreにないアプリを入れる ネットに転がっているapkを拾ってきて、ブラウザからダウンロードするか、PCから転送しましょう。
 同じ要領でAndroid Marketも入りますが、Googleの認証フレームワークが必要らしく、rootなしでは動かない模様。試してないけど、Googleアカウントが要求されるアプリは厳しいのかな？
-というわけで Amazonのコンテンツを存分に楽しむにはうってつけだと思います。僕はKindle用の本とPDFを読む端末が欲しくて買ったので、結構楽しめてます。 ただ、いわゆる自由なAndroidを楽しみたい方には、あまりおすすめできません。Amazon Appstoreはアプリの種類も少ないし、野良apkはやっぱりちょっと怖いです。
 日本に帰ったらIPでAmazon Cloud弾かれちゃうのかなーとか今からドキドキしつつ、もうちょっと楽しもうと思います。
-P.S. ついでにtouchも買いました。読むだけならE-Inkの方が好きです。
- </description>
-    </item>
-    
-    <item>
-      <title>携帯フィルタリングのカテゴリ</title>
-      <link>https://gomlog.com/20081129_mobile-filtering/</link>
-      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20081129_mobile-filtering/</guid>
-      <description>「調べる」ウェブサイトのカテゴリ登録を確認｜ネットスター株式会社
-ほー。そんなのが調べられるんだ。 どれどれ、うちのサイトは・・・？
-
-
-[caption id=&amp;ldquo;attachment_411&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;150&amp;rdquo; caption=&amp;ldquo;登録なし？&amp;rdquo;][/caption]
- けっ！</description>
-    </item>
-    
-    <item>
-      <title>iPhone/iPod touch 2.2でPodcastが聴きやすくなった</title>
-      <link>https://gomlog.com/20081128_iphoneipod-touch-22e381a7podcaste3818ce881b4e3818de38284e38199e3818fe381aae381a3e3819f/</link>
-      <pubDate>Fri, 28 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20081128_iphoneipod-touch-22e381a7podcaste3818ce881b4e3818de38284e38199e3818fe381aae381a3e3819f/</guid>
-      <description>久々にiPod touchでPodcastを聴こうとしたら、インターフェースが変わってた。 今までイラっとしていた点が改善されていて、大変聴きやすくなったと思う。
-変遷 Podcastの機能はソフトウェア・アップデートのたびに変更されている。
- 2.0: 1コンテンツ聴いたら再生終了 2.1: 1つの番組のコンテンツを連続再生できるようになった。再生順は新しい→古い 2.2: 再生順が古い→新しいに!  少しずつの変化だけど、着実に使い易くなっている。 聴けなくて溜まってしまった時にまとめて聴くことが多いので、この変更はとても嬉しい。</description>
-    </item>
-    
-    <item>
-      <title>iPod touchアプリからの投稿テスト</title>
-      <link>https://gomlog.com/20080805_ipod-touche382a2e38397e383aae3818be38289e381aee68a95e7a8bfe38386e382b9e38388/</link>
-      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20080805_ipod-touche382a2e38397e383aae3818be38289e381aee68a95e7a8bfe38386e382b9e38388/</guid>
-      <description>ver.1.1からのテスト。 日本語うてるかな？</description>
-    </item>
-    
-    <item>
-      <title>Wordpress-- iPhoneのWordpressアプリが使えない</title>
-      <link>https://gomlog.com/20080803_cannot-use-wordpress-for-iphone/</link>
-      <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20080803_cannot-use-wordpress-for-iphone/</guid>
-      <description>正確に言うと、iPod touchで試したんですが。
-どうやら2byte文字を含むとPostできないみたい。改善されると、ブログの更新率がぐっと上がるんだけどなあ。</description>
-    </item>
-    
-    <item>
-      <title>iPod touchが欲しくなってきた</title>
-      <link>https://gomlog.com/20080714_want-to-buy-ipod-touch/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20080714_want-to-buy-ipod-touch/</guid>
-      <description>iPod touchが欲しくなってきた。話題のiPhoneじゃなくて。
+P.S. ついでにtouchも買いました。読むだけならE-Inkの方が好きです。</description></item><item><title>携帯フィルタリングのカテゴリ</title><link>https://gomlog.com/20081129_mobile-filtering/</link><pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20081129_mobile-filtering/</guid><description>「調べる」ウェブサイトのカテゴリ登録を確認｜ネットスター株式会社ほー。そんなのが調べられるんだ。 どれどれ、うちのサイトは・・・？
+[caption id=&amp;ldquo;attachment_411&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;150&amp;rdquo; caption=&amp;ldquo;登録なし？&amp;quot;][/caption]
+けっ！</description></item><item><title>iPhone/iPod touch 2.2でPodcastが聴きやすくなった</title><link>https://gomlog.com/20081128_iphoneipod-touch-22e381a7podcaste3818ce881b4e3818de38284e38199e3818fe381aae381a3e3819f/</link><pubDate>Fri, 28 Nov 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20081128_iphoneipod-touch-22e381a7podcaste3818ce881b4e3818de38284e38199e3818fe381aae381a3e3819f/</guid><description>久々にiPod touchでPodcastを聴こうとしたら、インターフェースが変わってた。 今までイラっとしていた点が改善されていて、大変聴きやすくなったと思う。
+少しずつの変化だけど、着実に使い易くなっている。 聴けなくて溜まってしまった時にまとめて聴くことが多いので、この変更はとても嬉しい。</description></item><item><title>iPod touchアプリからの投稿テスト</title><link>https://gomlog.com/20080805_ipod-touche382a2e38397e383aae3818be38289e381aee68a95e7a8bfe38386e382b9e38388/</link><pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20080805_ipod-touche382a2e38397e383aae3818be38289e381aee68a95e7a8bfe38386e382b9e38388/</guid><description>ver.1.1からのテスト。 日本語うてるかな？</description></item><item><title>Wordpress-- iPhoneのWordpressアプリが使えない</title><link>https://gomlog.com/20080803_cannot-use-wordpress-for-iphone/</link><pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20080803_cannot-use-wordpress-for-iphone/</guid><description>正確に言うと、iPod touchで試したんですが。
+どうやら2byte文字を含むとPostできないみたい。改善されると、ブログの更新率がぐっと上がるんだけどなあ。</description></item><item><title>iPod touchが欲しくなってきた</title><link>https://gomlog.com/20080714_want-to-buy-ipod-touch/</link><pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20080714_want-to-buy-ipod-touch/</guid><description>iPod touchが欲しくなってきた。話題のiPhoneじゃなくて。
 なぜって、通信料が高すぎる。今の自分では払うのが苦痛。 以下、あえてiPod touchが欲しくなった理由。
- WifiならFONと公衆無線LANを使えば結構使える場所が多いんじゃないか？ どうせ使うのは通勤電車の中なんだし、動画複数と読むテキストでも用意してメールで送っておけば、回線なしでもかなり楽しめるんじゃね？ 全部Gmailに送っておいてオフラインで読めばいいんじゃね？ どうしても回線欲しければ、EMONSTERも買ってwifirouter使えばイーモバの料金でsafari使い放題じゃね？  iPhoneに最も必要ないのは通話機能だと思っているのでそんなことが言える。 あああ、欲しい欲しい欲しい。
-でも今月〜来月の出費は尋常じゃないので、blogに書き捨てるだけにしておこう・・・</description>
-    </item>
-    
-    <item>
-      <title>iPhone行列を見てきました</title>
-      <link>https://gomlog.com/20080710_iphone3g-in-japan/</link>
-      <pubDate>Thu, 10 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20080710_iphone3g-in-japan/</guid>
-      <description>表参道でiPhoneの行列を見てきました。 まあ、ぞろぞろと並んでる並んでる。楽しそうだなぁ。
+iPhoneに最も必要ないのは通話機能だと思っているのでそんなことが言える。 あああ、欲しい欲しい欲しい。
+でも今月〜来月の出費は尋常じゃないので、blogに書き捨てるだけにしておこう・・・</description></item><item><title>iPhone行列を見てきました</title><link>https://gomlog.com/20080710_iphone3g-in-japan/</link><pubDate>Thu, 10 Jul 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20080710_iphone3g-in-japan/</guid><description>表参道でiPhoneの行列を見てきました。 まあ、ぞろぞろと並んでる並んでる。楽しそうだなぁ。
 見に行ったのが7/10 20:00すぎ。 softbank表参道店からJR原宿駅方面へずらーっと。 大通りにぶつかったら道路を挟んで線路沿いへ。 渋谷方面に向かってずらー・・・
 この時点で、最後尾は代々木国立競技場の端の方、「岸記念体育館前」まで伸びていました。 距離にしてだいたい500mくらいかな？
 並んだ人はぜひ手に入れて欲しいですね。 そして速攻でレポートをアップしてくれると嬉しい感じ。
-僕は買わない予定だけど、これ読んでる人はいかが？ iPhoneはいらないけど、iPod touchがリニューアルされたら買う。(されなそうだけど)</description>
-    </item>
-    
-    <item>
-      <title>メモ環境</title>
-      <link>https://gomlog.com/20080508_env_memo/</link>
-      <pubDate>Thu, 08 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20080508_env_memo/</guid>
-      <description>文房具を買い込んできました。
-ペンホルダー 普段Moleskinを愛用していますが、ペンホルダーが付いていません。 いつもくっつけているミニボールペンのクリップがゆるゆるになってきたので、ペンホルダーを買いました。 クリップで表紙に挟んで、太いバネでくくりつける感じのものです。 今使っているボールペンだと細すぎて微妙ですが･･･他のペンもつけられるのがよい！
-RHODIA メモパッド 有名なRHODIAのメモパッド。値段も高いので避けていたのですが、一度使ってみることにしました。 ちょっと使ってみた感じ、書き心地はさすが。 
-PenPod なにかとペンが欲しくなる場面が多いので、携帯に付けておけば必ず持っていることになるだろうと思いつく。 ただ、さすがに邪魔になるときもあるので、いつでも外せるようにしたいと思いつく。 ストラップをちょっと改造して、長さも短く、取り外し可能なようにしました。
-ZEBRA :: 筆記具百科 :: ペンポッド :: penpod
-以上。いつでもどこでもメモれるってのが気持ちいいですよね。 あとはRHODIAやMoleskinのカバーも欲しいけれど、革製は高いのが難点。</description>
-    </item>
-    
-    <item>
-      <title>表示や広告にご用心？</title>
-      <link>https://gomlog.com/20071215_bari3-cellphone/</link>
-      <pubDate>Sat, 15 Dec 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20071215_bari3-cellphone/</guid>
-      <description>一律にアンテナ表示を甘くしてしまえば、そりゃどこに行ってもバリ3だよね。そう言われてみると、確かにそれ以前の端末ならアンテナマーク1～2本でもほぼ発着信できていたのに、それ以後の端末は1～2本といえばほとんど通話が成立しなくなった。 「バリ3」表示のホントのとこ | WIRED VISION
-そんなことがあったのか！10年以上前の話だそうなので、今はきっと違う状況なのだろう。きっと。 しかし、実質の伴っていない表示や、小さい注書きだらけの広告に惑わされることはしばしばある。 表示を見て信じ込んでしまっているから、「こんなもんか」と思ってしまいがちだ。 もちろん表示の操作を行う側が悪いのだが、表示を見る側も鵜呑みにしないように気をつけなければいけない、ということか。</description>
-    </item>
-    
-    <item>
-      <title>電子マネー不正利用で１０００万円被害</title>
-      <link>https://gomlog.com/20071110_e-money-unauthorized-using/</link>
-      <pubDate>Sat, 10 Nov 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20071110_e-money-unauthorized-using/</guid>
-      <description>なんか「ああやっぱり」って感じですよね。便利と恐怖は紙一重。
-livedoor ニュース - [モバイルスイカ]電子マネー不正利用で１０００万円被害
-自分は「携帯落としたら被害が大きくなる」という理由でこの手のサービスを利用したことはありません。 ただ、モバイルでないSuicaやPasmo等の他の電子マネーも同様の危険を伴っています。 自分もオートチャージで使っているので、気をつけねば･･･</description>
-    </item>
-    
-    <item>
-      <title>ソフトバンクの恐怖</title>
-      <link>https://gomlog.com/20071005_fear-of-softbank/</link>
-      <pubDate>Fri, 05 Oct 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20071005_fear-of-softbank/</guid>
-      <description>携帯料金が今より安くなるし、ソフトバンクにキャリアを変えようかな～なんて思っていたら、とんでもない記事をみつけました。早まらなくて本当によかったです。
-教えて！goo 【ソフトバンク】誰かに勝手にローンで機種変更されました！
-今日、１年半ぶりに機種変更しようと思い、近所のソフトバンクショップへ行ってきました。 そしたら、私名義の電話番号を使って１ヶ月程前に誰かが勝手に別のソフトバンクショップで機種変更しているそう、しかもローンで買ったみたいなので残金の精算後の機種変更しかできない上に、機種変更してすぐなので高額になると言われました。  回答を読み進めていくとだんだんと恐ろしくなっていきます。 本人確認が適当なのもびっくりですが、その後のソフトバンク・ショップ側の対応の悪さ･･･これはないわ。 契約した本人が契約書の情報を見せてもらえないって。 本人確認がなくても、機種変更手続きができるって。 値段に惑わされて安易に契約するべきじゃないですね･･･
+僕は買わない予定だけど、これ読んでる人はいかが？ iPhoneはいらないけど、iPod touchがリニューアルされたら買う。(されなそうだけど)</description></item><item><title>メモ環境</title><link>https://gomlog.com/20080508_env_memo/</link><pubDate>Thu, 08 May 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20080508_env_memo/</guid><description>文房具を買い込んできました。
+ZEBRA :: 筆記具百科 :: ペンポッド :: penpod以上。いつでもどこでもメモれるってのが気持ちいいですよね。 あとはRHODIAやMoleskinのカバーも欲しいけれど、革製は高いのが難点。</description></item><item><title>表示や広告にご用心？</title><link>https://gomlog.com/20071215_bari3-cellphone/</link><pubDate>Sat, 15 Dec 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20071215_bari3-cellphone/</guid><description>そんなことがあったのか！10年以上前の話だそうなので、今はきっと違う状況なのだろう。きっと。 しかし、実質の伴っていない表示や、小さい注書きだらけの広告に惑わされることはしばしばある。 表示を見て信じ込んでしまっているから、「こんなもんか」と思ってしまいがちだ。 もちろん表示の操作を行う側が悪いのだが、表示を見る側も鵜呑みにしないように気をつけなければいけない、ということか。</description></item><item><title>電子マネー不正利用で１０００万円被害</title><link>https://gomlog.com/20071110_e-money-unauthorized-using/</link><pubDate>Sat, 10 Nov 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20071110_e-money-unauthorized-using/</guid><description>なんか「ああやっぱり」って感じですよね。便利と恐怖は紙一重。
+livedoor ニュース - [モバイルスイカ]電子マネー不正利用で１０００万円被害自分は「携帯落としたら被害が大きくなる」という理由でこの手のサービスを利用したことはありません。 ただ、モバイルでないSuicaやPasmo等の他の電子マネーも同様の危険を伴っています。 自分もオートチャージで使っているので、気をつけねば･･･</description></item><item><title>ソフトバンクの恐怖</title><link>https://gomlog.com/20071005_fear-of-softbank/</link><pubDate>Fri, 05 Oct 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20071005_fear-of-softbank/</guid><description>携帯料金が今より安くなるし、ソフトバンクにキャリアを変えようかな～なんて思っていたら、とんでもない記事をみつけました。早まらなくて本当によかったです。
+教えて！goo 【ソフトバンク】誰かに勝手にローンで機種変更されました！回答を読み進めていくとだんだんと恐ろしくなっていきます。 本人確認が適当なのもびっくりですが、その後のソフトバンク・ショップ側の対応の悪さ･･･これはないわ。 契約した本人が契約書の情報を見せてもらえないって。 本人確認がなくても、機種変更手続きができるって。 値段に惑わされて安易に契約するべきじゃないですね･･･
 どれもびっくりしますが、一番怖いのは「店員が顧客情報を使うだけで偽装の端末販売が行えてしまう」こと。 ソフトバンクは「頭金0円」！という割賦販売を売りにしています。つまり、現金が動かなくても講座情報等だけで端末を販売する処理ができてしまいます。 しかも本人確認書類のコピーもとらないようなのです。どうしようもありませんね。
 もちろん悪いのは当の犯人ですが、安易に犯罪行為を行える体制を構築しているソフトバンク側も大きな責任があると思います。 以前のYBBといい、癌呆といい、今回のモバイルといい･･･あまり懲りてないんですかね。 安かろう悪かろうを地でいってるように見えます。 もう少し質さえ高ければ、良いサービスが揃っているのに･･･もったいないなぁ。
-それにしても、他キャリアでも似たような事件って、あるんですかね？</description>
-    </item>
-    
-    <item>
-      <title>iPod touch発表！</title>
-      <link>https://gomlog.com/20070906_ipod-touch-release/</link>
-      <pubDate>Thu, 06 Sep 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070906_ipod-touch-release/</guid>
-      <description>新型iPodラインナップが発表されました。 既存のiPod、nano、shuffleの他に、新たな製品が･･･
-iPod touch!
-要するに、iPhone - Phoneで少し薄くなったって代物です。電話じゃなくてもいいけどアレが欲しい！って人はiPod touchの方がいいんじゃないでしょうか。 iPhoneの練習として買う、なんてリッチな人もいるようですが･･･ 気になるお値段は8GBモデルで36,800円、16GBモデルで48,800円。ちょっとお高めですかね？
-&amp;raquo;The Apple Store (Japan) - iPod touch
-ちなみにその他の各モデルの容量とお値段は以下の通り。 iPod Classic: 80GB/29,800円、160GB/42,800円 iPod nano: 4GB/17,800円、8GB/23,800円 iPod shuffle: 1GB/9800円
-個人的には、nanoのデザインがちょっとふとっちょになりましたが、値段・容量・手軽さを考慮すると魅力的です。iPod touch + nanoってのが出たら欲しいなぁ。 でも、今使ってる第1世代nanoがよく頑張ってるので、当分は買うこともなさそうです。 &amp;raquo;The Apple Store (Japan) - iPod nano</description>
-    </item>
-    
-    <item>
-      <title>Advanced／W-ZERO3[es]とGoogle Calenderを同期させる「POSync」</title>
-      <link>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</link>
-      <pubDate>Tue, 07 Aug 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</guid>
-      <description>&amp;raquo;W-ZERO3(iPAQも)用カレンダーツール
-Advanced／W-ZERO3[es]の予定表とgoogle calenderを同期してくれるツールです。 正確に言うと、Outlook Mobileの予定表らしいですが・・・
+それにしても、他キャリアでも似たような事件って、あるんですかね？</description></item><item><title>iPod touch発表！</title><link>https://gomlog.com/20070906_ipod-touch-release/</link><pubDate>Thu, 06 Sep 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070906_ipod-touch-release/</guid><description>新型iPodラインナップが発表されました。 既存のiPod、nano、shuffleの他に、新たな製品が･･･
+iPod touch!要するに、iPhone - Phoneで少し薄くなったって代物です。電話じゃなくてもいいけどアレが欲しい！って人はiPod touchの方がいいんじゃないでしょうか。 iPhoneの練習として買う、なんてリッチな人もいるようですが･･･ 気になるお値段は8GBモデルで36,800円、16GBモデルで48,800円。ちょっとお高めですかね？
+»The Apple Store (Japan) - iPod touchちなみにその他の各モデルの容量とお値段は以下の通り。 iPod Classic: 80GB/29,800円、160GB/42,800円 iPod nano: 4GB/17,800円、8GB/23,800円 iPod shuffle: 1GB/9800円
+個人的には、nanoのデザインがちょっとふとっちょになりましたが、値段・容量・手軽さを考慮すると魅力的です。iPod touch + nanoってのが出たら欲しいなぁ。 でも、今使ってる第1世代nanoがよく頑張ってるので、当分は買うこともなさそうです。 »The Apple Store (Japan) - iPod nano</description></item><item><title>Advanced／W-ZERO3[es]とGoogle Calenderを同期させる「POSync」</title><link>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</link><pubDate>Tue, 07 Aug 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</guid><description>»W-ZERO3(iPAQも)用カレンダーツールAdvanced／W-ZERO3[es]の予定表とgoogle calenderを同期してくれるツールです。 正確に言うと、Outlook Mobileの予定表らしいですが・・・
 Ad[es]で予定を登録→google calenderと同期することで、オフライン状態でも予定の閲覧・管理・編集ができます。 さらにTODAY画面(トップ画面ね)にも今日の予定が表示されるので、便利！ 通知機能も使えるので、電波が届かないところでも大丈夫！
-オンライン状態なら、Google Calendar Mobile Gatewayが便利ですが、 電波のないところでも気軽に予定を編集できるのがいい感じです。 ますますAd[es]依存になりそう・・・</description>
-    </item>
-    
-    <item>
-      <title>Advanced／W-ZERO3[es] の覚え書き -Hardware編-</title>
-      <link>https://gomlog.com/20070728_tips-advanced-w-zero3/</link>
-      <pubDate>Sat, 28 Jul 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070728_tips-advanced-w-zero3/</guid>
-      <description>すでに各所で情報がでているが、忘れないようにメモ。 Hardware編となっているが、他の編があるかどうかは不明です。あしからず。
-音質を良くする方法 「\Windows\use44khz.exe」を実行。「はい」を選択。 Windows Mobileを再起動(フルキーボード横にあるResetを押す)すると完了。 音質改善後は音量の調整を忘れずに！
-メール末尾の文字を消す方法 「W-ZERO3メール」から送るとメール末尾に追加される、「sent from W-ZERO3」の文字。 「\windows\STMailToggleMsg.exe」を実行すると、文字が表示されなくなる。</description>
-    </item>
-    
-    <item>
-      <title>Advanced／W-ZERO3[es] をいじってみました</title>
-      <link>https://gomlog.com/20070723_use-advanced-w-zero3/</link>
-      <pubDate>Mon, 23 Jul 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070723_use-advanced-w-zero3/</guid>
-      <description>さて、Ad[es]を持って4日ばかり経ちました。週末も超えてわかってきたことなんかをちょっとだけ。
+オンライン状態なら、Google Calendar Mobile Gatewayが便利ですが、 電波のないところでも気軽に予定を編集できるのがいい感じです。 ますますAd[es]依存になりそう・・・</description></item><item><title>Advanced／W-ZERO3[es] の覚え書き -Hardware編-</title><link>https://gomlog.com/20070728_tips-advanced-w-zero3/</link><pubDate>Sat, 28 Jul 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070728_tips-advanced-w-zero3/</guid><description>すでに各所で情報がでているが、忘れないようにメモ。 Hardware編となっているが、他の編があるかどうかは不明です。あしからず。</description></item><item><title>Advanced／W-ZERO3[es] をいじってみました</title><link>https://gomlog.com/20070723_use-advanced-w-zero3/</link><pubDate>Mon, 23 Jul 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070723_use-advanced-w-zero3/</guid><description>さて、Ad[es]を持って4日ばかり経ちました。週末も超えてわかってきたことなんかをちょっとだけ。
 今回は、よく使ってるアプリについて。
-今のところよく使っているものといえば・・・ ○Opera Mobile 主にRSSリーダーとToDo管理に使ってます。 PCページも表示速度の遅さに耐えれば見られるので、Ad[es]のワイド画面とあわせて便利に使える。 ただ、横ボタンで戻る/進むできないのがちょっと不便かなぁ・・・ Webブラウザに関しては、Lunascape Mobileも軽快という話。次はこいつを試してみよう。
-○TCPMP 多くのファイルフォーマットに対応したPocketPC用メディアプレーヤ。ビデオファイル再生用に入れてみました。 縦画面での映りは上々で、見るには不自由しません。 ・・・が！横画面での再生ができない！エラーになって終了してしまいます。 せっかくならワイド画面で見たいなぁ・・・
+今のところよく使っているものといえば・・・ ○Opera Mobile主にRSSリーダーとToDo管理に使ってます。 PCページも表示速度の遅さに耐えれば見られるので、Ad[es]のワイド画面とあわせて便利に使える。 ただ、横ボタンで戻る/進むできないのがちょっと不便かなぁ・・・ Webブラウザに関しては、Lunascape Mobileも軽快という話。次はこいつを試してみよう。
+○TCPMP多くのファイルフォーマットに対応したPocketPC用メディアプレーヤ。ビデオファイル再生用に入れてみました。 縦画面での映りは上々で、見るには不自由しません。 ・・・が！横画面での再生ができない！エラーになって終了してしまいます。 せっかくならワイド画面で見たいなぁ・・・
 今のところはこれくらいです。どちらにしろメインで使っていくのはWeb&amp;amp;メディアになりそう。 本来の機能であるメールと通話は・・・携帯で！スマートフォンである必要なし！
-その他、通信関係でおかしな現象が起きてたりもしますが、それはまた後日。</description>
-    </item>
-    
-    <item>
-      <title>Advanced/W-ZERO3[es]を買ってきました</title>
-      <link>https://gomlog.com/20070720_getting-advanced-w-zero3/</link>
-      <pubDate>Fri, 20 Jul 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070720_getting-advanced-w-zero3/</guid>
-      <description>結局予約した上で購入してきました。予約しなくても、結構在庫あったみたいだが・・・ まだ余り使ってないけど、スマートフォン初体験記を箇条書き。
- 予想以上に小さい。手になじむ。 通信はなかなか。PC用のページは見づらいものもあるが、携帯用のページならきれいに見れる。 重さは結構ある。電車で30分いじっていたら、なんか手首が変に・・・ キーボードは打ちやすい。指が少し大きめだが、間違えることはない。 Xcrawlに若干難あり。下方向に動かそうとすると、「2」キーを押してしまうことが・・・ ただし、Xcrawlによるスクロールはかなり楽。縦方向でのWeb閲覧が超楽。 スタイラスは必須。くくりつけておくストラップも必須。 Operaが軽快。無線LANと組み合わせるとさくさく動く。 接続の切り替えが不安定になることがたまにある。アクセスポイントとか電波の関係か？ さすがWindows。フリーズはお家芸。  ちょこっといじってみた限りではこんな感じでした。 ブラウジングはPHS回線でも結構ストレスなく見れますよ。 ちなみに、ユーザーエージェントがモバイルとして認識されたりPCになったりするのは、普通なんですかね。 知ってたら誰か教えて～。
-microSDも買ってきたので、今度は音楽とか動画とかぶち込んで見る予定。 その前にブログ更新できるようにしておかないとなぁ・・・</description>
-    </item>
-    
-    <item>
-      <title>Advanced/W-ZERO3[es]の予約が･･･</title>
-      <link>https://gomlog.com/20070627_pre-w-zero3/</link>
-      <pubDate>Wed, 27 Jun 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070627_pre-w-zero3/</guid>
-      <description>&lt;p&gt;Advanced/W-ZERO3[es]が欲しい。超欲しい。
+その他、通信関係でおかしな現象が起きてたりもしますが、それはまた後日。</description></item><item><title>Advanced/W-ZERO3[es]を買ってきました</title><link>https://gomlog.com/20070720_getting-advanced-w-zero3/</link><pubDate>Fri, 20 Jul 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070720_getting-advanced-w-zero3/</guid><description>結局予約した上で購入してきました。予約しなくても、結構在庫あったみたいだが・・・ まだ余り使ってないけど、スマートフォン初体験記を箇条書き。
+ちょこっといじってみた限りではこんな感じでした。 ブラウジングはPHS回線でも結構ストレスなく見れますよ。 ちなみに、ユーザーエージェントがモバイルとして認識されたりPCになったりするのは、普通なんですかね。 知ってたら誰か教えて～。
+microSDも買ってきたので、今度は音楽とか動画とかぶち込んで見る予定。 その前にブログ更新できるようにしておかないとなぁ・・・</description></item><item><title>Advanced/W-ZERO3[es]の予約が･･･</title><link>https://gomlog.com/20070627_pre-w-zero3/</link><pubDate>Wed, 27 Jun 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070627_pre-w-zero3/</guid><description>&lt;p>Advanced/W-ZERO3[es]が欲しい。超欲しい。
 予約販売開始が6/29の予定と聞いていたので、わくわくしながら待っていたんですよ。
-「29日には予約GETしてやる！」なんて思いながら。&lt;/p&gt;
-
-&lt;p&gt;今日、たまたまこんなの↓を見つけました。
-&lt;a href=&#34;http://www.wince.ne.jp/snap/cnBoard.asp?PID=2491&#34;&gt;ウィルコム「Advanced / W-ZERO3[es]」6 月 29 日の予約販売に先駆けて予約事前登録を 26 日より開始 (WindowsCE FAN)&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>携帯電話料金、一番安いのは？</title>
-      <link>https://gomlog.com/20070417_cellphone_low_price_plan/</link>
-      <pubDate>Tue, 17 Apr 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070417_cellphone_low_price_plan/</guid>
-      <description>&lt;p&gt;前回から間があきましたが、一応続き。
+「29日には予約GETしてやる！」なんて思いながら。&lt;/p>
+&lt;p>今日、たまたまこんなの↓を見つけました。
+&lt;!-- raw HTML omitted -->ウィルコム「Advanced / W-ZERO3[es]」6 月 29 日の予約販売に先駆けて予約事前登録を 26 日より開始 (WindowsCE FAN)&lt;!-- raw HTML omitted -->&lt;/p></description></item><item><title>携帯電話料金、一番安いのは？</title><link>https://gomlog.com/20070417_cellphone_low_price_plan/</link><pubDate>Tue, 17 Apr 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070417_cellphone_low_price_plan/</guid><description>&lt;p>前回から間があきましたが、一応続き。
 各社の料金を比較してみました。
-推定使用状況としては
-&lt;ul&gt;
-    &lt;li&gt;月30分程度の通話(携帯電話宛)&lt;/li&gt;
-    &lt;li&gt;メールは1日10～20件ほど&lt;/li&gt;
-    &lt;li&gt;Webはほとんど見ない&lt;/li&gt;
-    &lt;li&gt;使用期間は7年目&lt;/li&gt;
-&lt;/ul&gt;
-という感じ。ライトユーザーを想定しています。
-比較表は以下。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>携帯電話の料金プランを見直してみた</title>
-      <link>https://gomlog.com/20070321_cut_down_mobile_cost/</link>
-      <pubDate>Wed, 21 Mar 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070321_cut_down_mobile_cost/</guid>
-      <description>&lt;p&gt;携帯電話、どのくらい使いますか？
+推定使用状況としては&lt;/p>
+&lt;!-- raw HTML omitted --></description></item><item><title>携帯電話の料金プランを見直してみた</title><link>https://gomlog.com/20070321_cut_down_mobile_cost/</link><pubDate>Wed, 21 Mar 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070321_cut_down_mobile_cost/</guid><description>&lt;p>携帯電話、どのくらい使いますか？
 自分は音声通話よりメール+Web、アプリ中心です。携帯用Web端末化してます。
 主に移動時間等での暇つぶしに使ってますね。
 よっぽどいっぱい使っているんだと思って、今まで使い放題プラン(以下、パケホーダイ)にしたまま放置していたんですが・・・
-実は結構無駄にしていたようです。&lt;/p&gt;
-
-&lt;p&gt;使っているキャリアはDoCoMo。使用機種はN902is。
+実は結構無駄にしていたようです。&lt;/p>
+&lt;p>使っているキャリアはDoCoMo。使用機種はN902is。
 主な用途は上記の通り。フルブラウザ等パケホーダイの対象外通信は使ってません。
-月の大体の使用料は以下の通り。&lt;/p&gt;
-
-&lt;blockquote&gt;基本料金：4,600円(無料通話2,000円)
-割引：2,116円(基本料金の46％)
-通話料：1,100円(18円/30秒)
-パケホーダイ：3,900円&lt;/blockquote&gt;
-
-&lt;p&gt;あとはiモード料金(300円)とか消費税。計7,000円前後になります。
+月の大体の使用料は以下の通り。&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>あとはiモード料金(300円)とか消費税。計7,000円前後になります。
 たいして使ってる方ではないのですが、これだけ払うのもばかばかしいなぁと最近になってようやく思い始めました。
 そこで、安く済ませられるところはないかと検討してみました。
-DoCoMoじゃない人は、こんなに高いのね・・・と思いながら読んでみてください。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>イー・モバイル モバイル端末「EM・ONE」を発売</title>
-      <link>https://gomlog.com/20070219_emone/</link>
-      <pubDate>Mon, 19 Feb 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070219_emone/</guid>
-      <description>イー・モバイルEM・ONE ワンセグ＋デュアルスライドWindows Mobile端末 - Engadget Japanese 
-W-ZERO3がヒットし、スマートフォンが 流行る昨今。すごいスペックの端末が出てきました。 Windows Mobile5搭載、ワンセグの視聴可能、グラフィックメモリにGoForceTM5500という具合です。 液晶も視野角160度・コントラスト比400：1とくっきりはっきり見えそうです。 これだけのスペックで、薄さがなんと18.9mm！！
-また、通信速度は下り3.6Mbps。この速さで月額5980円とのことです。 年契約等で割り引きされるプランもあり、さらに安くなるとのこと。 無線LANやBluetoothも搭載されています。 気になる発売日は2007年3月31日。 値段次第では欲しいなぁ・・・ イー・モバイル株式会社 http://www.emobile.jp/index.html</description>
-    </item>
-    
-    <item>
-      <title>PCつけるのもﾏﾝﾄﾞｸｾ</title>
-      <link>https://gomlog.com/20050119_mac_mini/</link>
-      <pubDate>Wed, 19 Jan 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20050119_mac_mini/</guid>
-      <description>&lt;p&gt;はいこんばんわ。&lt;br /&gt;
-&lt;br /&gt;
-ここ2週間以上残業ばっかで超うぼぁ。&lt;br /&gt;
-おまけに毎週日曜になんか用事が入るし・・・休ませてよ(つД`)&lt;br /&gt;
-&lt;br /&gt;
-というわけで、最近の注目ニュースダイジェスト。&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+DoCoMoじゃない人は、こんなに高いのね・・・と思いながら読んでみてください。&lt;/p></description></item><item><title>イー・モバイル モバイル端末「EM・ONE」を発売</title><link>https://gomlog.com/20070219_emone/</link><pubDate>Mon, 19 Feb 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070219_emone/</guid><description>イー・モバイルEM・ONE ワンセグ＋デュアルスライドWindows Mobile端末 - Engadget Japanese W-ZERO3がヒットし、スマートフォンが 流行る昨今。すごいスペックの端末が出てきました。 Windows Mobile5搭載、ワンセグの視聴可能、グラフィックメモリにGoForceTM5500という具合です。 液晶も視野角160度・コントラスト比400：1とくっきりはっきり見えそうです。 これだけのスペックで、薄さがなんと18.9mm！！
+また、通信速度は下り3.6Mbps。この速さで月額5980円とのことです。 年契約等で割り引きされるプランもあり、さらに安くなるとのこと。 無線LANやBluetoothも搭載されています。 気になる発売日は2007年3月31日。 値段次第では欲しいなぁ・・・ イー・モバイル株式会社 http://www.emobile.jp/index.html</description></item><item><title>PCつけるのもﾏﾝﾄﾞｸｾ</title><link>https://gomlog.com/20050119_mac_mini/</link><pubDate>Wed, 19 Jan 2005 00:00:00 +0000</pubDate><guid>https://gomlog.com/20050119_mac_mini/</guid><description>&lt;p>はいこんばんわ。&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+ここ2週間以上残業ばっかで超うぼぁ。&lt;!-- raw HTML omitted -->
+おまけに毎週日曜になんか用事が入るし・・・休ませてよ(つД`)&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+というわけで、最近の注目ニュースダイジェスト。&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p></description></item></channel></rss>

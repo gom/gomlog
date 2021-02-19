@@ -1,30 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ps3 on gomlog</title>
-    <link>https://gomlog.com/tags/ps3/</link>
-    <description>Recent content in Ps3 on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Sun, 12 Nov 2006 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/ps3/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>PS3</title>
-      <link>https://gomlog.com/20061112_ps3/</link>
-      <pubDate>Sun, 12 Nov 2006 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20061112_ps3/</guid>
-      <description>&lt;p&gt;発売されましたね。&lt;br /&gt;
-地元でもそんなに長蛇ではないですが、行列ができてました。&lt;br /&gt;
-しかも、金曜の19時にはすでに並んでる人が・・・&lt;br /&gt;
-すごいなぁ、その気概。&lt;br /&gt;
-これ書いてる頃にはきっと各所で使用レポートが出ているんでしょうね。&lt;br /&gt;
-&lt;br /&gt;
-続きに行列ムービー。&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ps3 on gomlog</title><link>https://gomlog.com/tags/ps3/</link><description>Recent content in ps3 on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 12 Nov 2006 00:00:00 +0000</lastBuildDate><atom:link href="https://gomlog.com/tags/ps3/index.xml" rel="self" type="application/rss+xml"/><item><title>PS3</title><link>https://gomlog.com/20061112_ps3/</link><pubDate>Sun, 12 Nov 2006 00:00:00 +0000</pubDate><guid>https://gomlog.com/20061112_ps3/</guid><description>&lt;p>発売されましたね。&lt;!-- raw HTML omitted -->
+地元でもそんなに長蛇ではないですが、行列ができてました。&lt;!-- raw HTML omitted -->
+しかも、金曜の19時にはすでに並んでる人が・・・&lt;!-- raw HTML omitted -->
+すごいなぁ、その気概。&lt;!-- raw HTML omitted -->
+これ書いてる頃にはきっと各所で使用レポートが出ているんでしょうね。&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+続きに行列ムービー。&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p></description></item></channel></rss>

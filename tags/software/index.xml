@@ -1,55 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Software on gomlog</title>
-    <link>https://gomlog.com/tags/software/</link>
-    <description>Recent content in Software on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Tue, 07 Aug 2007 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Advanced／W-ZERO3[es]とGoogle Calenderを同期させる「POSync」</title>
-      <link>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</link>
-      <pubDate>Tue, 07 Aug 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</guid>
-      <description>&amp;raquo;W-ZERO3(iPAQも)用カレンダーツール
-Advanced／W-ZERO3[es]の予定表とgoogle calenderを同期してくれるツールです。 正確に言うと、Outlook Mobileの予定表らしいですが・・・
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>software on gomlog</title><link>https://gomlog.com/tags/software/</link><description>Recent content in software on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 07 Aug 2007 00:00:00 +0000</lastBuildDate><atom:link href="https://gomlog.com/tags/software/index.xml" rel="self" type="application/rss+xml"/><item><title>Advanced／W-ZERO3[es]とGoogle Calenderを同期させる「POSync」</title><link>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</link><pubDate>Tue, 07 Aug 2007 00:00:00 +0000</pubDate><guid>https://gomlog.com/20070807_advancedefbc8fw-zero3ese381a8google-calendere38292e5908ce69c9fe38195e3819be3828be3808cposynce3808d/</guid><description>»W-ZERO3(iPAQも)用カレンダーツールAdvanced／W-ZERO3[es]の予定表とgoogle calenderを同期してくれるツールです。 正確に言うと、Outlook Mobileの予定表らしいですが・・・
 Ad[es]で予定を登録→google calenderと同期することで、オフライン状態でも予定の閲覧・管理・編集ができます。 さらにTODAY画面(トップ画面ね)にも今日の予定が表示されるので、便利！ 通知機能も使えるので、電波が届かないところでも大丈夫！
-オンライン状態なら、Google Calendar Mobile Gatewayが便利ですが、 電波のないところでも気軽に予定を編集できるのがいい感じです。 ますますAd[es]依存になりそう・・・</description>
-    </item>
-    
-    <item>
-      <title>さよならNortonこんにちわNOD</title>
-      <link>https://gomlog.com/20050125_goodby_norton_hello_nod/</link>
-      <pubDate>Tue, 25 Jan 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20050125_goodby_norton_hello_nod/</guid>
-      <description>&lt;p&gt;先日のこと。&lt;br /&gt;
-&lt;br /&gt;
-「更新の期限が切れました。」&lt;br /&gt;
-&lt;br /&gt;
-というメッセージが出て、のーとん先生がお亡くなりになりました。&lt;br /&gt;
-NortonSystemWorksを2年ほど使ってたんですが・・・&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PCつけるのもﾏﾝﾄﾞｸｾ</title>
-      <link>https://gomlog.com/20050119_mac_mini/</link>
-      <pubDate>Wed, 19 Jan 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20050119_mac_mini/</guid>
-      <description>&lt;p&gt;はいこんばんわ。&lt;br /&gt;
-&lt;br /&gt;
-ここ2週間以上残業ばっかで超うぼぁ。&lt;br /&gt;
-おまけに毎週日曜になんか用事が入るし・・・休ませてよ(つД`)&lt;br /&gt;
-&lt;br /&gt;
-というわけで、最近の注目ニュースダイジェスト。&lt;a&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+オンライン状態なら、Google Calendar Mobile Gatewayが便利ですが、 電波のないところでも気軽に予定を編集できるのがいい感じです。 ますますAd[es]依存になりそう・・・</description></item><item><title>さよならNortonこんにちわNOD</title><link>https://gomlog.com/20050125_goodby_norton_hello_nod/</link><pubDate>Tue, 25 Jan 2005 00:00:00 +0000</pubDate><guid>https://gomlog.com/20050125_goodby_norton_hello_nod/</guid><description>&lt;p>先日のこと。&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+「更新の期限が切れました。」&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+というメッセージが出て、のーとん先生がお亡くなりになりました。&lt;!-- raw HTML omitted -->
+NortonSystemWorksを2年ほど使ってたんですが・・・&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p></description></item><item><title>PCつけるのもﾏﾝﾄﾞｸｾ</title><link>https://gomlog.com/20050119_mac_mini/</link><pubDate>Wed, 19 Jan 2005 00:00:00 +0000</pubDate><guid>https://gomlog.com/20050119_mac_mini/</guid><description>&lt;p>はいこんばんわ。&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+ここ2週間以上残業ばっかで超うぼぁ。&lt;!-- raw HTML omitted -->
+おまけに毎週日曜になんか用事が入るし・・・休ませてよ(つД`)&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+というわけで、最近の注目ニュースダイジェスト。&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p></description></item></channel></rss>

@@ -1,283 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="">
-  <meta name="generator" content="Hugo 0.54-DEV" />
-
-  <title>Daemon Toolの甘い罠 &middot; gomlog</title>
-
-  
-  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
-
-  <!--[if lte IE 8]>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css">
-  <![endif]-->
-  <!--[if gt IE 8]><!-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css">
-  <!--<![endif]-->
-
-  <!--[if lte IE 8]>
-  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
-  <![endif]-->
-  <!--[if gt IE 8]><!-->
-  <link rel="stylesheet" href="/css/side-menu.css">
-  <!--<![endif]-->
-
-  <link rel="stylesheet" href="/css/blackburn.css">
-
-  
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
-  
-  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
-
-  
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
- 
-  
-
-  
-
-  <link rel="shortcut icon" href="https://gomlog.com/img/favicon.ico" type="image/x-icon" />
-
-  
-  
-
-</head>
-
-
-<body>
-<div id="layout">
-
-  
-<a href="#menu" id="menuLink" class="menu-link">
-  
-  <span></span>
-</a>
-<div id="menu">
-
-  
-  <a class="pure-menu-heading brand" href="/">gomlog</a>
-
-
-  <div class="pure-menu">
-    <ul class="pure-menu-list">
-      
-      
-        <li class="pure-menu-item">
-          <a class="pure-menu-link" href="/post/"><i class='fa fa-list fa-fw'></i>Posts</a>
-      
-        </li>
-      
-      
-        <li class="pure-menu-item">
-          <a class="pure-menu-link" href="/"><i class='fa fa-home fa-fw'></i>Home</a>
-      
-        </li>
-      
-    </ul>
-  </div>
-
-  <div class="pure-menu social">
-  <ul class="pure-menu-list">
-
-    
-
-    
-
-    
-    <li class="pure-menu-item">
-      <a class="pure-menu-link" href="https://twitter.com/gom" target="_blank"><i class="fa fa-twitter-square fa-fw"></i>Twitter</a>
-    </li>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <li class="pure-menu-item">
-      <a class="pure-menu-link" href="https://github.com/gom" target="_blank"><i class="fa fa-github-square fa-fw"></i>GitHub</a>
-    </li>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-  </ul>
-</div>
-
-
-  <div>
-  <div class="small-print">
-    <small></small>
-  </div>
-  <div class="small-print">
-    <small>Built with&nbsp;<a href="https://gohugo.io/" target="_blank">Hugo</a></small>
-    <small>Theme&nbsp;<a href="https://github.com/yoshiharuyamashita/blackburn" target="_blank">Blackburn</a></small>
-  </div>
-</div>
-
-</div>
-
-
-  <div id="main">
-
-
-<div class="header">
-  <h1>Daemon Toolの甘い罠</h1>
-  <h2></h2>
-</div>
-<div class="content">
-  <p>毎日とか言っておいて早速さぼってみました。<br />
-<br />
-CDやDVDのイメージを作って、仮想ドライブに読み込んで?なんてことは最近多いと思います。<br />
-おいらもDaemon Toolsを使ってます。<br />
-このDaemon Tools、紹介とかインストール、使い方説明のページはいっぱいあります。<br />
-が。アンインストールの説明をしているページはほとんどありません。<br />
-「アプリケーションの削除でいいんじゃね？」とお思いでしょう。<br />
-実際はそれでいいんですが（ぇ<br />
-<br />
-実はこのDaemon Tools、ただではアンインストールされてくれないんです。今日はそんなお話･･･<a></a></p>
-
-<p>事の始まりは、Call of DutyというFPSのゲームを買ってきたこと。<br />
-友達数人でFPSでもやろうということで買ってきたんですが･･･<br />
-まずインストール。何事もなく終わる。<br />
-そして起動。<br />
-<br />
-･･･あれ？<br />
-「CD/DVDエミュレーションソフトが起動してるので止めて下さいね♪」<br />
-とか言われて起動できず。最近のゲームは生意気言うようになったんだなぁ。<br />
-心当たりがあるのはDaemon Toolのみなので、早速削除してみる。<br />
-そして起動。「CD/DVD(略)」むーん。<br />
-<br />
-もしかしたらなんか残ってるのかなぁ?と思ってドライブを確認。仮想ドライブがしっかり残ってます。<br />
-原因は<br />
-<br />
-<strong>イメージマウントしたままアンインストールしてた(泣)</strong><br />
-<br />
-調べてみると、デバイスマネージャから「PnP BIOS Extension」を削除すればおっけーらしい。<br />
-しかし！「(略)」ちくしょう。<br />
-一度Daemon入れ直して、もう一度アンインストール。結果は変わらず。<br />
-<br />
-もしや徹底的に消さないといけないのかと思い、ネットを見ながら手動アンインストール。<br />
-しっかしこれ･･･DLLやレジストリが残ってるのはなんとなくわかるが<br />
-ProgramFilesの中身まで全部残ってる。<br />
-なんだこの超いい加減インストーラー。<br />
-<br />
-ようやく削除も完了。DLLからレジストリからよくぞまあここまで浸食してるもんだ・・・<br />
-で、ゲーム起動「(ry 」･･･(&lsquo;A`)<br />
-<br />
-ここらへんで半分諦めてネットをぼーっとみてみる。<br />
-手動アンインストールの時に見ていたページをよーく見てみると・・・<br />
-<br />
-<strong>CloneCDが原因です</strong><br />
-<br />
-･･････<br />
-落ち着いてCloneTray起動。<br />
-「Hide CDR Media」に一回チェックを入れて、外す。<br />
-<br />
-<br />
-ゲーム起動。<br />
-<br />
-<br />
-とほほほほほ･･････<br />
-<br />
-直接の原因はDaemonじゃなかったのか。ごめんよDaemon様。<br />
-しかしまあ、Daemonのファイルの削除されないっぷりがわかったからいいか･･･ノートン先生2004なんかも正常にアンインストールできない(Symantecのサイトにあるアンインストーラ使っても、ゴミが残る)のを味わったのもあり、便利なソフトでも罠が潜んでいることもある、ということでした。まる。<br />
-<br />
-参考URL:<a href="http://www.hinocatv.ne.jp/~s_h_r/index.htm" title="funny story">funny story</a><br />
-Daemonのインストール・使用方法・FAQやアンインストール詳しく載ってます。今回見ていたのも全部ここだったりします。<br />
-というより、アンインストールの話題がまともに書いてあるサイト、ここだけだった・・・(探せてないだけかもしれんが)</p>
-</div>
-
-</div>
-</div>
-<script src="https://gomlog.com/js/ui.js"></script>
-<script src="https://gomlog.com/js/menus.js"></script>
-
-
-<script>
-  
-  if (window.location.hostname != "localhost") {
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-769146-3', 'auto');
-    ga('send', 'pageview');
-  }
-</script>
-
-
-
-
-
-</body>
-</html>
-
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content><meta name=generator content="Hugo 0.80.0"><title>Daemon Toolの甘い罠 &#183; gomlog</title><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css><!--[if lte IE 8]><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css><![endif]--><!--[if gt IE 8]><!--><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css><!--<![endif]--><!--[if lte IE 8]><link rel=stylesheet href=/css/side-menu-old-ie.css><![endif]--><!--[if gt IE 8]><!--><link rel=stylesheet href=/css/side-menu.css><!--<![endif]--><link rel=stylesheet href=/css/blackburn.css><link rel=stylesheet href=https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css><link href="https://fonts.googleapis.com/css?family=Raleway" rel=stylesheet type=text/css><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><link rel="shortcut icon" href=https://gomlog.com/img/favicon.ico type=image/x-icon></head><body><div id=layout><a href=#menu id=menuLink class=menu-link><span></span></a><div id=menu><a class="pure-menu-heading brand" href=/>gomlog</a><div class=pure-menu><ul class=pure-menu-list><li class=pure-menu-item><a class=pure-menu-link href=/post/><i class="fa fa-list fa-fw"></i>Posts</a></li><li class=pure-menu-item><a class=pure-menu-link href=/><i class="fa fa-home fa-fw"></i>Home</a></li></ul></div><div class="pure-menu social"><ul class=pure-menu-list><li class=pure-menu-item><a class=pure-menu-link href=https://twitter.com/gom target=_blank><i class="fa fa-twitter-square fa-fw"></i>Twitter</a></li><li class=pure-menu-item><a class=pure-menu-link href=https://github.com/gom target=_blank><i class="fa fa-github-square fa-fw"></i>GitHub</a></li></ul></div><div><div class=small-print><small></small></div><div class=small-print><small>Built with&nbsp;<a href=https://gohugo.io/ target=_blank>Hugo</a></small>
+<small>Theme&nbsp;<a href=https://github.com/yoshiharuyamashita/blackburn target=_blank>Blackburn</a></small></div></div></div><div id=main><div class=header><h1>Daemon Toolの甘い罠</h1><h2></h2></div><div class=content><p>毎日とか言っておいて早速さぼってみました。
+CDやDVDのイメージを作って、仮想ドライブに読み込んで?なんてことは最近多いと思います。
+おいらもDaemon Toolsを使ってます。
+このDaemon Tools、紹介とかインストール、使い方説明のページはいっぱいあります。
+が。アンインストールの説明をしているページはほとんどありません。
+「アプリケーションの削除でいいんじゃね？」とお思いでしょう。
+実際はそれでいいんですが（ぇ
+実はこのDaemon Tools、ただではアンインストールされてくれないんです。今日はそんなお話･･･</p><p>事の始まりは、Call of DutyというFPSのゲームを買ってきたこと。
+友達数人でFPSでもやろうということで買ってきたんですが･･･
+まずインストール。何事もなく終わる。
+そして起動。
+･･･あれ？
+「CD/DVDエミュレーションソフトが起動してるので止めて下さいね♪」
+とか言われて起動できず。最近のゲームは生意気言うようになったんだなぁ。
+心当たりがあるのはDaemon Toolのみなので、早速削除してみる。
+そして起動。「CD/DVD(略)」むーん。
+もしかしたらなんか残ってるのかなぁ?と思ってドライブを確認。仮想ドライブがしっかり残ってます。
+原因は
+イメージマウントしたままアンインストールしてた(泣)
+調べてみると、デバイスマネージャから「PnP BIOS Extension」を削除すればおっけーらしい。
+しかし！「(略)」ちくしょう。
+一度Daemon入れ直して、もう一度アンインストール。結果は変わらず。
+もしや徹底的に消さないといけないのかと思い、ネットを見ながら手動アンインストール。
+しっかしこれ･･･DLLやレジストリが残ってるのはなんとなくわかるが
+ProgramFilesの中身まで全部残ってる。
+なんだこの超いい加減インストーラー。
+ようやく削除も完了。DLLからレジストリからよくぞまあここまで浸食してるもんだ・・・
+で、ゲーム起動「(ry 」･･･(&lsquo;A`)
+ここらへんで半分諦めてネットをぼーっとみてみる。
+手動アンインストールの時に見ていたページをよーく見てみると・・・
+CloneCDが原因です
+･･････
+落ち着いてCloneTray起動。
+「Hide CDR Media」に一回チェックを入れて、外す。
+ゲーム起動。
+とほほほほほ･･････
+直接の原因はDaemonじゃなかったのか。ごめんよDaemon様。
+しかしまあ、Daemonのファイルの削除されないっぷりがわかったからいいか･･･ノートン先生2004なんかも正常にアンインストールできない(Symantecのサイトにあるアンインストーラ使っても、ゴミが残る)のを味わったのもあり、便利なソフトでも罠が潜んでいることもある、ということでした。まる。
+参考URL:funny story
+Daemonのインストール・使用方法・FAQやアンインストール詳しく載ってます。今回見ていたのも全部ここだったりします。
+というより、アンインストールの話題がまともに書いてあるサイト、ここだけだった・・・(探せてないだけかもしれんが)</p></div></div></div><script src=https://gomlog.com/js/ui.js></script><script src=https://gomlog.com/js/menus.js></script><script>if(window.location.hostname!="localhost"){(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-769146-3','auto');ga('send','pageview');}</script></body></html>

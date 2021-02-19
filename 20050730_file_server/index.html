@@ -1,258 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="">
-  <meta name="generator" content="Hugo 0.54-DEV" />
-
-  <title>ファイルサーバー &middot; gomlog</title>
-
-  
-  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
-
-  <!--[if lte IE 8]>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css">
-  <![endif]-->
-  <!--[if gt IE 8]><!-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css">
-  <!--<![endif]-->
-
-  <!--[if lte IE 8]>
-  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
-  <![endif]-->
-  <!--[if gt IE 8]><!-->
-  <link rel="stylesheet" href="/css/side-menu.css">
-  <!--<![endif]-->
-
-  <link rel="stylesheet" href="/css/blackburn.css">
-
-  
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
-  
-  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
-
-  
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
- 
-  
-
-  
-
-  <link rel="shortcut icon" href="https://gomlog.com/img/favicon.ico" type="image/x-icon" />
-
-  
-  
-
-</head>
-
-
-<body>
-<div id="layout">
-
-  
-<a href="#menu" id="menuLink" class="menu-link">
-  
-  <span></span>
-</a>
-<div id="menu">
-
-  
-  <a class="pure-menu-heading brand" href="/">gomlog</a>
-
-
-  <div class="pure-menu">
-    <ul class="pure-menu-list">
-      
-      
-        <li class="pure-menu-item">
-          <a class="pure-menu-link" href="/post/"><i class='fa fa-list fa-fw'></i>Posts</a>
-      
-        </li>
-      
-      
-        <li class="pure-menu-item">
-          <a class="pure-menu-link" href="/"><i class='fa fa-home fa-fw'></i>Home</a>
-      
-        </li>
-      
-    </ul>
-  </div>
-
-  <div class="pure-menu social">
-  <ul class="pure-menu-list">
-
-    
-
-    
-
-    
-    <li class="pure-menu-item">
-      <a class="pure-menu-link" href="https://twitter.com/gom" target="_blank"><i class="fa fa-twitter-square fa-fw"></i>Twitter</a>
-    </li>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <li class="pure-menu-item">
-      <a class="pure-menu-link" href="https://github.com/gom" target="_blank"><i class="fa fa-github-square fa-fw"></i>GitHub</a>
-    </li>
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-  </ul>
-</div>
-
-
-  <div>
-  <div class="small-print">
-    <small></small>
-  </div>
-  <div class="small-print">
-    <small>Built with&nbsp;<a href="https://gohugo.io/" target="_blank">Hugo</a></small>
-    <small>Theme&nbsp;<a href="https://github.com/yoshiharuyamashita/blackburn" target="_blank">Blackburn</a></small>
-  </div>
-</div>
-
-</div>
-
-
-  <div id="main">
-
-
-<div class="header">
-  <h1>ファイルサーバー</h1>
-  <h2></h2>
-</div>
-<div class="content">
-  <p>さて、キーボードを購入してきました。<br />
-<a href="http://www.topre.co.jp/products/comp/key_list.html">Realforce101（PS/2）ML01</a><br />
-なぜか101英語キーボード。さっき接続を完了したのですが、配置が違ったり、日本語切り替えがAlt+`だったりで慣れないうちは使いづらそうです。<br />
-でも、それを補って余りあるのが･･･打ちやすさ。キーが軽い軽い♪<br />
-英語配列が打ちづらいなら、106日本語配列買えばいいじゃん！！という声が聞こえてきそうですが、気にしない。こっちの方がなんかかっこよさそうじゃん！とか思って買ったのは秘密。<br />
-･･･そこ、バカとか言わない_|￣|○<br />
-ちょっとでも早く慣れるためにも、ネタが続く限り毎日更新！！を目指そうかと。<br />
-<br />
-はてさて、今日の本題はこれではないのです。<a></a></p>
-
-<p>実はうち、デスクトップとノートが1台づつあるのです。<br />
-ノートは破格で手に入れたPen3-1GHzマシン。<br />
-もう2年くらいうちにあるのですが、ろくな使い方をされてません(;-_-)<br />
-最近HDDも手狭になってきたので、ファイルサーバー化することにしました。<br />
-元々Win2kが入っているのですが、このまま使っても面白くない。<br />
-<br />
-というわけで･･･Linux導入！<br />
-｢はじめてのFedora Core4｣という本を買ってきてお勉強中。<br />
-今現在インストールの真っ最中でございます。<br />
-<br />
-予定としては･･･<br />
-・FTPサーバー<br />
-・Webサーバー<br />
-・↑をとMySQL導入してMTを使ってみる<br />
-・ついでにPHP使ってBlog自作<br />
-<br />
-てな感じです。<br />
-今書いた事って、超初歩的な事だなぁと実感。<br />
-サーバーの構築・管理・運用のステップがちゃんと踏めるようになるのはいつのことだろう･･･<br />
-<br />
-可能であれば身内公開する予定。一般公開するとえらいことになりそうで怖いので、知り合いに開放のみになるかなぁ･･･<br />
-まあ、当分は良い遊び道具になりそうです。<br />
-<br />
-P.S.　キーボードのレポートは来週くらいに書くかも。<br />
-では?</p>
-</div>
-
-</div>
-</div>
-<script src="https://gomlog.com/js/ui.js"></script>
-<script src="https://gomlog.com/js/menus.js"></script>
-
-
-<script>
-  
-  if (window.location.hostname != "localhost") {
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-769146-3', 'auto');
-    ga('send', 'pageview');
-  }
-</script>
-
-
-
-
-
-</body>
-</html>
-
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content><meta name=generator content="Hugo 0.80.0"><title>ファイルサーバー &#183; gomlog</title><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css><!--[if lte IE 8]><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css><![endif]--><!--[if gt IE 8]><!--><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css><!--<![endif]--><!--[if lte IE 8]><link rel=stylesheet href=/css/side-menu-old-ie.css><![endif]--><!--[if gt IE 8]><!--><link rel=stylesheet href=/css/side-menu.css><!--<![endif]--><link rel=stylesheet href=/css/blackburn.css><link rel=stylesheet href=https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css><link href="https://fonts.googleapis.com/css?family=Raleway" rel=stylesheet type=text/css><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><link rel="shortcut icon" href=https://gomlog.com/img/favicon.ico type=image/x-icon></head><body><div id=layout><a href=#menu id=menuLink class=menu-link><span></span></a><div id=menu><a class="pure-menu-heading brand" href=/>gomlog</a><div class=pure-menu><ul class=pure-menu-list><li class=pure-menu-item><a class=pure-menu-link href=/post/><i class="fa fa-list fa-fw"></i>Posts</a></li><li class=pure-menu-item><a class=pure-menu-link href=/><i class="fa fa-home fa-fw"></i>Home</a></li></ul></div><div class="pure-menu social"><ul class=pure-menu-list><li class=pure-menu-item><a class=pure-menu-link href=https://twitter.com/gom target=_blank><i class="fa fa-twitter-square fa-fw"></i>Twitter</a></li><li class=pure-menu-item><a class=pure-menu-link href=https://github.com/gom target=_blank><i class="fa fa-github-square fa-fw"></i>GitHub</a></li></ul></div><div><div class=small-print><small></small></div><div class=small-print><small>Built with&nbsp;<a href=https://gohugo.io/ target=_blank>Hugo</a></small>
+<small>Theme&nbsp;<a href=https://github.com/yoshiharuyamashita/blackburn target=_blank>Blackburn</a></small></div></div></div><div id=main><div class=header><h1>ファイルサーバー</h1><h2></h2></div><div class=content><p>さて、キーボードを購入してきました。
+Realforce101（PS/2）ML01
+なぜか101英語キーボード。さっき接続を完了したのですが、配置が違ったり、日本語切り替えがAlt+`だったりで慣れないうちは使いづらそうです。
+でも、それを補って余りあるのが･･･打ちやすさ。キーが軽い軽い♪
+英語配列が打ちづらいなら、106日本語配列買えばいいじゃん！！という声が聞こえてきそうですが、気にしない。こっちの方がなんかかっこよさそうじゃん！とか思って買ったのは秘密。
+･･･そこ、バカとか言わない_|￣|○
+ちょっとでも早く慣れるためにも、ネタが続く限り毎日更新！！を目指そうかと。
+はてさて、今日の本題はこれではないのです。</p><p>実はうち、デスクトップとノートが1台づつあるのです。
+ノートは破格で手に入れたPen3-1GHzマシン。
+もう2年くらいうちにあるのですが、ろくな使い方をされてません(;-_-)
+最近HDDも手狭になってきたので、ファイルサーバー化することにしました。
+元々Win2kが入っているのですが、このまま使っても面白くない。
+というわけで･･･Linux導入！
+｢はじめてのFedora Core4｣という本を買ってきてお勉強中。
+今現在インストールの真っ最中でございます。
+予定としては･･･
+・FTPサーバー
+・Webサーバー
+・↑をとMySQL導入してMTを使ってみる
+・ついでにPHP使ってBlog自作
+てな感じです。
+今書いた事って、超初歩的な事だなぁと実感。
+サーバーの構築・管理・運用のステップがちゃんと踏めるようになるのはいつのことだろう･･･
+可能であれば身内公開する予定。一般公開するとえらいことになりそうで怖いので、知り合いに開放のみになるかなぁ･･･
+まあ、当分は良い遊び道具になりそうです。
+P.S.　キーボードのレポートは来週くらいに書くかも。
+では?</p></div></div></div><script src=https://gomlog.com/js/ui.js></script><script src=https://gomlog.com/js/menus.js></script><script>if(window.location.hostname!="localhost"){(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-769146-3','auto');ga('send','pageview');}</script></body></html>

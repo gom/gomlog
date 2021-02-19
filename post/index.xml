@@ -1,54 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on gomlog</title>
-    <link>https://gomlog.com/post/</link>
-    <description>Recent content in Posts on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Tue, 01 Jan 2019 17:00:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>2018年を振り返る</title>
-      <link>https://gomlog.com/post/20190101_look_back_2018/</link>
-      <pubDate>Tue, 01 Jan 2019 17:00:00 +0900</pubDate>
-      
-      <guid>https://gomlog.com/post/20190101_look_back_2018/</guid>
-      <description>&lt;p&gt;振り返っていたけど、2018年はわりと平穏な感じだった。
-大イベントも特になかったので、買ったものでも振り返ってみる&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>アルスラーン戦記 16 読了</title>
-      <link>https://gomlog.com/post/20171231_last_arslan/</link>
-      <pubDate>Sun, 31 Dec 2017 21:30:00 +0900</pubDate>
-      
-      <guid>https://gomlog.com/post/20171231_last_arslan/</guid>
-      <description>&lt;p&gt;先週買ってから全然読めてなかったのだけど、
-年の瀬で家族がテレビに見入っている間に、一気に読み切りました。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>wercker</title>
-      <link>https://gomlog.com/post/20170119_wercker/</link>
-      <pubDate>Thu, 19 Jan 2017 00:26:59 +0900</pubDate>
-      
-      <guid>https://gomlog.com/post/20170119_wercker/</guid>
-      <description>wercker でビルドするようにしてみたのでテスト。
-何年か前に遊んでたけど、随分UIも変わっていた。</description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://gomlog.com/post/20170104_hugo/</link>
-      <pubDate>Wed, 04 Jan 2017 23:06:12 +0900</pubDate>
-      
-      <guid>https://gomlog.com/post/20170104_hugo/</guid>
-      <description>Hugo 使ってみた。 ついでに古い記事を一覧からは見えないようにした</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on gomlog</title><link>https://gomlog.com/post/</link><description>Recent content in Posts on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 18 Feb 2021 18:00:00 +0900</lastBuildDate><atom:link href="https://gomlog.com/post/index.xml" rel="self" type="application/rss+xml"/><item><title>左右分割型キーボード Mistel BAROCCO MD770 RGB BT を買った</title><link>https://gomlog.com/post/20210218_barocco_md770/</link><pubDate>Thu, 18 Feb 2021 18:00:00 +0900</pubDate><guid>https://gomlog.com/post/20210218_barocco_md770/</guid><description>Work from home が続くのと、タイプするときに胸がすぼまって肩が凝るので左右分離型キーボードが欲しくなった。 最近話題の自作キーボードにも挑戦したかったけど、ハンダごて握ったこともないので既製品にした。
+Mistel BAROCCO MD770 RGB BT
+BTいらなかったけど、在庫なかったのでこちらを購入。静音赤軸。 普段HHKB使ってて、メカニカル初体験だったけど、スコスコと軽くてしずかでいい感じの打ち心地。 キー配列のカスタマイズやマクロもあるので、キーマッピングツールがなくてもそこそこ生活できてしまう。
+ただ、左側の入力がちょっと遅くて、&amp;ldquo;su&amp;quot;と打つといつも&amp;quot;us&amp;quot;になってしまってイライラする。
+これはファームウェアアップデートを適用したらなおった。日本の代理店にある方はすこし古いので、Mistelからダウンロードした。
+https://archisite.co.jp/support/faqkeyboard/#barocco https://www.mistelkeyboard.com/products/94f05206cb24bbeeb103e664e89d7b98 期待通り肩まわりがガチガチになることが少なくなった気がするので、もう少し使い続けてみたい。 ただ、持ち運ぶにはちょっとゴツいので、会社に行くときはHHKB持っていって使っている。
+次はモニターを新調したいな。</description></item><item><title>2018年を振り返る</title><link>https://gomlog.com/post/20190101_look_back_2018/</link><pubDate>Tue, 01 Jan 2019 17:00:00 +0900</pubDate><guid>https://gomlog.com/post/20190101_look_back_2018/</guid><description>&lt;p>振り返っていたけど、2018年はわりと平穏な感じだった。
+大イベントも特になかったので、買ったものでも振り返ってみる&lt;/p></description></item><item><title>アルスラーン戦記 16 読了</title><link>https://gomlog.com/post/20171231_last_arslan/</link><pubDate>Sun, 31 Dec 2017 21:30:00 +0900</pubDate><guid>https://gomlog.com/post/20171231_last_arslan/</guid><description>&lt;p>先週買ってから全然読めてなかったのだけど、
+年の瀬で家族がテレビに見入っている間に、一気に読み切りました。&lt;/p></description></item><item><title>wercker</title><link>https://gomlog.com/post/20170119_wercker/</link><pubDate>Thu, 19 Jan 2017 00:26:59 +0900</pubDate><guid>https://gomlog.com/post/20170119_wercker/</guid><description>wercker でビルドするようにしてみたのでテスト。
+何年か前に遊んでたけど、随分UIも変わっていた。</description></item><item><title>Hugo</title><link>https://gomlog.com/post/20170104_hugo/</link><pubDate>Wed, 04 Jan 2017 23:06:12 +0900</pubDate><guid>https://gomlog.com/post/20170104_hugo/</guid><description>Hugo 使ってみた。 ついでに古い記事を一覧からは見えないようにした</description></item></channel></rss>

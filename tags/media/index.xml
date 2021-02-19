@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Media on gomlog</title>
-    <link>https://gomlog.com/tags/media/</link>
-    <description>Recent content in Media on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Sun, 20 Apr 2008 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/media/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>報道は事実の一つの切り口しか見せていない</title>
-      <link>https://gomlog.com/20080420_media/</link>
-      <pubDate>Sun, 20 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20080420_media/</guid>
-      <description>ブクマ代わりのメモ。ゾッとした。
-「騒音おばさん」に実刑判決････その裏に隠された真実！！ - ｋｏｂａちゃんの徒然なるままに - Yahoo!ブログ
-詳しくはリンク先を読んでね。 報道は事実の側面のみを語っているし、どう見せたいかという意図を持って報じている。 メディアが語ったことだけが真実ではない。それも一つの見方だということ。 もちろん上記のブログが真実とも言い切れないし、確かめる術はない。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>media on gomlog</title><link>https://gomlog.com/tags/media/</link><description>Recent content in media on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Apr 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://gomlog.com/tags/media/index.xml" rel="self" type="application/rss+xml"/><item><title>報道は事実の一つの切り口しか見せていない</title><link>https://gomlog.com/20080420_media/</link><pubDate>Sun, 20 Apr 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20080420_media/</guid><description>ブクマ代わりのメモ。ゾッとした。
+「騒音おばさん」に実刑判決････その裏に隠された真実！！ - ｋｏｂａちゃんの徒然なるままに - Yahoo!ブログ詳しくはリンク先を読んでね。 報道は事実の側面のみを語っているし、どう見せたいかという意図を持って報じている。 メディアが語ったことだけが真実ではない。それも一つの見方だということ。 もちろん上記のブログが真実とも言い切れないし、確かめる術はない。
 ただひとつ改めてわかるのは、 「テレビ・新聞が語っていることは、事実の一側面でしかない」ということ。 その切り口が誰の意志で選択されているのかはわからない。編集者の好みなのか、もっと別のなにかなのか。
-現代では様々なメディアを通じて、情報が容易に入手できるようになった。 一つの情報ソースを見て、それを鵜呑みにしてしまうことがどのような結果を招くか･･･その一例を見せつけられた気分だ。</description>
-    </item>
-    
-  </channel>
-</rss>
+現代では様々なメディアを通じて、情報が容易に入手できるようになった。 一つの情報ソースを見て、それを鵜呑みにしてしまうことがどのような結果を招くか･･･その一例を見せつけられた気分だ。</description></item></channel></rss>

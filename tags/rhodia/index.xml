@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rhodia on gomlog</title>
-    <link>https://gomlog.com/tags/rhodia/</link>
-    <description>Recent content in Rhodia on gomlog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Tue, 04 Nov 2008 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gomlog.com/tags/rhodia/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Moleskin Square Notebook</title>
-      <link>https://gomlog.com/20081104_moleskin-square-notebook/</link>
-      <pubDate>Tue, 04 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://gomlog.com/20081104_moleskin-square-notebook/</guid>
-      <description>ユビキタス・キャプチャ用に買ったMoleskinが、ようやく消化された。 なんでも記録！ってわけにもいかず、日常にちょこちょことメモや思ったことを綴るくらいだと、1年半も保つわけで。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rhodia on gomlog</title><link>https://gomlog.com/tags/rhodia/</link><description>Recent content in rhodia on gomlog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 04 Nov 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://gomlog.com/tags/rhodia/index.xml" rel="self" type="application/rss+xml"/><item><title>Moleskin Square Notebook</title><link>https://gomlog.com/20081104_moleskin-square-notebook/</link><pubDate>Tue, 04 Nov 2008 00:00:00 +0000</pubDate><guid>https://gomlog.com/20081104_moleskin-square-notebook/</guid><description>ユビキタス・キャプチャ用に買ったMoleskinが、ようやく消化された。 なんでも記録！ってわけにもいかず、日常にちょこちょことメモや思ったことを綴るくらいだと、1年半も保つわけで。
 というわけでMoleskinを買い足し。 以前はRuled(横罫)だったが、どうにも図とかが書きにくい。なので、今度はSquare(方眼)にしてみた。 併せて使っているRhodiaの方眼メモ帳がとても書きやすいというのもある。
-さて、次のノートは一体どんな記憶が溜まっていくのかな？？
-    </description>
-    </item>
-    
-  </channel>
-</rss>
+さて、次のノートは一体どんな記憶が溜まっていくのかな？？</description></item></channel></rss>
