@@ -5,27 +5,22 @@ baseurl = "https://gomlog.com/"
 theme = "blackburn"
 
 paginate = "10"
-disqusShortname = "gomlog"
-googleAnalytics = "UA-769146-3"
+canonifyurls = true
 
 [indexes]
   tag = "tags"
   topic = "topics"
 
-[Params]
+[params]
     site_author = "gom"
     site_description = "gom's diary"
-    #location = "A Programmer"
-    # Link custom assets relative to /static
-    #avatar = "img/profile-image.png"
-    #header_background = "img/desk.jpg"
-    #header_title = "gomlog"
-    #copyright = "gomlog.com"
 
     brand = "gomlog"
     subtitle = "いきあたりばったり"
     disqus = "gomlog"
     googleAnalytics = "UA-769146-3"
+    amazonJpAffiliate = "gomlog-22"
+    custom_css = ["css/amazon.css"]
 
 [social]
     twitter = "gom"

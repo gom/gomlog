@@ -14,4 +14,4 @@ tags = ["diary", "book" ]
 
 作者らしい終わり方で、感慨深いやらやっぱりなーという気分やら、複雑な気分です。
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=gomlog-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4334077358&linkId=b3c598bb21ebcd7a947cfaf83d4f5c3d"></iframe>
+{{< amazon asin="4334077358" title="天涯無限 アルスラーン戦記 16 (カッパ・ノベルス)" >}}
