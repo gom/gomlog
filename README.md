@@ -1,3 +1,7 @@
-[![wercker status](https://app.wercker.com/status/4079b71054496f4edde01c2d626d6773/s/master "wercker status")](https://app.wercker.com/project/byKey/4079b71054496f4edde01c2d626d6773)
+# gomlog
+
+[![Deploy to Pages](https://github.com/gom/gomlog/actions/workflows/hugo.yml/badge.svg)](https://github.com/gom/gomlog/actions/workflows/hugo.yml)
+
+Personal blog
 
 https://gomlog.com
